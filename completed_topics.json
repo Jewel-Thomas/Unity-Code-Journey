@@ -3,7 +3,7 @@
     "Observer": true,
     "Strategy": true,
     "Factory": true,
-    "AbstractFactory": false,
+    "AbstractFactory": true,
     "Decorator": false,
     "Command": false,
     "State": false,
