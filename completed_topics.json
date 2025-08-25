@@ -7,7 +7,7 @@
     "Decorator": true,
     "Command": true,
     "State": true,
-    "Prototype": false,
+    "Prototype": true,
     "Adapter": false,
     "Facade": false,
     "Mediator": false,
