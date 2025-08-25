@@ -4,7 +4,7 @@
     "Strategy": true,
     "Factory": true,
     "AbstractFactory": true,
-    "Decorator": false,
+    "Decorator": true,
     "Command": false,
     "State": false,
     "Prototype": false,
