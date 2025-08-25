@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 6/78 (7.7%)
+## Progress: 7/78 (9.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -11,9 +11,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ Factory
 - ✅ AbstractFactory
 - ✅ Decorator
+- ✅ Command
 
 ### Remaining Patterns:
-- ⏳ Command
 - ⏳ State
 - ⏳ Prototype
 - ⏳ Adapter

@@ -5,7 +5,7 @@
     "Factory": true,
     "AbstractFactory": true,
     "Decorator": true,
-    "Command": false,
+    "Command": true,
     "State": false,
     "Prototype": false,
     "Adapter": false,
