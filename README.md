@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 15/78 (19.2%)
+## Progress: 16/78 (20.5%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -20,9 +20,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ Builder
 - ✅ ChainOfResponsibility
 - ✅ Visitor
+- ✅ TemplateMethod
 
 ### Remaining Patterns:
-- ⏳ TemplateMethod
 - ⏳ DependencyInjection
 - ⏳ EventSystem
 - ⏳ ScriptableObjects

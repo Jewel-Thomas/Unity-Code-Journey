@@ -14,7 +14,7 @@
     "Builder": true,
     "ChainOfResponsibility": true,
     "Visitor": true,
-    "TemplateMethod": false,
+    "TemplateMethod": true,
     "DependencyInjection": false,
     "EventSystem": false,
     "ScriptableObjects": false,
