@@ -12,7 +12,7 @@
     "Facade": true,
     "Mediator": true,
     "Builder": true,
-    "ChainOfResponsibility": false,
+    "ChainOfResponsibility": true,
     "Visitor": false,
     "TemplateMethod": false,
     "DependencyInjection": false,
