@@ -9,7 +9,7 @@
     "State": true,
     "Prototype": true,
     "Adapter": true,
-    "Facade": false,
+    "Facade": true,
     "Mediator": false,
     "Builder": false,
     "ChainOfResponsibility": false,
