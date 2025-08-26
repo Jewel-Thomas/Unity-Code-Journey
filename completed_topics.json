@@ -13,7 +13,7 @@
     "Mediator": true,
     "Builder": true,
     "ChainOfResponsibility": true,
-    "Visitor": false,
+    "Visitor": true,
     "TemplateMethod": false,
     "DependencyInjection": false,
     "EventSystem": false,
