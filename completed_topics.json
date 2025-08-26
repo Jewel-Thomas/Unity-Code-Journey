@@ -16,7 +16,7 @@
     "Visitor": true,
     "TemplateMethod": true,
     "DependencyInjection": true,
-    "EventSystem": false,
+    "EventSystem": true,
     "ScriptableObjects": false,
     "ObjectPooling": false,
     "ComponentBasedArchitecture": false,
