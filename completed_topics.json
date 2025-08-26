@@ -10,7 +10,7 @@
     "Prototype": true,
     "Adapter": true,
     "Facade": true,
-    "Mediator": false,
+    "Mediator": true,
     "Builder": false,
     "ChainOfResponsibility": false,
     "Visitor": false,
