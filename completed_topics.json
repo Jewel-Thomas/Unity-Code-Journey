@@ -15,7 +15,7 @@
     "ChainOfResponsibility": true,
     "Visitor": true,
     "TemplateMethod": true,
-    "DependencyInjection": false,
+    "DependencyInjection": true,
     "EventSystem": false,
     "ScriptableObjects": false,
     "ObjectPooling": false,
