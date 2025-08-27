@@ -21,7 +21,7 @@
     "ObjectPooling": true,
     "ComponentBasedArchitecture": true,
     "ServiceLocator": true,
-    "DataDrivenDesign": false,
+    "DataDrivenDesign": true,
     "EventBus": false,
     "CoroutinePatterns": false,
     "AIStateMachine": false,
