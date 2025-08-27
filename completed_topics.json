@@ -17,7 +17,7 @@
     "TemplateMethod": true,
     "DependencyInjection": true,
     "EventSystem": true,
-    "ScriptableObjects": false,
+    "ScriptableObjects": true,
     "ObjectPooling": false,
     "ComponentBasedArchitecture": false,
     "ServiceLocator": false,
