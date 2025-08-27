@@ -20,7 +20,7 @@
     "ScriptableObjects": true,
     "ObjectPooling": true,
     "ComponentBasedArchitecture": true,
-    "ServiceLocator": false,
+    "ServiceLocator": true,
     "DataDrivenDesign": false,
     "EventBus": false,
     "CoroutinePatterns": false,

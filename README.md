@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 21/78 (26.9%)
+## Progress: 22/78 (28.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -26,9 +26,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ ScriptableObjects
 - ✅ ObjectPooling
 - ✅ ComponentBasedArchitecture
+- ✅ ServiceLocator
 
 ### Remaining Patterns:
-- ⏳ ServiceLocator
 - ⏳ DataDrivenDesign
 - ⏳ EventBus
 - ⏳ CoroutinePatterns
