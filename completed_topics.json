@@ -19,7 +19,7 @@
     "EventSystem": true,
     "ScriptableObjects": true,
     "ObjectPooling": true,
-    "ComponentBasedArchitecture": false,
+    "ComponentBasedArchitecture": true,
     "ServiceLocator": false,
     "DataDrivenDesign": false,
     "EventBus": false,
