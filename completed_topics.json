@@ -24,7 +24,7 @@
     "DataDrivenDesign": true,
     "EventBus": true,
     "CoroutinePatterns": true,
-    "AIStateMachine": false,
+    "AIStateMachine": true,
     "BehaviorTree": false,
     "FiniteStateMachine": false,
     "InputManagerPattern": false,
