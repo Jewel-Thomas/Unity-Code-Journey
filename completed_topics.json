@@ -25,7 +25,7 @@
     "EventBus": true,
     "CoroutinePatterns": true,
     "AIStateMachine": true,
-    "BehaviorTree": false,
+    "BehaviorTree": true,
     "FiniteStateMachine": false,
     "InputManagerPattern": false,
     "CustomEditorScripts": false,
