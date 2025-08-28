@@ -27,7 +27,7 @@
     "AIStateMachine": true,
     "BehaviorTree": true,
     "FiniteStateMachine": true,
-    "InputManagerPattern": false,
+    "InputManagerPattern": true,
     "CustomEditorScripts": false,
     "AnimationControllerPattern": false,
     "SceneManagementPatterns": false,
