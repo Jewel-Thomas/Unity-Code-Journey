@@ -26,7 +26,7 @@
     "CoroutinePatterns": true,
     "AIStateMachine": true,
     "BehaviorTree": true,
-    "FiniteStateMachine": false,
+    "FiniteStateMachine": true,
     "InputManagerPattern": false,
     "CustomEditorScripts": false,
     "AnimationControllerPattern": false,
