@@ -23,7 +23,7 @@
     "ServiceLocator": true,
     "DataDrivenDesign": true,
     "EventBus": true,
-    "CoroutinePatterns": false,
+    "CoroutinePatterns": true,
     "AIStateMachine": false,
     "BehaviorTree": false,
     "FiniteStateMachine": false,
