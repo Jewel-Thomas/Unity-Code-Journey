@@ -22,7 +22,7 @@
     "ComponentBasedArchitecture": true,
     "ServiceLocator": true,
     "DataDrivenDesign": true,
-    "EventBus": false,
+    "EventBus": true,
     "CoroutinePatterns": false,
     "AIStateMachine": false,
     "BehaviorTree": false,
