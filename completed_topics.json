@@ -33,7 +33,7 @@
     "SceneManagementPatterns": true,
     "PrefabSystem": true,
     "ResourceManagementPatterns": true,
-    "DependencyGraph": false,
+    "DependencyGraph": true,
     "ObserverWithEvents": false,
     "SingletonWithLazyInit": false,
     "UIManagerPattern": false,
