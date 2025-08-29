@@ -32,7 +32,7 @@
     "AnimationControllerPattern": true,
     "SceneManagementPatterns": true,
     "PrefabSystem": true,
-    "ResourceManagementPatterns": false,
+    "ResourceManagementPatterns": true,
     "DependencyGraph": false,
     "ObserverWithEvents": false,
     "SingletonWithLazyInit": false,
