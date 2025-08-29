@@ -29,7 +29,7 @@
     "FiniteStateMachine": true,
     "InputManagerPattern": true,
     "CustomEditorScripts": true,
-    "AnimationControllerPattern": false,
+    "AnimationControllerPattern": true,
     "SceneManagementPatterns": false,
     "PrefabSystem": false,
     "ResourceManagementPatterns": false,
