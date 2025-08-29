@@ -34,7 +34,7 @@
     "PrefabSystem": true,
     "ResourceManagementPatterns": true,
     "DependencyGraph": true,
-    "ObserverWithEvents": false,
+    "ObserverWithEvents": true,
     "SingletonWithLazyInit": false,
     "UIManagerPattern": false,
     "AudioManagerPattern": false,
