@@ -30,7 +30,7 @@
     "InputManagerPattern": true,
     "CustomEditorScripts": true,
     "AnimationControllerPattern": true,
-    "SceneManagementPatterns": false,
+    "SceneManagementPatterns": true,
     "PrefabSystem": false,
     "ResourceManagementPatterns": false,
     "DependencyGraph": false,
