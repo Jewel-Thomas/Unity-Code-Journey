@@ -28,7 +28,7 @@
     "BehaviorTree": true,
     "FiniteStateMachine": true,
     "InputManagerPattern": true,
-    "CustomEditorScripts": false,
+    "CustomEditorScripts": true,
     "AnimationControllerPattern": false,
     "SceneManagementPatterns": false,
     "PrefabSystem": false,

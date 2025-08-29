@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 29/78 (37.2%)
+## Progress: 30/78 (38.5%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -34,9 +34,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ BehaviorTree
 - ✅ FiniteStateMachine
 - ✅ InputManagerPattern
+- ✅ CustomEditorScripts
 
 ### Remaining Patterns:
-- ⏳ CustomEditorScripts
 - ⏳ AnimationControllerPattern
 - ⏳ SceneManagementPatterns
 - ⏳ PrefabSystem
