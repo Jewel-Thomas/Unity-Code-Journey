@@ -31,7 +31,7 @@
     "CustomEditorScripts": true,
     "AnimationControllerPattern": true,
     "SceneManagementPatterns": true,
-    "PrefabSystem": false,
+    "PrefabSystem": true,
     "ResourceManagementPatterns": false,
     "DependencyGraph": false,
     "ObserverWithEvents": false,
