@@ -37,7 +37,7 @@
     "ObserverWithEvents": true,
     "SingletonWithLazyInit": true,
     "UIManagerPattern": true,
-    "AudioManagerPattern": false,
+    "AudioManagerPattern": true,
     "SaveLoadSystem": false,
     "PoolingManager": false,
     "EventDrivenProgramming": false,
