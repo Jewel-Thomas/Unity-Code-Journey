@@ -39,7 +39,7 @@
     "UIManagerPattern": true,
     "AudioManagerPattern": true,
     "SaveLoadSystem": true,
-    "PoolingManager": false,
+    "PoolingManager": true,
     "EventDrivenProgramming": false,
     "PhysicsManagerPattern": false,
     "LocalizationSystem": false,
