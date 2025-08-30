@@ -42,7 +42,7 @@
     "PoolingManager": true,
     "EventDrivenProgramming": true,
     "PhysicsManagerPattern": true,
-    "LocalizationSystem": false,
+    "LocalizationSystem": true,
     "LoggingSystemPattern": false,
     "CustomInspectorPattern": false,
     "NetworkManagerPattern": false,
