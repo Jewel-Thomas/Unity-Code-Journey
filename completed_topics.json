@@ -36,7 +36,7 @@
     "DependencyGraph": true,
     "ObserverWithEvents": true,
     "SingletonWithLazyInit": true,
-    "UIManagerPattern": false,
+    "UIManagerPattern": true,
     "AudioManagerPattern": false,
     "SaveLoadSystem": false,
     "PoolingManager": false,

@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 37/78 (47.4%)
+## Progress: 38/78 (48.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -42,9 +42,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ DependencyGraph
 - ✅ ObserverWithEvents
 - ✅ SingletonWithLazyInit
+- ✅ UIManagerPattern
 
 ### Remaining Patterns:
-- ⏳ UIManagerPattern
 - ⏳ AudioManagerPattern
 - ⏳ SaveLoadSystem
 - ⏳ PoolingManager
