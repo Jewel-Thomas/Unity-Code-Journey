@@ -40,7 +40,7 @@
     "AudioManagerPattern": true,
     "SaveLoadSystem": true,
     "PoolingManager": true,
-    "EventDrivenProgramming": false,
+    "EventDrivenProgramming": true,
     "PhysicsManagerPattern": false,
     "LocalizationSystem": false,
     "LoggingSystemPattern": false,
