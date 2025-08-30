@@ -41,7 +41,7 @@
     "SaveLoadSystem": true,
     "PoolingManager": true,
     "EventDrivenProgramming": true,
-    "PhysicsManagerPattern": false,
+    "PhysicsManagerPattern": true,
     "LocalizationSystem": false,
     "LoggingSystemPattern": false,
     "CustomInspectorPattern": false,
