@@ -38,7 +38,7 @@
     "SingletonWithLazyInit": true,
     "UIManagerPattern": true,
     "AudioManagerPattern": true,
-    "SaveLoadSystem": false,
+    "SaveLoadSystem": true,
     "PoolingManager": false,
     "EventDrivenProgramming": false,
     "PhysicsManagerPattern": false,
