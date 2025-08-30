@@ -43,7 +43,7 @@
     "EventDrivenProgramming": true,
     "PhysicsManagerPattern": true,
     "LocalizationSystem": true,
-    "LoggingSystemPattern": false,
+    "LoggingSystemPattern": true,
     "CustomInspectorPattern": false,
     "NetworkManagerPattern": false,
     "GameplayTagSystem": false,
