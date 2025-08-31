@@ -47,7 +47,7 @@
     "CustomInspectorPattern": true,
     "NetworkManagerPattern": true,
     "GameplayTagSystem": true,
-    "InputActionMapping": false,
+    "InputActionMapping": true,
     "ScriptableEvents": false,
     "StateMachineBehaviour": false,
     "AnimationEventsPattern": false,
