@@ -44,7 +44,7 @@
     "PhysicsManagerPattern": true,
     "LocalizationSystem": true,
     "LoggingSystemPattern": true,
-    "CustomInspectorPattern": false,
+    "CustomInspectorPattern": true,
     "NetworkManagerPattern": false,
     "GameplayTagSystem": false,
     "InputActionMapping": false,
