@@ -49,7 +49,7 @@
     "GameplayTagSystem": true,
     "InputActionMapping": true,
     "ScriptableEvents": true,
-    "StateMachineBehaviour": false,
+    "StateMachineBehaviour": true,
     "AnimationEventsPattern": false,
     "ServicePattern": false,
     "RuntimeDataSerialization": false,
