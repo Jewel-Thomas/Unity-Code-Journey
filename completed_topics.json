@@ -45,7 +45,7 @@
     "LocalizationSystem": true,
     "LoggingSystemPattern": true,
     "CustomInspectorPattern": true,
-    "NetworkManagerPattern": false,
+    "NetworkManagerPattern": true,
     "GameplayTagSystem": false,
     "InputActionMapping": false,
     "ScriptableEvents": false,
