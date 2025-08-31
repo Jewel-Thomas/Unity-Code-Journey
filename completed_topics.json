@@ -48,7 +48,7 @@
     "NetworkManagerPattern": true,
     "GameplayTagSystem": true,
     "InputActionMapping": true,
-    "ScriptableEvents": false,
+    "ScriptableEvents": true,
     "StateMachineBehaviour": false,
     "AnimationEventsPattern": false,
     "ServicePattern": false,
