@@ -50,7 +50,7 @@
     "InputActionMapping": true,
     "ScriptableEvents": true,
     "StateMachineBehaviour": true,
-    "AnimationEventsPattern": false,
+    "AnimationEventsPattern": true,
     "ServicePattern": false,
     "RuntimeDataSerialization": false,
     "UndoRedoSystem": false,
