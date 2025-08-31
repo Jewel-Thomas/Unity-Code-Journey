@@ -51,7 +51,7 @@
     "ScriptableEvents": true,
     "StateMachineBehaviour": true,
     "AnimationEventsPattern": true,
-    "ServicePattern": false,
+    "ServicePattern": true,
     "RuntimeDataSerialization": false,
     "UndoRedoSystem": false,
     "AssetBundleManagement": false,
