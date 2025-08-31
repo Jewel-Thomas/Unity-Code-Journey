@@ -46,7 +46,7 @@
     "LoggingSystemPattern": true,
     "CustomInspectorPattern": true,
     "NetworkManagerPattern": true,
-    "GameplayTagSystem": false,
+    "GameplayTagSystem": true,
     "InputActionMapping": false,
     "ScriptableEvents": false,
     "StateMachineBehaviour": false,
