@@ -53,7 +53,7 @@
     "AnimationEventsPattern": true,
     "ServicePattern": true,
     "RuntimeDataSerialization": true,
-    "UndoRedoSystem": false,
+    "UndoRedoSystem": true,
     "AssetBundleManagement": false,
     "ProceduralGeneration": false,
     "TilemapPatterns": false,
