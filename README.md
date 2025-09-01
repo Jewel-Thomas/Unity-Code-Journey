@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 57/78 (73.1%)
+## Progress: 58/78 (74.4%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -62,9 +62,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ UndoRedoSystem
 - ✅ AssetBundleManagement
 - ✅ ProceduralGeneration
+- ✅ TilemapPatterns
 
 ### Remaining Patterns:
-- ⏳ TilemapPatterns
 - ⏳ EventQueueSystem
 - ⏳ AIUtilitySystem
 - ⏳ DialogueSystemPattern

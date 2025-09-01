@@ -56,7 +56,7 @@
     "UndoRedoSystem": true,
     "AssetBundleManagement": true,
     "ProceduralGeneration": true,
-    "TilemapPatterns": false,
+    "TilemapPatterns": true,
     "EventQueueSystem": false,
     "AIUtilitySystem": false,
     "DialogueSystemPattern": false,
