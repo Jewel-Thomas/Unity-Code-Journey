@@ -59,7 +59,7 @@
     "TilemapPatterns": true,
     "EventQueueSystem": true,
     "AIUtilitySystem": true,
-    "DialogueSystemPattern": false,
+    "DialogueSystemPattern": true,
     "CameraControllerPattern": false,
     "CustomPhysicsPatterns": false,
     "DynamicLevelLoader": false,
