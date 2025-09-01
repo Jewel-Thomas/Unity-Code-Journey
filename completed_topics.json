@@ -54,7 +54,7 @@
     "ServicePattern": true,
     "RuntimeDataSerialization": true,
     "UndoRedoSystem": true,
-    "AssetBundleManagement": false,
+    "AssetBundleManagement": true,
     "ProceduralGeneration": false,
     "TilemapPatterns": false,
     "EventQueueSystem": false,
