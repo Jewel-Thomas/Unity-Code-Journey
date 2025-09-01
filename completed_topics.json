@@ -58,7 +58,7 @@
     "ProceduralGeneration": true,
     "TilemapPatterns": true,
     "EventQueueSystem": true,
-    "AIUtilitySystem": false,
+    "AIUtilitySystem": true,
     "DialogueSystemPattern": false,
     "CameraControllerPattern": false,
     "CustomPhysicsPatterns": false,
