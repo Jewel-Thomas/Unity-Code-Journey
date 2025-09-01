@@ -57,7 +57,7 @@
     "AssetBundleManagement": true,
     "ProceduralGeneration": true,
     "TilemapPatterns": true,
-    "EventQueueSystem": false,
+    "EventQueueSystem": true,
     "AIUtilitySystem": false,
     "DialogueSystemPattern": false,
     "CameraControllerPattern": false,
