@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 53/78 (67.9%)
+## Progress: 54/78 (69.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -58,9 +58,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ StateMachineBehaviour
 - ✅ AnimationEventsPattern
 - ✅ ServicePattern
+- ✅ RuntimeDataSerialization
 
 ### Remaining Patterns:
-- ⏳ RuntimeDataSerialization
 - ⏳ UndoRedoSystem
 - ⏳ AssetBundleManagement
 - ⏳ ProceduralGeneration

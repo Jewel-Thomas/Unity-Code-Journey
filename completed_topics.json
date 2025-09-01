@@ -52,7 +52,7 @@
     "StateMachineBehaviour": true,
     "AnimationEventsPattern": true,
     "ServicePattern": true,
-    "RuntimeDataSerialization": false,
+    "RuntimeDataSerialization": true,
     "UndoRedoSystem": false,
     "AssetBundleManagement": false,
     "ProceduralGeneration": false,
