@@ -55,7 +55,7 @@
     "RuntimeDataSerialization": true,
     "UndoRedoSystem": true,
     "AssetBundleManagement": true,
-    "ProceduralGeneration": false,
+    "ProceduralGeneration": true,
     "TilemapPatterns": false,
     "EventQueueSystem": false,
     "AIUtilitySystem": false,
