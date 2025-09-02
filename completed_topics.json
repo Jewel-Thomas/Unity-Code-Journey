@@ -62,7 +62,7 @@
     "DialogueSystemPattern": true,
     "CameraControllerPattern": true,
     "CustomPhysicsPatterns": true,
-    "DynamicLevelLoader": false,
+    "DynamicLevelLoader": true,
     "AchievementSystem": false,
     "QuestSystemPattern": false,
     "InventorySystemPattern": false,
