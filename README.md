@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 68/78 (87.2%)
+## Progress: 69/78 (88.5%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -73,9 +73,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ QuestSystemPattern
 - ✅ InventorySystemPattern
 - ✅ SaveLoadWithJSON
+- ✅ LocalizationWithScriptableObjects
 
 ### Remaining Patterns:
-- ⏳ LocalizationWithScriptableObjects
 - ⏳ PlayerPrefsManager
 - ⏳ SceneTransitionManager
 - ⏳ PoolingWithGenerics

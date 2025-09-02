@@ -67,7 +67,7 @@
     "QuestSystemPattern": true,
     "InventorySystemPattern": true,
     "SaveLoadWithJSON": true,
-    "LocalizationWithScriptableObjects": false,
+    "LocalizationWithScriptableObjects": true,
     "PlayerPrefsManager": false,
     "SceneTransitionManager": false,
     "PoolingWithGenerics": false,
