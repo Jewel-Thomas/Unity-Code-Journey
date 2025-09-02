@@ -61,7 +61,7 @@
     "AIUtilitySystem": true,
     "DialogueSystemPattern": true,
     "CameraControllerPattern": true,
-    "CustomPhysicsPatterns": false,
+    "CustomPhysicsPatterns": true,
     "DynamicLevelLoader": false,
     "AchievementSystem": false,
     "QuestSystemPattern": false,
