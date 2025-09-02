@@ -64,7 +64,7 @@
     "CustomPhysicsPatterns": true,
     "DynamicLevelLoader": true,
     "AchievementSystem": true,
-    "QuestSystemPattern": false,
+    "QuestSystemPattern": true,
     "InventorySystemPattern": false,
     "SaveLoadWithJSON": false,
     "LocalizationWithScriptableObjects": false,
