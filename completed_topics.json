@@ -60,7 +60,7 @@
     "EventQueueSystem": true,
     "AIUtilitySystem": true,
     "DialogueSystemPattern": true,
-    "CameraControllerPattern": false,
+    "CameraControllerPattern": true,
     "CustomPhysicsPatterns": false,
     "DynamicLevelLoader": false,
     "AchievementSystem": false,
