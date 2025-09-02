@@ -63,7 +63,7 @@
     "CameraControllerPattern": true,
     "CustomPhysicsPatterns": true,
     "DynamicLevelLoader": true,
-    "AchievementSystem": false,
+    "AchievementSystem": true,
     "QuestSystemPattern": false,
     "InventorySystemPattern": false,
     "SaveLoadWithJSON": false,
