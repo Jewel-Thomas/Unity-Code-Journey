@@ -65,7 +65,7 @@
     "DynamicLevelLoader": true,
     "AchievementSystem": true,
     "QuestSystemPattern": true,
-    "InventorySystemPattern": false,
+    "InventorySystemPattern": true,
     "SaveLoadWithJSON": false,
     "LocalizationWithScriptableObjects": false,
     "PlayerPrefsManager": false,
