@@ -71,7 +71,7 @@
     "PlayerPrefsManager": true,
     "SceneTransitionManager": true,
     "PoolingWithGenerics": true,
-    "AudioMixerPattern": false,
+    "AudioMixerPattern": true,
     "InputBufferSystem": false,
     "CameraShakePattern": false,
     "HotReloadPatterns": false,
