@@ -72,7 +72,7 @@
     "SceneTransitionManager": true,
     "PoolingWithGenerics": true,
     "AudioMixerPattern": true,
-    "InputBufferSystem": false,
+    "InputBufferSystem": true,
     "CameraShakePattern": false,
     "HotReloadPatterns": false,
     "EditorToolingScripts": false,

@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 73/78 (93.6%)
+## Progress: 74/78 (94.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -78,9 +78,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ SceneTransitionManager
 - ✅ PoolingWithGenerics
 - ✅ AudioMixerPattern
+- ✅ InputBufferSystem
 
 ### Remaining Patterns:
-- ⏳ InputBufferSystem
 - ⏳ CameraShakePattern
 - ⏳ HotReloadPatterns
 - ⏳ EditorToolingScripts
