@@ -70,7 +70,7 @@
     "LocalizationWithScriptableObjects": true,
     "PlayerPrefsManager": true,
     "SceneTransitionManager": true,
-    "PoolingWithGenerics": false,
+    "PoolingWithGenerics": true,
     "AudioMixerPattern": false,
     "InputBufferSystem": false,
     "CameraShakePattern": false,
