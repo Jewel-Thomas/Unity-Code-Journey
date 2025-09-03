@@ -68,7 +68,7 @@
     "InventorySystemPattern": true,
     "SaveLoadWithJSON": true,
     "LocalizationWithScriptableObjects": true,
-    "PlayerPrefsManager": false,
+    "PlayerPrefsManager": true,
     "SceneTransitionManager": false,
     "PoolingWithGenerics": false,
     "AudioMixerPattern": false,
