@@ -75,6 +75,6 @@
     "InputBufferSystem": true,
     "CameraShakePattern": true,
     "HotReloadPatterns": true,
-    "EditorToolingScripts": false,
+    "EditorToolingScripts": true,
     "RuntimeDebugTools": false
 }
