@@ -73,7 +73,7 @@
     "PoolingWithGenerics": true,
     "AudioMixerPattern": true,
     "InputBufferSystem": true,
-    "CameraShakePattern": false,
+    "CameraShakePattern": true,
     "HotReloadPatterns": false,
     "EditorToolingScripts": false,
     "RuntimeDebugTools": false
