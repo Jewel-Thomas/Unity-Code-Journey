@@ -74,7 +74,7 @@
     "AudioMixerPattern": true,
     "InputBufferSystem": true,
     "CameraShakePattern": true,
-    "HotReloadPatterns": false,
+    "HotReloadPatterns": true,
     "EditorToolingScripts": false,
     "RuntimeDebugTools": false
 }
