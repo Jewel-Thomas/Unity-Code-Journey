@@ -76,5 +76,5 @@
     "CameraShakePattern": true,
     "HotReloadPatterns": true,
     "EditorToolingScripts": true,
-    "RuntimeDebugTools": false
+    "RuntimeDebugTools": true
 }

@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 77/78 (98.7%)
+## Progress: 78/78 (100.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -82,9 +82,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ CameraShakePattern
 - ✅ HotReloadPatterns
 - ✅ EditorToolingScripts
+- ✅ RuntimeDebugTools
 
 ### Remaining Patterns:
-- ⏳ RuntimeDebugTools
 
 
 ## Getting Started
