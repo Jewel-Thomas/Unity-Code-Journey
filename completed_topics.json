@@ -78,7 +78,7 @@
     "EditorToolingScripts": true,
     "RuntimeDebugTools": true,
     "AIPlanner": true,
-    "AISensingSystem": false,
+    "AISensingSystem": true,
     "AbilitySystem": false,
     "AdaptiveMusicSystem": false,
     "AdvancedCameraController": false,
