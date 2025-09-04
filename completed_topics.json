@@ -79,7 +79,7 @@
     "RuntimeDebugTools": true,
     "AIPlanner": true,
     "AISensingSystem": true,
-    "AbilitySystem": false,
+    "AbilitySystem": true,
     "AdaptiveMusicSystem": false,
     "AdvancedCameraController": false,
     "AdvancedDialogueSystem": false,
