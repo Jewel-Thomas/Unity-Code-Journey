@@ -80,7 +80,7 @@
     "AIPlanner": true,
     "AISensingSystem": true,
     "AbilitySystem": true,
-    "AdaptiveMusicSystem": false,
+    "AdaptiveMusicSystem": true,
     "AdvancedCameraController": false,
     "AdvancedDialogueSystem": false,
     "AdvancedSaveSystem": false,
