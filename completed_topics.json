@@ -86,7 +86,7 @@
     "AdvancedSaveSystem": true,
     "AICompanionSystem": true,
     "AIFormationSystem": true,
-    "AIGroupBehavior": false,
+    "AIGroupBehavior": true,
     "AIInfluenceMap": false,
     "AILocomotionSystem": false,
     "AIMemorySystem": false,
