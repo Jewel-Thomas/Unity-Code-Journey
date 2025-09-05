@@ -83,7 +83,7 @@
     "AdaptiveMusicSystem": true,
     "AdvancedCameraController": true,
     "AdvancedDialogueSystem": true,
-    "AdvancedSaveSystem": false,
+    "AdvancedSaveSystem": true,
     "AICompanionSystem": false,
     "AIFormationSystem": false,
     "AIGroupBehavior": false,
