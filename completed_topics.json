@@ -82,7 +82,7 @@
     "AbilitySystem": true,
     "AdaptiveMusicSystem": true,
     "AdvancedCameraController": true,
-    "AdvancedDialogueSystem": false,
+    "AdvancedDialogueSystem": true,
     "AdvancedSaveSystem": false,
     "AICompanionSystem": false,
     "AIFormationSystem": false,
