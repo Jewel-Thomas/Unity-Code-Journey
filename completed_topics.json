@@ -84,7 +84,7 @@
     "AdvancedCameraController": true,
     "AdvancedDialogueSystem": true,
     "AdvancedSaveSystem": true,
-    "AICompanionSystem": false,
+    "AICompanionSystem": true,
     "AIFormationSystem": false,
     "AIGroupBehavior": false,
     "AIInfluenceMap": false,
