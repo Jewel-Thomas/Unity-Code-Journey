@@ -81,7 +81,7 @@
     "AISensingSystem": true,
     "AbilitySystem": true,
     "AdaptiveMusicSystem": true,
-    "AdvancedCameraController": false,
+    "AdvancedCameraController": true,
     "AdvancedDialogueSystem": false,
     "AdvancedSaveSystem": false,
     "AICompanionSystem": false,

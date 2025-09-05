@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 82/286 (28.7%)
+## Progress: 83/286 (29.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -87,9 +87,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ AISensingSystem
 - ✅ AbilitySystem
 - ✅ AdaptiveMusicSystem
+- ✅ AdvancedCameraController
 
 ### Remaining Patterns:
-- ⏳ AdvancedCameraController
 - ⏳ AdvancedDialogueSystem
 - ⏳ AdvancedSaveSystem
 - ⏳ AICompanionSystem
