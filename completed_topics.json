@@ -87,7 +87,7 @@
     "AICompanionSystem": true,
     "AIFormationSystem": true,
     "AIGroupBehavior": true,
-    "AIInfluenceMap": false,
+    "AIInfluenceMap": true,
     "AILocomotionSystem": false,
     "AIMemorySystem": false,
     "AINavigationMesh": false,
