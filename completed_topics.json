@@ -90,7 +90,7 @@
     "AIInfluenceMap": true,
     "AILocomotionSystem": true,
     "AIMemorySystem": true,
-    "AINavigationMesh": false,
+    "AINavigationMesh": true,
     "AIRagdollBlending": false,
     "AIStealthSystem": false,
     "AITacticalSystem": false,
