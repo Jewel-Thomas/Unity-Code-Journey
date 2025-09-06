@@ -89,7 +89,7 @@
     "AIGroupBehavior": true,
     "AIInfluenceMap": true,
     "AILocomotionSystem": true,
-    "AIMemorySystem": false,
+    "AIMemorySystem": true,
     "AINavigationMesh": false,
     "AIRagdollBlending": false,
     "AIStealthSystem": false,
