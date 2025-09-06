@@ -93,7 +93,7 @@
     "AINavigationMesh": true,
     "AIRagdollBlending": true,
     "AIStealthSystem": true,
-    "AITacticalSystem": false,
+    "AITacticalSystem": true,
     "AIThreatSystem": false,
     "AIWaypointSystem": false,
     "AbilityCooldownSystem": false,
