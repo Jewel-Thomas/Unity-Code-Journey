@@ -95,7 +95,7 @@
     "AIStealthSystem": true,
     "AITacticalSystem": true,
     "AIThreatSystem": true,
-    "AIWaypointSystem": false,
+    "AIWaypointSystem": true,
     "AbilityCooldownSystem": false,
     "ActionInputMap": false,
     "AdvancedPoolingSystem": false,
