@@ -94,7 +94,7 @@
     "AIRagdollBlending": true,
     "AIStealthSystem": true,
     "AITacticalSystem": true,
-    "AIThreatSystem": false,
+    "AIThreatSystem": true,
     "AIWaypointSystem": false,
     "AbilityCooldownSystem": false,
     "ActionInputMap": false,
