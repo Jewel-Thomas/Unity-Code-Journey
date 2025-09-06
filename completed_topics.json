@@ -91,7 +91,7 @@
     "AILocomotionSystem": true,
     "AIMemorySystem": true,
     "AINavigationMesh": true,
-    "AIRagdollBlending": false,
+    "AIRagdollBlending": true,
     "AIStealthSystem": false,
     "AITacticalSystem": false,
     "AIThreatSystem": false,
