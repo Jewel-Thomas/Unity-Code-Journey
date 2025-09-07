@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 98/286 (34.3%)
+## Progress: 99/286 (34.6%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -103,9 +103,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ AIThreatSystem
 - ✅ AIWaypointSystem
 - ✅ AbilityCooldownSystem
+- ✅ ActionInputMap
 
 ### Remaining Patterns:
-- ⏳ ActionInputMap
 - ⏳ AdvancedPoolingSystem
 - ⏳ AnimationGraphSystem
 - ⏳ AnimationRiggingSystem

@@ -97,7 +97,7 @@
     "AIThreatSystem": true,
     "AIWaypointSystem": true,
     "AbilityCooldownSystem": true,
-    "ActionInputMap": false,
+    "ActionInputMap": true,
     "AdvancedPoolingSystem": false,
     "AnimationGraphSystem": false,
     "AnimationRiggingSystem": false,
