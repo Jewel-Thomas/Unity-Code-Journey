@@ -99,7 +99,7 @@
     "AbilityCooldownSystem": true,
     "ActionInputMap": true,
     "AdvancedPoolingSystem": true,
-    "AnimationGraphSystem": false,
+    "AnimationGraphSystem": true,
     "AnimationRiggingSystem": false,
     "AnimationStateMachine": false,
     "AreaOfEffectSystem": false,
