@@ -100,7 +100,7 @@
     "ActionInputMap": true,
     "AdvancedPoolingSystem": true,
     "AnimationGraphSystem": true,
-    "AnimationRiggingSystem": false,
+    "AnimationRiggingSystem": true,
     "AnimationStateMachine": false,
     "AreaOfEffectSystem": false,
     "AssetLabelingSystem": false,
