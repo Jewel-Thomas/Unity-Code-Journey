@@ -104,7 +104,7 @@
     "AnimationStateMachine": true,
     "AreaOfEffectSystem": true,
     "AssetLabelingSystem": true,
-    "AsyncSceneLoading": false,
+    "AsyncSceneLoading": true,
     "AttributeModifierSystem": false,
     "AutoSaveSystem": false,
     "AvatarCustomizationSystem": false,
