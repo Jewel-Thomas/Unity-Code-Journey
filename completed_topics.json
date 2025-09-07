@@ -101,7 +101,7 @@
     "AdvancedPoolingSystem": true,
     "AnimationGraphSystem": true,
     "AnimationRiggingSystem": true,
-    "AnimationStateMachine": false,
+    "AnimationStateMachine": true,
     "AreaOfEffectSystem": false,
     "AssetLabelingSystem": false,
     "AsyncSceneLoading": false,

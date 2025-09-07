@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 102/286 (35.7%)
+## Progress: 103/286 (36.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -107,9 +107,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ AdvancedPoolingSystem
 - ✅ AnimationGraphSystem
 - ✅ AnimationRiggingSystem
+- ✅ AnimationStateMachine
 
 ### Remaining Patterns:
-- ⏳ AnimationStateMachine
 - ⏳ AreaOfEffectSystem
 - ⏳ AssetLabelingSystem
 - ⏳ AsyncSceneLoading
