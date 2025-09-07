@@ -102,7 +102,7 @@
     "AnimationGraphSystem": true,
     "AnimationRiggingSystem": true,
     "AnimationStateMachine": true,
-    "AreaOfEffectSystem": false,
+    "AreaOfEffectSystem": true,
     "AssetLabelingSystem": false,
     "AsyncSceneLoading": false,
     "AttributeModifierSystem": false,
