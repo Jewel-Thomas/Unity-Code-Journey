@@ -109,7 +109,7 @@
     "AutoSaveSystem": true,
     "AvatarCustomizationSystem": true,
     "BackgroundStreaming": true,
-    "BattleSystem": false,
+    "BattleSystem": true,
     "BehaviorDesignerIntegration": false,
     "BillboardSystem": false,
     "BlueprintsForPrefabs": false,
