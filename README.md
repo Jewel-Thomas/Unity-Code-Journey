@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 109/286 (38.1%)
+## Progress: 110/286 (38.5%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -114,9 +114,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ AttributeModifierSystem
 - ✅ AutoSaveSystem
 - ✅ AvatarCustomizationSystem
+- ✅ BackgroundStreaming
 
 ### Remaining Patterns:
-- ⏳ BackgroundStreaming
 - ⏳ BattleSystem
 - ⏳ BehaviorDesignerIntegration
 - ⏳ BillboardSystem

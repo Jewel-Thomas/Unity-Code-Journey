@@ -108,7 +108,7 @@
     "AttributeModifierSystem": true,
     "AutoSaveSystem": true,
     "AvatarCustomizationSystem": true,
-    "BackgroundStreaming": false,
+    "BackgroundStreaming": true,
     "BattleSystem": false,
     "BehaviorDesignerIntegration": false,
     "BillboardSystem": false,
