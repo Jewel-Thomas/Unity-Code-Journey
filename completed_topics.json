@@ -107,7 +107,7 @@
     "AsyncSceneLoading": true,
     "AttributeModifierSystem": true,
     "AutoSaveSystem": true,
-    "AvatarCustomizationSystem": false,
+    "AvatarCustomizationSystem": true,
     "BackgroundStreaming": false,
     "BattleSystem": false,
     "BehaviorDesignerIntegration": false,
