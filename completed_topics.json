@@ -106,7 +106,7 @@
     "AssetLabelingSystem": true,
     "AsyncSceneLoading": true,
     "AttributeModifierSystem": true,
-    "AutoSaveSystem": false,
+    "AutoSaveSystem": true,
     "AvatarCustomizationSystem": false,
     "BackgroundStreaming": false,
     "BattleSystem": false,
