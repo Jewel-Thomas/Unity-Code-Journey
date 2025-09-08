@@ -110,7 +110,7 @@
     "AvatarCustomizationSystem": true,
     "BackgroundStreaming": true,
     "BattleSystem": true,
-    "BehaviorDesignerIntegration": false,
+    "BehaviorDesignerIntegration": true,
     "BillboardSystem": false,
     "BlueprintsForPrefabs": false,
     "CameraBlendSystem": false,
