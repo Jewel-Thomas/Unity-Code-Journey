@@ -111,7 +111,7 @@
     "BackgroundStreaming": true,
     "BattleSystem": true,
     "BehaviorDesignerIntegration": true,
-    "BillboardSystem": false,
+    "BillboardSystem": true,
     "BlueprintsForPrefabs": false,
     "CameraBlendSystem": false,
     "CameraCinematicSystem": false,
