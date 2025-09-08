@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 113/286 (39.5%)
+## Progress: 114/286 (39.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -118,9 +118,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ BattleSystem
 - ✅ BehaviorDesignerIntegration
 - ✅ BillboardSystem
+- ✅ BlueprintsForPrefabs
 
 ### Remaining Patterns:
-- ⏳ BlueprintsForPrefabs
 - ⏳ CameraBlendSystem
 - ⏳ CameraCinematicSystem
 - ⏳ CameraCollisionSystem

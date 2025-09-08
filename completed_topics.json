@@ -112,7 +112,7 @@
     "BattleSystem": true,
     "BehaviorDesignerIntegration": true,
     "BillboardSystem": true,
-    "BlueprintsForPrefabs": false,
+    "BlueprintsForPrefabs": true,
     "CameraBlendSystem": false,
     "CameraCinematicSystem": false,
     "CameraCollisionSystem": false,
