@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 115/286 (40.2%)
+## Progress: 116/286 (40.6%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -120,9 +120,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ BillboardSystem
 - ✅ BlueprintsForPrefabs
 - ✅ CameraBlendSystem
+- ✅ CameraCinematicSystem
 
 ### Remaining Patterns:
-- ⏳ CameraCinematicSystem
 - ⏳ CameraCollisionSystem
 - ⏳ CameraSplineController
 - ⏳ CharacterCustomization

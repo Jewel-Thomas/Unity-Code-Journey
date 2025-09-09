@@ -114,7 +114,7 @@
     "BillboardSystem": true,
     "BlueprintsForPrefabs": true,
     "CameraBlendSystem": true,
-    "CameraCinematicSystem": false,
+    "CameraCinematicSystem": true,
     "CameraCollisionSystem": false,
     "CameraSplineController": false,
     "CharacterCustomization": false,
