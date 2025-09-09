@@ -113,7 +113,7 @@
     "BehaviorDesignerIntegration": true,
     "BillboardSystem": true,
     "BlueprintsForPrefabs": true,
-    "CameraBlendSystem": false,
+    "CameraBlendSystem": true,
     "CameraCinematicSystem": false,
     "CameraCollisionSystem": false,
     "CameraSplineController": false,
