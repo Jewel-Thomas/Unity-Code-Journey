@@ -120,7 +120,7 @@
     "CharacterCustomization": true,
     "CheckpointSystem": true,
     "CinematicTimelineSystem": true,
-    "ClothSimulationSystem": false,
+    "ClothSimulationSystem": true,
     "CombatComboSystem": false,
     "CombatLockOnSystem": false,
     "CommandConsole": false,
