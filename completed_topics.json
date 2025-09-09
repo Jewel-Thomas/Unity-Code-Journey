@@ -115,7 +115,7 @@
     "BlueprintsForPrefabs": true,
     "CameraBlendSystem": true,
     "CameraCinematicSystem": true,
-    "CameraCollisionSystem": false,
+    "CameraCollisionSystem": true,
     "CameraSplineController": false,
     "CharacterCustomization": false,
     "CheckpointSystem": false,
