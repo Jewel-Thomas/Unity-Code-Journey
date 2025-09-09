@@ -117,7 +117,7 @@
     "CameraCinematicSystem": true,
     "CameraCollisionSystem": true,
     "CameraSplineController": true,
-    "CharacterCustomization": false,
+    "CharacterCustomization": true,
     "CheckpointSystem": false,
     "CinematicTimelineSystem": false,
     "ClothSimulationSystem": false,
