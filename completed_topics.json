@@ -119,7 +119,7 @@
     "CameraSplineController": true,
     "CharacterCustomization": true,
     "CheckpointSystem": true,
-    "CinematicTimelineSystem": false,
+    "CinematicTimelineSystem": true,
     "ClothSimulationSystem": false,
     "CombatComboSystem": false,
     "CombatLockOnSystem": false,

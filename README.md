@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 120/286 (42.0%)
+## Progress: 121/286 (42.3%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -125,9 +125,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ CameraSplineController
 - ✅ CharacterCustomization
 - ✅ CheckpointSystem
+- ✅ CinematicTimelineSystem
 
 ### Remaining Patterns:
-- ⏳ CinematicTimelineSystem
 - ⏳ ClothSimulationSystem
 - ⏳ CombatComboSystem
 - ⏳ CombatLockOnSystem
