@@ -123,7 +123,7 @@
     "ClothSimulationSystem": true,
     "CombatComboSystem": true,
     "CombatLockOnSystem": true,
-    "CommandConsole": false,
+    "CommandConsole": true,
     "ConditionSystem": false,
     "CooldownSystem": false,
     "CoyoteTimeJumping": false,
