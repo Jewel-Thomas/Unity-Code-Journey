@@ -125,7 +125,7 @@
     "CombatLockOnSystem": true,
     "CommandConsole": true,
     "ConditionSystem": true,
-    "CooldownSystem": false,
+    "CooldownSystem": true,
     "CoyoteTimeJumping": false,
     "CraftingSystem": false,
     "CrowdSystem": false,
