@@ -126,7 +126,7 @@
     "CommandConsole": true,
     "ConditionSystem": true,
     "CooldownSystem": true,
-    "CoyoteTimeJumping": false,
+    "CoyoteTimeJumping": true,
     "CraftingSystem": false,
     "CrowdSystem": false,
     "CutsceneEventSystem": false,
