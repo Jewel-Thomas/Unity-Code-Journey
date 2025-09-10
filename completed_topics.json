@@ -128,7 +128,7 @@
     "CooldownSystem": true,
     "CoyoteTimeJumping": true,
     "CraftingSystem": true,
-    "CrowdSystem": false,
+    "CrowdSystem": true,
     "CutsceneEventSystem": false,
     "DamageSystem": false,
     "DataTableSystem": false,
