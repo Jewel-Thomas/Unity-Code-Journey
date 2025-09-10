@@ -121,7 +121,7 @@
     "CheckpointSystem": true,
     "CinematicTimelineSystem": true,
     "ClothSimulationSystem": true,
-    "CombatComboSystem": false,
+    "CombatComboSystem": true,
     "CombatLockOnSystem": false,
     "CommandConsole": false,
     "ConditionSystem": false,
