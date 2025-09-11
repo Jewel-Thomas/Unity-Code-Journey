@@ -132,7 +132,7 @@
     "CutsceneEventSystem": true,
     "DamageSystem": true,
     "DataTableSystem": true,
-    "DayNightCycle": false,
+    "DayNightCycle": true,
     "DecalSystem": false,
     "DialogueChoiceSystem": false,
     "DialogueNodeSystem": false,

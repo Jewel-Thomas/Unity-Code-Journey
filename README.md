@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 133/286 (46.5%)
+## Progress: 134/286 (46.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -138,9 +138,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ CutsceneEventSystem
 - ✅ DamageSystem
 - ✅ DataTableSystem
+- ✅ DayNightCycle
 
 ### Remaining Patterns:
-- ⏳ DayNightCycle
 - ⏳ DecalSystem
 - ⏳ DialogueChoiceSystem
 - ⏳ DialogueNodeSystem
