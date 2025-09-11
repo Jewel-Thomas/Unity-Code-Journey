@@ -135,7 +135,7 @@
     "DayNightCycle": true,
     "DecalSystem": true,
     "DialogueChoiceSystem": true,
-    "DialogueNodeSystem": false,
+    "DialogueNodeSystem": true,
     "DisguiseSystem": false,
     "DismembermentSystem": false,
     "DissolveEffectSystem": false,
