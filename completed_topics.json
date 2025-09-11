@@ -131,7 +131,7 @@
     "CrowdSystem": true,
     "CutsceneEventSystem": true,
     "DamageSystem": true,
-    "DataTableSystem": false,
+    "DataTableSystem": true,
     "DayNightCycle": false,
     "DecalSystem": false,
     "DialogueChoiceSystem": false,
