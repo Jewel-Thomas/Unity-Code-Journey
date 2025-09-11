@@ -136,7 +136,7 @@
     "DecalSystem": true,
     "DialogueChoiceSystem": true,
     "DialogueNodeSystem": true,
-    "DisguiseSystem": false,
+    "DisguiseSystem": true,
     "DismembermentSystem": false,
     "DissolveEffectSystem": false,
     "DynamicAnimationSystem": false,
