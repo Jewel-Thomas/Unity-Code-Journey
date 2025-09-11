@@ -130,7 +130,7 @@
     "CraftingSystem": true,
     "CrowdSystem": true,
     "CutsceneEventSystem": true,
-    "DamageSystem": false,
+    "DamageSystem": true,
     "DataTableSystem": false,
     "DayNightCycle": false,
     "DecalSystem": false,

@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 131/286 (45.8%)
+## Progress: 132/286 (46.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -136,9 +136,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ CraftingSystem
 - ✅ CrowdSystem
 - ✅ CutsceneEventSystem
+- ✅ DamageSystem
 
 ### Remaining Patterns:
-- ⏳ DamageSystem
 - ⏳ DataTableSystem
 - ⏳ DayNightCycle
 - ⏳ DecalSystem
