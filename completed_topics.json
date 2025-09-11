@@ -134,7 +134,7 @@
     "DataTableSystem": true,
     "DayNightCycle": true,
     "DecalSystem": true,
-    "DialogueChoiceSystem": false,
+    "DialogueChoiceSystem": true,
     "DialogueNodeSystem": false,
     "DisguiseSystem": false,
     "DismembermentSystem": false,
