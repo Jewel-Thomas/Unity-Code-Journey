@@ -133,7 +133,7 @@
     "DamageSystem": true,
     "DataTableSystem": true,
     "DayNightCycle": true,
-    "DecalSystem": false,
+    "DecalSystem": true,
     "DialogueChoiceSystem": false,
     "DialogueNodeSystem": false,
     "DisguiseSystem": false,
