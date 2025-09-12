@@ -139,7 +139,7 @@
     "DisguiseSystem": true,
     "DismembermentSystem": true,
     "DissolveEffectSystem": true,
-    "DynamicAnimationSystem": false,
+    "DynamicAnimationSystem": true,
     "DynamicCameraSystem": false,
     "DynamicLightingSystem": false,
     "DynamicMeshCombiner": false,
