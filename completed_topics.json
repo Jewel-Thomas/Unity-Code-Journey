@@ -138,7 +138,7 @@
     "DialogueNodeSystem": true,
     "DisguiseSystem": true,
     "DismembermentSystem": true,
-    "DissolveEffectSystem": false,
+    "DissolveEffectSystem": true,
     "DynamicAnimationSystem": false,
     "DynamicCameraSystem": false,
     "DynamicLightingSystem": false,
