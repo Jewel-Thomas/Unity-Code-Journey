@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 142/286 (49.7%)
+## Progress: 143/286 (50.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -147,9 +147,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ DissolveEffectSystem
 - ✅ DynamicAnimationSystem
 - ✅ DynamicCameraSystem
+- ✅ DynamicLightingSystem
 
 ### Remaining Patterns:
-- ⏳ DynamicLightingSystem
 - ⏳ DynamicMeshCombiner
 - ⏳ DynamicMusicSystem
 - ⏳ DynamicObstacleSystem

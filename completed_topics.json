@@ -141,7 +141,7 @@
     "DissolveEffectSystem": true,
     "DynamicAnimationSystem": true,
     "DynamicCameraSystem": true,
-    "DynamicLightingSystem": false,
+    "DynamicLightingSystem": true,
     "DynamicMeshCombiner": false,
     "DynamicMusicSystem": false,
     "DynamicObstacleSystem": false,
