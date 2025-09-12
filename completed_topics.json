@@ -143,7 +143,7 @@
     "DynamicCameraSystem": true,
     "DynamicLightingSystem": true,
     "DynamicMeshCombiner": true,
-    "DynamicMusicSystem": false,
+    "DynamicMusicSystem": true,
     "DynamicObstacleSystem": false,
     "DynamicSkySystem": false,
     "DynamicWeatherSystem": false,
