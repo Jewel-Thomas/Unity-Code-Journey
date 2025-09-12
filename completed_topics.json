@@ -137,7 +137,7 @@
     "DialogueChoiceSystem": true,
     "DialogueNodeSystem": true,
     "DisguiseSystem": true,
-    "DismembermentSystem": false,
+    "DismembermentSystem": true,
     "DissolveEffectSystem": false,
     "DynamicAnimationSystem": false,
     "DynamicCameraSystem": false,
