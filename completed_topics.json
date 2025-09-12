@@ -140,7 +140,7 @@
     "DismembermentSystem": true,
     "DissolveEffectSystem": true,
     "DynamicAnimationSystem": true,
-    "DynamicCameraSystem": false,
+    "DynamicCameraSystem": true,
     "DynamicLightingSystem": false,
     "DynamicMeshCombiner": false,
     "DynamicMusicSystem": false,
