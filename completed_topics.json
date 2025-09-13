@@ -149,7 +149,7 @@
     "DynamicWeatherSystem": true,
     "EditorExtensions": true,
     "EditorPropertyDrawer": true,
-    "EditorWindowTools": false,
+    "EditorWindowTools": true,
     "EffectPoolingSystem": false,
     "EmoteSystem": false,
     "EnvironmentQuerySystem": false,
