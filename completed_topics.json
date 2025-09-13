@@ -147,7 +147,7 @@
     "DynamicObstacleSystem": true,
     "DynamicSkySystem": true,
     "DynamicWeatherSystem": true,
-    "EditorExtensions": false,
+    "EditorExtensions": true,
     "EditorPropertyDrawer": false,
     "EditorWindowTools": false,
     "EffectPoolingSystem": false,
