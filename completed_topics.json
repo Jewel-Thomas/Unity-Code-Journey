@@ -151,7 +151,7 @@
     "EditorPropertyDrawer": true,
     "EditorWindowTools": true,
     "EffectPoolingSystem": true,
-    "EmoteSystem": false,
+    "EmoteSystem": true,
     "EnvironmentQuerySystem": false,
     "EventPrioritySystem": false,
     "EventReplaySystem": false,
