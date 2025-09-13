@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 147/286 (51.4%)
+## Progress: 148/286 (51.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -152,9 +152,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ DynamicMusicSystem
 - ✅ DynamicObstacleSystem
 - ✅ DynamicSkySystem
+- ✅ DynamicWeatherSystem
 
 ### Remaining Patterns:
-- ⏳ DynamicWeatherSystem
 - ⏳ EditorExtensions
 - ⏳ EditorPropertyDrawer
 - ⏳ EditorWindowTools

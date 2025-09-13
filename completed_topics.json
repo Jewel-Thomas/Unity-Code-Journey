@@ -146,7 +146,7 @@
     "DynamicMusicSystem": true,
     "DynamicObstacleSystem": true,
     "DynamicSkySystem": true,
-    "DynamicWeatherSystem": false,
+    "DynamicWeatherSystem": true,
     "EditorExtensions": false,
     "EditorPropertyDrawer": false,
     "EditorWindowTools": false,
