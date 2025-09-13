@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 151/286 (52.8%)
+## Progress: 152/286 (53.1%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -156,9 +156,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ EditorExtensions
 - ✅ EditorPropertyDrawer
 - ✅ EditorWindowTools
+- ✅ EffectPoolingSystem
 
 ### Remaining Patterns:
-- ⏳ EffectPoolingSystem
 - ⏳ EmoteSystem
 - ⏳ EnvironmentQuerySystem
 - ⏳ EventPrioritySystem

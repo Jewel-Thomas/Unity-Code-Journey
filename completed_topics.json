@@ -150,7 +150,7 @@
     "EditorExtensions": true,
     "EditorPropertyDrawer": true,
     "EditorWindowTools": true,
-    "EffectPoolingSystem": false,
+    "EffectPoolingSystem": true,
     "EmoteSystem": false,
     "EnvironmentQuerySystem": false,
     "EventPrioritySystem": false,
