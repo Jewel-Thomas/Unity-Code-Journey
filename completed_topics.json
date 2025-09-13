@@ -152,7 +152,7 @@
     "EditorWindowTools": true,
     "EffectPoolingSystem": true,
     "EmoteSystem": true,
-    "EnvironmentQuerySystem": false,
+    "EnvironmentQuerySystem": true,
     "EventPrioritySystem": false,
     "EventReplaySystem": false,
     "ExperienceSystem": false,
