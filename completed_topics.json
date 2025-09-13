@@ -145,7 +145,7 @@
     "DynamicMeshCombiner": true,
     "DynamicMusicSystem": true,
     "DynamicObstacleSystem": true,
-    "DynamicSkySystem": false,
+    "DynamicSkySystem": true,
     "DynamicWeatherSystem": false,
     "EditorExtensions": false,
     "EditorPropertyDrawer": false,
