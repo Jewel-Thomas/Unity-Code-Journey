@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 157/286 (54.9%)
+## Progress: 158/286 (55.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -162,9 +162,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ EventPrioritySystem
 - ✅ EventReplaySystem
 - ✅ ExperienceSystem
+- ✅ FactionsSystem
 
 ### Remaining Patterns:
-- ⏳ FactionsSystem
 - ⏳ FastTravelSystem
 - ⏳ FieldOfViewSystem
 - ⏳ FogOfWarSystem
