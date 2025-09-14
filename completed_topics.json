@@ -154,7 +154,7 @@
     "EmoteSystem": true,
     "EnvironmentQuerySystem": true,
     "EventPrioritySystem": true,
-    "EventReplaySystem": false,
+    "EventReplaySystem": true,
     "ExperienceSystem": false,
     "FactionsSystem": false,
     "FastTravelSystem": false,
