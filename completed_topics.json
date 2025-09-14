@@ -158,7 +158,7 @@
     "ExperienceSystem": true,
     "FactionsSystem": true,
     "FastTravelSystem": true,
-    "FieldOfViewSystem": false,
+    "FieldOfViewSystem": true,
     "FogOfWarSystem": false,
     "FootstepSystem": false,
     "FormationSystem": false,
