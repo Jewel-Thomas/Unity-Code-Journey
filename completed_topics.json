@@ -157,7 +157,7 @@
     "EventReplaySystem": true,
     "ExperienceSystem": true,
     "FactionsSystem": true,
-    "FastTravelSystem": false,
+    "FastTravelSystem": true,
     "FieldOfViewSystem": false,
     "FogOfWarSystem": false,
     "FootstepSystem": false,
