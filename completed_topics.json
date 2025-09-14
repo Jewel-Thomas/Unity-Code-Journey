@@ -160,7 +160,7 @@
     "FastTravelSystem": true,
     "FieldOfViewSystem": true,
     "FogOfWarSystem": true,
-    "FootstepSystem": false,
+    "FootstepSystem": true,
     "FormationSystem": false,
     "GameAnalyticsSystem": false,
     "GameClockSystem": false,
