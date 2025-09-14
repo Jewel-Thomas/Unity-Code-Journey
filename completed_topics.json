@@ -159,7 +159,7 @@
     "FactionsSystem": true,
     "FastTravelSystem": true,
     "FieldOfViewSystem": true,
-    "FogOfWarSystem": false,
+    "FogOfWarSystem": true,
     "FootstepSystem": false,
     "FormationSystem": false,
     "GameAnalyticsSystem": false,
