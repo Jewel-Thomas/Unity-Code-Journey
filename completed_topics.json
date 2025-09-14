@@ -155,7 +155,7 @@
     "EnvironmentQuerySystem": true,
     "EventPrioritySystem": true,
     "EventReplaySystem": true,
-    "ExperienceSystem": false,
+    "ExperienceSystem": true,
     "FactionsSystem": false,
     "FastTravelSystem": false,
     "FieldOfViewSystem": false,
