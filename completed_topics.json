@@ -153,7 +153,7 @@
     "EffectPoolingSystem": true,
     "EmoteSystem": true,
     "EnvironmentQuerySystem": true,
-    "EventPrioritySystem": false,
+    "EventPrioritySystem": true,
     "EventReplaySystem": false,
     "ExperienceSystem": false,
     "FactionsSystem": false,
