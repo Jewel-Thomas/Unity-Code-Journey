@@ -165,7 +165,7 @@
     "GameAnalyticsSystem": true,
     "GameClockSystem": true,
     "GameDifficultySystem": true,
-    "GameEventRecorder": false,
+    "GameEventRecorder": true,
     "GameManagerPattern": false,
     "GameModeSystem": false,
     "GizmoDrawerSystem": false,
