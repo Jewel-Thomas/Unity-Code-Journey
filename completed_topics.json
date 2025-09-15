@@ -168,7 +168,7 @@
     "GameEventRecorder": true,
     "GameManagerPattern": true,
     "GameModeSystem": true,
-    "GizmoDrawerSystem": false,
+    "GizmoDrawerSystem": true,
     "GrassRenderingSystem": false,
     "GridBasedBuildingSystem": false,
     "GridBasedInventory": false,
