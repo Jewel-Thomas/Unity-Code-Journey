@@ -164,7 +164,7 @@
     "FormationSystem": true,
     "GameAnalyticsSystem": true,
     "GameClockSystem": true,
-    "GameDifficultySystem": false,
+    "GameDifficultySystem": true,
     "GameEventRecorder": false,
     "GameManagerPattern": false,
     "GameModeSystem": false,
