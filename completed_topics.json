@@ -167,7 +167,7 @@
     "GameDifficultySystem": true,
     "GameEventRecorder": true,
     "GameManagerPattern": true,
-    "GameModeSystem": false,
+    "GameModeSystem": true,
     "GizmoDrawerSystem": false,
     "GrassRenderingSystem": false,
     "GridBasedBuildingSystem": false,
