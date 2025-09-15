@@ -162,7 +162,7 @@
     "FogOfWarSystem": true,
     "FootstepSystem": true,
     "FormationSystem": true,
-    "GameAnalyticsSystem": false,
+    "GameAnalyticsSystem": true,
     "GameClockSystem": false,
     "GameDifficultySystem": false,
     "GameEventRecorder": false,
