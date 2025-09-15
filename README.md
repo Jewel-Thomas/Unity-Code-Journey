@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 162/286 (56.6%)
+## Progress: 163/286 (57.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -167,9 +167,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ FieldOfViewSystem
 - ✅ FogOfWarSystem
 - ✅ FootstepSystem
+- ✅ FormationSystem
 
 ### Remaining Patterns:
-- ⏳ FormationSystem
 - ⏳ GameAnalyticsSystem
 - ⏳ GameClockSystem
 - ⏳ GameDifficultySystem

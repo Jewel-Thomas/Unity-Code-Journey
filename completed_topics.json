@@ -161,7 +161,7 @@
     "FieldOfViewSystem": true,
     "FogOfWarSystem": true,
     "FootstepSystem": true,
-    "FormationSystem": false,
+    "FormationSystem": true,
     "GameAnalyticsSystem": false,
     "GameClockSystem": false,
     "GameDifficultySystem": false,
