@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 167/286 (58.4%)
+## Progress: 168/286 (58.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -172,9 +172,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ GameClockSystem
 - ✅ GameDifficultySystem
 - ✅ GameEventRecorder
+- ✅ GameManagerPattern
 
 ### Remaining Patterns:
-- ⏳ GameManagerPattern
 - ⏳ GameModeSystem
 - ⏳ GizmoDrawerSystem
 - ⏳ GrassRenderingSystem

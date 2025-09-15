@@ -166,7 +166,7 @@
     "GameClockSystem": true,
     "GameDifficultySystem": true,
     "GameEventRecorder": true,
-    "GameManagerPattern": false,
+    "GameManagerPattern": true,
     "GameModeSystem": false,
     "GizmoDrawerSystem": false,
     "GrassRenderingSystem": false,
