@@ -174,7 +174,7 @@
     "GridBasedInventory": true,
     "HeadTrackingSystem": true,
     "HealthSystem": true,
-    "HeatmapSystem": false,
+    "HeatmapSystem": true,
     "HitReactionSystem": false,
     "HitboxSystem": false,
     "HUDCustomizationSystem": false,
