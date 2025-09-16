@@ -175,7 +175,7 @@
     "HeadTrackingSystem": true,
     "HealthSystem": true,
     "HeatmapSystem": true,
-    "HitReactionSystem": false,
+    "HitReactionSystem": true,
     "HitboxSystem": false,
     "HUDCustomizationSystem": false,
     "IdleSystem": false,
