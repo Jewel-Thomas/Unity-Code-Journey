@@ -171,7 +171,7 @@
     "GizmoDrawerSystem": true,
     "GrassRenderingSystem": true,
     "GridBasedBuildingSystem": true,
-    "GridBasedInventory": false,
+    "GridBasedInventory": true,
     "HeadTrackingSystem": false,
     "HealthSystem": false,
     "HeatmapSystem": false,
