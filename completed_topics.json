@@ -169,7 +169,7 @@
     "GameManagerPattern": true,
     "GameModeSystem": true,
     "GizmoDrawerSystem": true,
-    "GrassRenderingSystem": false,
+    "GrassRenderingSystem": true,
     "GridBasedBuildingSystem": false,
     "GridBasedInventory": false,
     "HeadTrackingSystem": false,
