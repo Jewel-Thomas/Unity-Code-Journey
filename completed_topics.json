@@ -170,7 +170,7 @@
     "GameModeSystem": true,
     "GizmoDrawerSystem": true,
     "GrassRenderingSystem": true,
-    "GridBasedBuildingSystem": false,
+    "GridBasedBuildingSystem": true,
     "GridBasedInventory": false,
     "HeadTrackingSystem": false,
     "HealthSystem": false,
