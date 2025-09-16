@@ -173,7 +173,7 @@
     "GridBasedBuildingSystem": true,
     "GridBasedInventory": true,
     "HeadTrackingSystem": true,
-    "HealthSystem": false,
+    "HealthSystem": true,
     "HeatmapSystem": false,
     "HitReactionSystem": false,
     "HitboxSystem": false,
