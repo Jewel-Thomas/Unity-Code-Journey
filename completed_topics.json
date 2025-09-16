@@ -172,7 +172,7 @@
     "GrassRenderingSystem": true,
     "GridBasedBuildingSystem": true,
     "GridBasedInventory": true,
-    "HeadTrackingSystem": false,
+    "HeadTrackingSystem": true,
     "HealthSystem": false,
     "HeatmapSystem": false,
     "HitReactionSystem": false,
