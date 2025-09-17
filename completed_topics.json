@@ -182,7 +182,7 @@
     "IKRigSystem": true,
     "ImpactEffectSystem": true,
     "InGameConsole": true,
-    "InputContextSystem": false,
+    "InputContextSystem": true,
     "InteractionSystem": false,
     "ItemDurabilitySystem": false,
     "JournalSystem": false,

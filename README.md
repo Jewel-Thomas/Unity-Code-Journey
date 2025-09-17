@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 183/286 (64.0%)
+## Progress: 184/286 (64.3%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -188,9 +188,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ IKRigSystem
 - ✅ ImpactEffectSystem
 - ✅ InGameConsole
+- ✅ InputContextSystem
 
 ### Remaining Patterns:
-- ⏳ InputContextSystem
 - ⏳ InteractionSystem
 - ⏳ ItemDurabilitySystem
 - ⏳ JournalSystem
