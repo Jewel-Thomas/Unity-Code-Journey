@@ -180,7 +180,7 @@
     "HUDCustomizationSystem": true,
     "IdleSystem": true,
     "IKRigSystem": true,
-    "ImpactEffectSystem": false,
+    "ImpactEffectSystem": true,
     "InGameConsole": false,
     "InputContextSystem": false,
     "InteractionSystem": false,
