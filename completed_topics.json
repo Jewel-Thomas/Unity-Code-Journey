@@ -176,7 +176,7 @@
     "HealthSystem": true,
     "HeatmapSystem": true,
     "HitReactionSystem": true,
-    "HitboxSystem": false,
+    "HitboxSystem": true,
     "HUDCustomizationSystem": false,
     "IdleSystem": false,
     "IKRigSystem": false,
