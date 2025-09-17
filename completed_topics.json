@@ -181,7 +181,7 @@
     "IdleSystem": true,
     "IKRigSystem": true,
     "ImpactEffectSystem": true,
-    "InGameConsole": false,
+    "InGameConsole": true,
     "InputContextSystem": false,
     "InteractionSystem": false,
     "ItemDurabilitySystem": false,
