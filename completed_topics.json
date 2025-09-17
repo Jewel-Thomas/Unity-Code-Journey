@@ -179,7 +179,7 @@
     "HitboxSystem": true,
     "HUDCustomizationSystem": true,
     "IdleSystem": true,
-    "IKRigSystem": false,
+    "IKRigSystem": true,
     "ImpactEffectSystem": false,
     "InGameConsole": false,
     "InputContextSystem": false,
