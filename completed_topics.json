@@ -183,7 +183,7 @@
     "ImpactEffectSystem": true,
     "InGameConsole": true,
     "InputContextSystem": true,
-    "InteractionSystem": false,
+    "InteractionSystem": true,
     "ItemDurabilitySystem": false,
     "JournalSystem": false,
     "JumpBuffering": false,
