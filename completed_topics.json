@@ -177,7 +177,7 @@
     "HeatmapSystem": true,
     "HitReactionSystem": true,
     "HitboxSystem": true,
-    "HUDCustomizationSystem": false,
+    "HUDCustomizationSystem": true,
     "IdleSystem": false,
     "IKRigSystem": false,
     "ImpactEffectSystem": false,

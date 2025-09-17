@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 178/286 (62.2%)
+## Progress: 179/286 (62.6%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -183,9 +183,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ HeatmapSystem
 - ✅ HitReactionSystem
 - ✅ HitboxSystem
+- ✅ HUDCustomizationSystem
 
 ### Remaining Patterns:
-- ⏳ HUDCustomizationSystem
 - ⏳ IdleSystem
 - ⏳ IKRigSystem
 - ⏳ ImpactEffectSystem
