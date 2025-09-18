@@ -190,7 +190,7 @@
     "LadderClimbSystem": true,
     "LandscapeStreaming": true,
     "LevelStreamingSystem": true,
-    "LightProbeSystem": false,
+    "LightProbeSystem": true,
     "LightingManagerSystem": false,
     "LoadingScreenSystem": false,
     "LocalizationCSVSystem": false,
