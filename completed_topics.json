@@ -188,7 +188,7 @@
     "JournalSystem": true,
     "JumpBuffering": true,
     "LadderClimbSystem": true,
-    "LandscapeStreaming": false,
+    "LandscapeStreaming": true,
     "LevelStreamingSystem": false,
     "LightProbeSystem": false,
     "LightingManagerSystem": false,

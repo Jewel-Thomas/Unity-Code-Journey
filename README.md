@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 189/286 (66.1%)
+## Progress: 190/286 (66.4%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -194,9 +194,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ JournalSystem
 - ✅ JumpBuffering
 - ✅ LadderClimbSystem
+- ✅ LandscapeStreaming
 
 ### Remaining Patterns:
-- ⏳ LandscapeStreaming
 - ⏳ LevelStreamingSystem
 - ⏳ LightProbeSystem
 - ⏳ LightingManagerSystem
