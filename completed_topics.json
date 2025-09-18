@@ -189,7 +189,7 @@
     "JumpBuffering": true,
     "LadderClimbSystem": true,
     "LandscapeStreaming": true,
-    "LevelStreamingSystem": false,
+    "LevelStreamingSystem": true,
     "LightProbeSystem": false,
     "LightingManagerSystem": false,
     "LoadingScreenSystem": false,
