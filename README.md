@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 185/286 (64.7%)
+## Progress: 186/286 (65.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -190,9 +190,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ InGameConsole
 - ✅ InputContextSystem
 - ✅ InteractionSystem
+- ✅ ItemDurabilitySystem
 
 ### Remaining Patterns:
-- ⏳ ItemDurabilitySystem
 - ⏳ JournalSystem
 - ⏳ JumpBuffering
 - ⏳ LadderClimbSystem

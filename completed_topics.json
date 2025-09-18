@@ -184,7 +184,7 @@
     "InGameConsole": true,
     "InputContextSystem": true,
     "InteractionSystem": true,
-    "ItemDurabilitySystem": false,
+    "ItemDurabilitySystem": true,
     "JournalSystem": false,
     "JumpBuffering": false,
     "LadderClimbSystem": false,
