@@ -185,7 +185,7 @@
     "InputContextSystem": true,
     "InteractionSystem": true,
     "ItemDurabilitySystem": true,
-    "JournalSystem": false,
+    "JournalSystem": true,
     "JumpBuffering": false,
     "LadderClimbSystem": false,
     "LandscapeStreaming": false,
