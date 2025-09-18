@@ -191,7 +191,7 @@
     "LandscapeStreaming": true,
     "LevelStreamingSystem": true,
     "LightProbeSystem": true,
-    "LightingManagerSystem": false,
+    "LightingManagerSystem": true,
     "LoadingScreenSystem": false,
     "LocalizationCSVSystem": false,
     "LootDropSystem": false,
