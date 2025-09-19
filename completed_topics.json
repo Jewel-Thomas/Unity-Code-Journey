@@ -197,7 +197,7 @@
     "LootDropSystem": true,
     "MagicSystem": true,
     "MainMenuSystem": true,
-    "MapMarkerSystem": false,
+    "MapMarkerSystem": true,
     "MatchmakingSystem": false,
     "MemoryBudgetSystem": false,
     "MeshBakingSystem": false,
