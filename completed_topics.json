@@ -193,7 +193,7 @@
     "LightProbeSystem": true,
     "LightingManagerSystem": true,
     "LoadingScreenSystem": true,
-    "LocalizationCSVSystem": false,
+    "LocalizationCSVSystem": true,
     "LootDropSystem": false,
     "MagicSystem": false,
     "MainMenuSystem": false,
