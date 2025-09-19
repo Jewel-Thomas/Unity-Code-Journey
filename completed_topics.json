@@ -194,7 +194,7 @@
     "LightingManagerSystem": true,
     "LoadingScreenSystem": true,
     "LocalizationCSVSystem": true,
-    "LootDropSystem": false,
+    "LootDropSystem": true,
     "MagicSystem": false,
     "MainMenuSystem": false,
     "MapMarkerSystem": false,
