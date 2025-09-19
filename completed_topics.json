@@ -199,7 +199,7 @@
     "MainMenuSystem": true,
     "MapMarkerSystem": true,
     "MatchmakingSystem": true,
-    "MemoryBudgetSystem": false,
+    "MemoryBudgetSystem": true,
     "MeshBakingSystem": false,
     "MiniMapSystem": false,
     "ModularCharacterSystem": false,
