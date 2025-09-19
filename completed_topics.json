@@ -195,7 +195,7 @@
     "LoadingScreenSystem": true,
     "LocalizationCSVSystem": true,
     "LootDropSystem": true,
-    "MagicSystem": false,
+    "MagicSystem": true,
     "MainMenuSystem": false,
     "MapMarkerSystem": false,
     "MatchmakingSystem": false,
