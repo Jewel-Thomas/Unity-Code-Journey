@@ -198,7 +198,7 @@
     "MagicSystem": true,
     "MainMenuSystem": true,
     "MapMarkerSystem": true,
-    "MatchmakingSystem": false,
+    "MatchmakingSystem": true,
     "MemoryBudgetSystem": false,
     "MeshBakingSystem": false,
     "MiniMapSystem": false,

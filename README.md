@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 199/286 (69.6%)
+## Progress: 200/286 (69.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -204,9 +204,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ MagicSystem
 - ✅ MainMenuSystem
 - ✅ MapMarkerSystem
+- ✅ MatchmakingSystem
 
 ### Remaining Patterns:
-- ⏳ MatchmakingSystem
 - ⏳ MemoryBudgetSystem
 - ⏳ MeshBakingSystem
 - ⏳ MiniMapSystem
