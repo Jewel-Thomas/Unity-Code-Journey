@@ -192,7 +192,7 @@
     "LevelStreamingSystem": true,
     "LightProbeSystem": true,
     "LightingManagerSystem": true,
-    "LoadingScreenSystem": false,
+    "LoadingScreenSystem": true,
     "LocalizationCSVSystem": false,
     "LootDropSystem": false,
     "MagicSystem": false,
