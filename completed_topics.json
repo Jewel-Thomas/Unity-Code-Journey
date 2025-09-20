@@ -204,7 +204,7 @@
     "MiniMapSystem": true,
     "ModularCharacterSystem": true,
     "ModularUIFramework": true,
-    "MotionMatching": false,
+    "MotionMatching": true,
     "MountSystem": false,
     "MusicManager": false,
     "NavMeshObstacleSystem": false,
