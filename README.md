@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 204/286 (71.3%)
+## Progress: 205/286 (71.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -209,9 +209,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ MeshBakingSystem
 - ✅ MiniMapSystem
 - ✅ ModularCharacterSystem
+- ✅ ModularUIFramework
 
 ### Remaining Patterns:
-- ⏳ ModularUIFramework
 - ⏳ MotionMatching
 - ⏳ MountSystem
 - ⏳ MusicManager

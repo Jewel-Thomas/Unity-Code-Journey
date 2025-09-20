@@ -203,7 +203,7 @@
     "MeshBakingSystem": true,
     "MiniMapSystem": true,
     "ModularCharacterSystem": true,
-    "ModularUIFramework": false,
+    "ModularUIFramework": true,
     "MotionMatching": false,
     "MountSystem": false,
     "MusicManager": false,
