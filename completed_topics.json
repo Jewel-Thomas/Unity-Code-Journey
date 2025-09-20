@@ -206,7 +206,7 @@
     "ModularUIFramework": true,
     "MotionMatching": true,
     "MountSystem": true,
-    "MusicManager": false,
+    "MusicManager": true,
     "NavMeshObstacleSystem": false,
     "NavMeshStreaming": false,
     "NPCSpawner": false,
