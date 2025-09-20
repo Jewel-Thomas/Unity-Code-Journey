@@ -205,7 +205,7 @@
     "ModularCharacterSystem": true,
     "ModularUIFramework": true,
     "MotionMatching": true,
-    "MountSystem": false,
+    "MountSystem": true,
     "MusicManager": false,
     "NavMeshObstacleSystem": false,
     "NavMeshStreaming": false,
