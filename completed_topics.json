@@ -201,7 +201,7 @@
     "MatchmakingSystem": true,
     "MemoryBudgetSystem": true,
     "MeshBakingSystem": true,
-    "MiniMapSystem": false,
+    "MiniMapSystem": true,
     "ModularCharacterSystem": false,
     "ModularUIFramework": false,
     "MotionMatching": false,
