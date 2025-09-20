@@ -202,7 +202,7 @@
     "MemoryBudgetSystem": true,
     "MeshBakingSystem": true,
     "MiniMapSystem": true,
-    "ModularCharacterSystem": false,
+    "ModularCharacterSystem": true,
     "ModularUIFramework": false,
     "MotionMatching": false,
     "MountSystem": false,
