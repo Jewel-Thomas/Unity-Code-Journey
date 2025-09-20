@@ -200,7 +200,7 @@
     "MapMarkerSystem": true,
     "MatchmakingSystem": true,
     "MemoryBudgetSystem": true,
-    "MeshBakingSystem": false,
+    "MeshBakingSystem": true,
     "MiniMapSystem": false,
     "ModularCharacterSystem": false,
     "ModularUIFramework": false,
