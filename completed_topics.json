@@ -212,7 +212,7 @@
     "NPCSpawner": true,
     "ObjectHighlightSystem": true,
     "ObjectOutlineSystem": true,
-    "ParallaxScrollingSystem": false,
+    "ParallaxScrollingSystem": true,
     "ParticleManager": false,
     "ParticlePooling": false,
     "PartySystem": false,
