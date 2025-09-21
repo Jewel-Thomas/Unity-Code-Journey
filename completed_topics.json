@@ -208,7 +208,7 @@
     "MountSystem": true,
     "MusicManager": true,
     "NavMeshObstacleSystem": true,
-    "NavMeshStreaming": false,
+    "NavMeshStreaming": true,
     "NPCSpawner": false,
     "ObjectHighlightSystem": false,
     "ObjectOutlineSystem": false,

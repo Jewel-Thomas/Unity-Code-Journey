@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 209/286 (73.1%)
+## Progress: 210/286 (73.4%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -214,9 +214,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ MountSystem
 - ✅ MusicManager
 - ✅ NavMeshObstacleSystem
+- ✅ NavMeshStreaming
 
 ### Remaining Patterns:
-- ⏳ NavMeshStreaming
 - ⏳ NPCSpawner
 - ⏳ ObjectHighlightSystem
 - ⏳ ObjectOutlineSystem
