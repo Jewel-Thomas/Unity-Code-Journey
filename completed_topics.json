@@ -215,7 +215,7 @@
     "ParallaxScrollingSystem": true,
     "ParticleManager": true,
     "ParticlePooling": true,
-    "PartySystem": false,
+    "PartySystem": true,
     "PathfindingSystem": false,
     "PauseMenuSystem": false,
     "PhysicsDebugSystem": false,
