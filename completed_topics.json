@@ -211,7 +211,7 @@
     "NavMeshStreaming": true,
     "NPCSpawner": true,
     "ObjectHighlightSystem": true,
-    "ObjectOutlineSystem": false,
+    "ObjectOutlineSystem": true,
     "ParallaxScrollingSystem": false,
     "ParticleManager": false,
     "ParticlePooling": false,
