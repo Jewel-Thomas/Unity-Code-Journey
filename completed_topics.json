@@ -209,7 +209,7 @@
     "MusicManager": true,
     "NavMeshObstacleSystem": true,
     "NavMeshStreaming": true,
-    "NPCSpawner": false,
+    "NPCSpawner": true,
     "ObjectHighlightSystem": false,
     "ObjectOutlineSystem": false,
     "ParallaxScrollingSystem": false,
