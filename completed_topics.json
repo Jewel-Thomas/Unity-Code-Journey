@@ -213,7 +213,7 @@
     "ObjectHighlightSystem": true,
     "ObjectOutlineSystem": true,
     "ParallaxScrollingSystem": true,
-    "ParticleManager": false,
+    "ParticleManager": true,
     "ParticlePooling": false,
     "PartySystem": false,
     "PathfindingSystem": false,

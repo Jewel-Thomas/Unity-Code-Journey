@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 214/286 (74.8%)
+## Progress: 215/286 (75.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -219,9 +219,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ ObjectHighlightSystem
 - ✅ ObjectOutlineSystem
 - ✅ ParallaxScrollingSystem
+- ✅ ParticleManager
 
 ### Remaining Patterns:
-- ⏳ ParticleManager
 - ⏳ ParticlePooling
 - ⏳ PartySystem
 - ⏳ PathfindingSystem
