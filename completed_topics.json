@@ -221,7 +221,7 @@
     "PhysicsDebugSystem": true,
     "PlayerCustomization": true,
     "PlayerProgressionSystem": true,
-    "PlayerRespawnSystem": false,
+    "PlayerRespawnSystem": true,
     "PluginLoaderSystem": false,
     "PortalSystem": false,
     "ProceduralAnimation": false,
