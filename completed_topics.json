@@ -216,7 +216,7 @@
     "ParticleManager": true,
     "ParticlePooling": true,
     "PartySystem": true,
-    "PathfindingSystem": false,
+    "PathfindingSystem": true,
     "PauseMenuSystem": false,
     "PhysicsDebugSystem": false,
     "PlayerCustomization": false,

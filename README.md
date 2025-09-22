@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 217/286 (75.9%)
+## Progress: 218/286 (76.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -222,9 +222,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ ParticleManager
 - ✅ ParticlePooling
 - ✅ PartySystem
+- ✅ PathfindingSystem
 
 ### Remaining Patterns:
-- ⏳ PathfindingSystem
 - ⏳ PauseMenuSystem
 - ⏳ PhysicsDebugSystem
 - ⏳ PlayerCustomization
