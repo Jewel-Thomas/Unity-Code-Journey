@@ -222,7 +222,7 @@
     "PlayerCustomization": true,
     "PlayerProgressionSystem": true,
     "PlayerRespawnSystem": true,
-    "PluginLoaderSystem": false,
+    "PluginLoaderSystem": true,
     "PortalSystem": false,
     "ProceduralAnimation": false,
     "ProceduralMeshGeneration": false,
