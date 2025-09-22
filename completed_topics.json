@@ -217,7 +217,7 @@
     "ParticlePooling": true,
     "PartySystem": true,
     "PathfindingSystem": true,
-    "PauseMenuSystem": false,
+    "PauseMenuSystem": true,
     "PhysicsDebugSystem": false,
     "PlayerCustomization": false,
     "PlayerProgressionSystem": false,
