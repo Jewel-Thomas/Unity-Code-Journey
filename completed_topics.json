@@ -220,7 +220,7 @@
     "PauseMenuSystem": true,
     "PhysicsDebugSystem": true,
     "PlayerCustomization": true,
-    "PlayerProgressionSystem": false,
+    "PlayerProgressionSystem": true,
     "PlayerRespawnSystem": false,
     "PluginLoaderSystem": false,
     "PortalSystem": false,
