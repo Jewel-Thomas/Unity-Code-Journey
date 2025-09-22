@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 220/286 (76.9%)
+## Progress: 221/286 (77.3%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -225,9 +225,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ PathfindingSystem
 - ✅ PauseMenuSystem
 - ✅ PhysicsDebugSystem
+- ✅ PlayerCustomization
 
 ### Remaining Patterns:
-- ⏳ PlayerCustomization
 - ⏳ PlayerProgressionSystem
 - ⏳ PlayerRespawnSystem
 - ⏳ PluginLoaderSystem

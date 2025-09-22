@@ -219,7 +219,7 @@
     "PathfindingSystem": true,
     "PauseMenuSystem": true,
     "PhysicsDebugSystem": true,
-    "PlayerCustomization": false,
+    "PlayerCustomization": true,
     "PlayerProgressionSystem": false,
     "PlayerRespawnSystem": false,
     "PluginLoaderSystem": false,
