@@ -226,7 +226,7 @@
     "PortalSystem": true,
     "ProceduralAnimation": true,
     "ProceduralMeshGeneration": true,
-    "ProceduralQuestSystem": false,
+    "ProceduralQuestSystem": true,
     "ProjectilePoolingSystem": false,
     "QuestDialogueSystem": false,
     "QuestMarkerSystem": false,
