@@ -230,7 +230,7 @@
     "ProjectilePoolingSystem": true,
     "QuestDialogueSystem": true,
     "QuestMarkerSystem": true,
-    "QuestRewardSystem": false,
+    "QuestRewardSystem": true,
     "RagdollSystem": false,
     "RaycastInteractionSystem": false,
     "ReputationSystem": false,
