@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 226/286 (79.0%)
+## Progress: 227/286 (79.4%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -231,9 +231,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ PluginLoaderSystem
 - ✅ PortalSystem
 - ✅ ProceduralAnimation
+- ✅ ProceduralMeshGeneration
 
 ### Remaining Patterns:
-- ⏳ ProceduralMeshGeneration
 - ⏳ ProceduralQuestSystem
 - ⏳ ProjectilePoolingSystem
 - ⏳ QuestDialogueSystem

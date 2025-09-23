@@ -225,7 +225,7 @@
     "PluginLoaderSystem": true,
     "PortalSystem": true,
     "ProceduralAnimation": true,
-    "ProceduralMeshGeneration": false,
+    "ProceduralMeshGeneration": true,
     "ProceduralQuestSystem": false,
     "ProjectilePoolingSystem": false,
     "QuestDialogueSystem": false,
