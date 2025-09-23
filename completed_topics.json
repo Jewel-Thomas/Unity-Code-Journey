@@ -223,7 +223,7 @@
     "PlayerProgressionSystem": true,
     "PlayerRespawnSystem": true,
     "PluginLoaderSystem": true,
-    "PortalSystem": false,
+    "PortalSystem": true,
     "ProceduralAnimation": false,
     "ProceduralMeshGeneration": false,
     "ProceduralQuestSystem": false,
