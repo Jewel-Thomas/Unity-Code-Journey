@@ -224,7 +224,7 @@
     "PlayerRespawnSystem": true,
     "PluginLoaderSystem": true,
     "PortalSystem": true,
-    "ProceduralAnimation": false,
+    "ProceduralAnimation": true,
     "ProceduralMeshGeneration": false,
     "ProceduralQuestSystem": false,
     "ProjectilePoolingSystem": false,
