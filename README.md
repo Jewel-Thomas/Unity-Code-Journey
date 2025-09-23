@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 230/286 (80.4%)
+## Progress: 231/286 (80.8%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -235,9 +235,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ ProceduralQuestSystem
 - ✅ ProjectilePoolingSystem
 - ✅ QuestDialogueSystem
+- ✅ QuestMarkerSystem
 
 ### Remaining Patterns:
-- ⏳ QuestMarkerSystem
 - ⏳ QuestRewardSystem
 - ⏳ RagdollSystem
 - ⏳ RaycastInteractionSystem

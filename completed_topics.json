@@ -229,7 +229,7 @@
     "ProceduralQuestSystem": true,
     "ProjectilePoolingSystem": true,
     "QuestDialogueSystem": true,
-    "QuestMarkerSystem": false,
+    "QuestMarkerSystem": true,
     "QuestRewardSystem": false,
     "RagdollSystem": false,
     "RaycastInteractionSystem": false,
