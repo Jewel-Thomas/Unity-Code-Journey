@@ -227,7 +227,7 @@
     "ProceduralAnimation": true,
     "ProceduralMeshGeneration": true,
     "ProceduralQuestSystem": true,
-    "ProjectilePoolingSystem": false,
+    "ProjectilePoolingSystem": true,
     "QuestDialogueSystem": false,
     "QuestMarkerSystem": false,
     "QuestRewardSystem": false,
