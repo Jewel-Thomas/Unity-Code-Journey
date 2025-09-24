@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 235/286 (82.2%)
+## Progress: 236/286 (82.5%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -240,9 +240,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ RagdollSystem
 - ✅ RaycastInteractionSystem
 - ✅ ReputationSystem
+- ✅ ResourceGatheringSystem
 
 ### Remaining Patterns:
-- ⏳ ResourceGatheringSystem
 - ⏳ ResourceNodeSystem
 - ⏳ RewardSystem
 - ⏳ RoomBasedCulling

@@ -234,7 +234,7 @@
     "RagdollSystem": true,
     "RaycastInteractionSystem": true,
     "ReputationSystem": true,
-    "ResourceGatheringSystem": false,
+    "ResourceGatheringSystem": true,
     "ResourceNodeSystem": false,
     "RewardSystem": false,
     "RoomBasedCulling": false,
