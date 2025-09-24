@@ -236,7 +236,7 @@
     "ReputationSystem": true,
     "ResourceGatheringSystem": true,
     "ResourceNodeSystem": true,
-    "RewardSystem": false,
+    "RewardSystem": true,
     "RoomBasedCulling": false,
     "SaveCompressionSystem": false,
     "SceneGraphSystem": false,
