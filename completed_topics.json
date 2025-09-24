@@ -231,7 +231,7 @@
     "QuestDialogueSystem": true,
     "QuestMarkerSystem": true,
     "QuestRewardSystem": true,
-    "RagdollSystem": false,
+    "RagdollSystem": true,
     "RaycastInteractionSystem": false,
     "ReputationSystem": false,
     "ResourceGatheringSystem": false,
