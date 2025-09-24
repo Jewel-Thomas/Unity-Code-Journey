@@ -235,7 +235,7 @@
     "RaycastInteractionSystem": true,
     "ReputationSystem": true,
     "ResourceGatheringSystem": true,
-    "ResourceNodeSystem": false,
+    "ResourceNodeSystem": true,
     "RewardSystem": false,
     "RoomBasedCulling": false,
     "SaveCompressionSystem": false,
