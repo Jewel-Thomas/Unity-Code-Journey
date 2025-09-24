@@ -237,7 +237,7 @@
     "ResourceGatheringSystem": true,
     "ResourceNodeSystem": true,
     "RewardSystem": true,
-    "RoomBasedCulling": false,
+    "RoomBasedCulling": true,
     "SaveCompressionSystem": false,
     "SceneGraphSystem": false,
     "ScreenshotSystem": false,
