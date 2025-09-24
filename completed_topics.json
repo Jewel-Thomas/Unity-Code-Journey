@@ -233,7 +233,7 @@
     "QuestRewardSystem": true,
     "RagdollSystem": true,
     "RaycastInteractionSystem": true,
-    "ReputationSystem": false,
+    "ReputationSystem": true,
     "ResourceGatheringSystem": false,
     "ResourceNodeSystem": false,
     "RewardSystem": false,
