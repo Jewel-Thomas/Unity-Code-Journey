@@ -238,7 +238,7 @@
     "ResourceNodeSystem": true,
     "RewardSystem": true,
     "RoomBasedCulling": true,
-    "SaveCompressionSystem": false,
+    "SaveCompressionSystem": true,
     "SceneGraphSystem": false,
     "ScreenshotSystem": false,
     "SeasonPassSystem": false,
