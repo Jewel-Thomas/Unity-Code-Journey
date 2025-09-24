@@ -232,7 +232,7 @@
     "QuestMarkerSystem": true,
     "QuestRewardSystem": true,
     "RagdollSystem": true,
-    "RaycastInteractionSystem": false,
+    "RaycastInteractionSystem": true,
     "ReputationSystem": false,
     "ResourceGatheringSystem": false,
     "ResourceNodeSystem": false,
