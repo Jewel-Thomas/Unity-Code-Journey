@@ -241,7 +241,7 @@
     "SaveCompressionSystem": true,
     "SceneGraphSystem": true,
     "ScreenshotSystem": true,
-    "SeasonPassSystem": false,
+    "SeasonPassSystem": true,
     "SettingsManager": false,
     "ShaderVariantSystem": false,
     "ShopSystem": false,
