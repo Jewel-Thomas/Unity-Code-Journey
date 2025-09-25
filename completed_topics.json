@@ -244,7 +244,7 @@
     "SeasonPassSystem": true,
     "SettingsManager": true,
     "ShaderVariantSystem": true,
-    "ShopSystem": false,
+    "ShopSystem": true,
     "SkillSystem": false,
     "SmartObjectSystem": false,
     "SoundManager": false,
