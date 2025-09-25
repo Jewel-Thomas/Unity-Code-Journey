@@ -239,7 +239,7 @@
     "RewardSystem": true,
     "RoomBasedCulling": true,
     "SaveCompressionSystem": true,
-    "SceneGraphSystem": false,
+    "SceneGraphSystem": true,
     "ScreenshotSystem": false,
     "SeasonPassSystem": false,
     "SettingsManager": false,
