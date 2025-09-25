@@ -243,7 +243,7 @@
     "ScreenshotSystem": true,
     "SeasonPassSystem": true,
     "SettingsManager": true,
-    "ShaderVariantSystem": false,
+    "ShaderVariantSystem": true,
     "ShopSystem": false,
     "SkillSystem": false,
     "SmartObjectSystem": false,
