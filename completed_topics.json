@@ -240,7 +240,7 @@
     "RoomBasedCulling": true,
     "SaveCompressionSystem": true,
     "SceneGraphSystem": true,
-    "ScreenshotSystem": false,
+    "ScreenshotSystem": true,
     "SeasonPassSystem": false,
     "SettingsManager": false,
     "ShaderVariantSystem": false,

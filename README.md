@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 241/286 (84.3%)
+## Progress: 242/286 (84.6%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -246,9 +246,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ RoomBasedCulling
 - ✅ SaveCompressionSystem
 - ✅ SceneGraphSystem
+- ✅ ScreenshotSystem
 
 ### Remaining Patterns:
-- ⏳ ScreenshotSystem
 - ⏳ SeasonPassSystem
 - ⏳ SettingsManager
 - ⏳ ShaderVariantSystem
