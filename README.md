@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 246/286 (86.0%)
+## Progress: 247/286 (86.4%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -251,9 +251,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ SettingsManager
 - ✅ ShaderVariantSystem
 - ✅ ShopSystem
+- ✅ SkillSystem
 
 ### Remaining Patterns:
-- ⏳ SkillSystem
 - ⏳ SmartObjectSystem
 - ⏳ SoundManager
 - ⏳ SoundOcclusion

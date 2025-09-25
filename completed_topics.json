@@ -245,7 +245,7 @@
     "SettingsManager": true,
     "ShaderVariantSystem": true,
     "ShopSystem": true,
-    "SkillSystem": false,
+    "SkillSystem": true,
     "SmartObjectSystem": false,
     "SoundManager": false,
     "SoundOcclusion": false,
