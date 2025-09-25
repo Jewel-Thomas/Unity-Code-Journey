@@ -242,7 +242,7 @@
     "SceneGraphSystem": true,
     "ScreenshotSystem": true,
     "SeasonPassSystem": true,
-    "SettingsManager": false,
+    "SettingsManager": true,
     "ShaderVariantSystem": false,
     "ShopSystem": false,
     "SkillSystem": false,
