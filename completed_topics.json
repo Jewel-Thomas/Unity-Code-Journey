@@ -246,7 +246,7 @@
     "ShaderVariantSystem": true,
     "ShopSystem": true,
     "SkillSystem": true,
-    "SmartObjectSystem": false,
+    "SmartObjectSystem": true,
     "SoundManager": false,
     "SoundOcclusion": false,
     "SpatialAudio": false,
