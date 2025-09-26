@@ -254,7 +254,7 @@
     "SpriteAtlasSystem": true,
     "StaminaSystem": true,
     "StatModifierSystem": true,
-    "StreamingAssets": false,
+    "StreamingAssets": true,
     "SubtitleSystem": false,
     "SurvivalSystem": false,
     "SwimmingSystem": false,
