@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 253/286 (88.5%)
+## Progress: 254/286 (88.8%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -258,9 +258,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ SpatialAudio
 - ✅ SplineBasedMovement
 - ✅ SpriteAtlasSystem
+- ✅ StaminaSystem
 
 ### Remaining Patterns:
-- ⏳ StaminaSystem
 - ⏳ StatModifierSystem
 - ⏳ StreamingAssets
 - ⏳ SubtitleSystem

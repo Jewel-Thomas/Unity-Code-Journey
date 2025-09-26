@@ -252,7 +252,7 @@
     "SpatialAudio": true,
     "SplineBasedMovement": true,
     "SpriteAtlasSystem": true,
-    "StaminaSystem": false,
+    "StaminaSystem": true,
     "StatModifierSystem": false,
     "StreamingAssets": false,
     "SubtitleSystem": false,
