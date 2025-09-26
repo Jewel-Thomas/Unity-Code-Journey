@@ -249,7 +249,7 @@
     "SmartObjectSystem": true,
     "SoundManager": true,
     "SoundOcclusion": true,
-    "SpatialAudio": false,
+    "SpatialAudio": true,
     "SplineBasedMovement": false,
     "SpriteAtlasSystem": false,
     "StaminaSystem": false,
