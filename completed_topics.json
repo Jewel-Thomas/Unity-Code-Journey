@@ -253,7 +253,7 @@
     "SplineBasedMovement": true,
     "SpriteAtlasSystem": true,
     "StaminaSystem": true,
-    "StatModifierSystem": false,
+    "StatModifierSystem": true,
     "StreamingAssets": false,
     "SubtitleSystem": false,
     "SurvivalSystem": false,
