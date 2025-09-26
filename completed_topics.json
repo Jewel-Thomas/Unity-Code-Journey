@@ -251,7 +251,7 @@
     "SoundOcclusion": true,
     "SpatialAudio": true,
     "SplineBasedMovement": true,
-    "SpriteAtlasSystem": false,
+    "SpriteAtlasSystem": true,
     "StaminaSystem": false,
     "StatModifierSystem": false,
     "StreamingAssets": false,
