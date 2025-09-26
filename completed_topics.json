@@ -250,7 +250,7 @@
     "SoundManager": true,
     "SoundOcclusion": true,
     "SpatialAudio": true,
-    "SplineBasedMovement": false,
+    "SplineBasedMovement": true,
     "SpriteAtlasSystem": false,
     "StaminaSystem": false,
     "StatModifierSystem": false,
