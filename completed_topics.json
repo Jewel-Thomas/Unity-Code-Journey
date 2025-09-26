@@ -248,7 +248,7 @@
     "SkillSystem": true,
     "SmartObjectSystem": true,
     "SoundManager": true,
-    "SoundOcclusion": false,
+    "SoundOcclusion": true,
     "SpatialAudio": false,
     "SplineBasedMovement": false,
     "SpriteAtlasSystem": false,
