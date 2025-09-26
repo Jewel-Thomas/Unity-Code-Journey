@@ -247,7 +247,7 @@
     "ShopSystem": true,
     "SkillSystem": true,
     "SmartObjectSystem": true,
-    "SoundManager": false,
+    "SoundManager": true,
     "SoundOcclusion": false,
     "SpatialAudio": false,
     "SplineBasedMovement": false,
