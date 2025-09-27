@@ -256,7 +256,7 @@
     "StatModifierSystem": true,
     "StreamingAssets": true,
     "SubtitleSystem": true,
-    "SurvivalSystem": false,
+    "SurvivalSystem": true,
     "SwimmingSystem": false,
     "TacticalAIPlanner": false,
     "TargetLockSystem": false,
