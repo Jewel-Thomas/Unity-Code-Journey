@@ -257,7 +257,7 @@
     "StreamingAssets": true,
     "SubtitleSystem": true,
     "SurvivalSystem": true,
-    "SwimmingSystem": false,
+    "SwimmingSystem": true,
     "TacticalAIPlanner": false,
     "TargetLockSystem": false,
     "TerrainDeformation": false,
