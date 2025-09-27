@@ -260,7 +260,7 @@
     "SwimmingSystem": true,
     "TacticalAIPlanner": true,
     "TargetLockSystem": true,
-    "TerrainDeformation": false,
+    "TerrainDeformation": true,
     "TextureStreaming": false,
     "ThirdPersonCameraSystem": false,
     "ThrowableSystem": false,
