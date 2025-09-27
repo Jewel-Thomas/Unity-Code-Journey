@@ -258,7 +258,7 @@
     "SubtitleSystem": true,
     "SurvivalSystem": true,
     "SwimmingSystem": true,
-    "TacticalAIPlanner": false,
+    "TacticalAIPlanner": true,
     "TargetLockSystem": false,
     "TerrainDeformation": false,
     "TextureStreaming": false,

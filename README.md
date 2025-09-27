@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 259/286 (90.6%)
+## Progress: 260/286 (90.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -264,9 +264,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ SubtitleSystem
 - ✅ SurvivalSystem
 - ✅ SwimmingSystem
+- ✅ TacticalAIPlanner
 
 ### Remaining Patterns:
-- ⏳ TacticalAIPlanner
 - ⏳ TargetLockSystem
 - ⏳ TerrainDeformation
 - ⏳ TextureStreaming
