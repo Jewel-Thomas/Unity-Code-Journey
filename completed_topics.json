@@ -261,7 +261,7 @@
     "TacticalAIPlanner": true,
     "TargetLockSystem": true,
     "TerrainDeformation": true,
-    "TextureStreaming": false,
+    "TextureStreaming": true,
     "ThirdPersonCameraSystem": false,
     "ThrowableSystem": false,
     "TimeOfDaySystem": false,
