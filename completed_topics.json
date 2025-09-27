@@ -255,7 +255,7 @@
     "StaminaSystem": true,
     "StatModifierSystem": true,
     "StreamingAssets": true,
-    "SubtitleSystem": false,
+    "SubtitleSystem": true,
     "SurvivalSystem": false,
     "SwimmingSystem": false,
     "TacticalAIPlanner": false,
