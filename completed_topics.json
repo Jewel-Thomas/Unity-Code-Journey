@@ -259,7 +259,7 @@
     "SurvivalSystem": true,
     "SwimmingSystem": true,
     "TacticalAIPlanner": true,
-    "TargetLockSystem": false,
+    "TargetLockSystem": true,
     "TerrainDeformation": false,
     "TextureStreaming": false,
     "ThirdPersonCameraSystem": false,
