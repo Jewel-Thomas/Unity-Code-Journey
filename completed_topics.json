@@ -266,7 +266,7 @@
     "ThrowableSystem": true,
     "TimeOfDaySystem": true,
     "TimeRewindSystem": true,
-    "TradingSystem": false,
+    "TradingSystem": true,
     "TransitionSystem": false,
     "TraversalSystem": false,
     "TutorialSystem": false,

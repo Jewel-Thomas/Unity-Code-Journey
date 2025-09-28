@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 267/286 (93.4%)
+## Progress: 268/286 (93.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -272,9 +272,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ ThrowableSystem
 - ✅ TimeOfDaySystem
 - ✅ TimeRewindSystem
+- ✅ TradingSystem
 
 ### Remaining Patterns:
-- ⏳ TradingSystem
 - ⏳ TransitionSystem
 - ⏳ TraversalSystem
 - ⏳ TutorialSystem
