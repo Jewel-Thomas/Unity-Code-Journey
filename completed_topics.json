@@ -268,7 +268,7 @@
     "TimeRewindSystem": true,
     "TradingSystem": true,
     "TransitionSystem": true,
-    "TraversalSystem": false,
+    "TraversalSystem": true,
     "TutorialSystem": false,
     "UIAnimationSystem": false,
     "UIFocusSystem": false,
