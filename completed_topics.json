@@ -263,7 +263,7 @@
     "TerrainDeformation": true,
     "TextureStreaming": true,
     "ThirdPersonCameraSystem": true,
-    "ThrowableSystem": false,
+    "ThrowableSystem": true,
     "TimeOfDaySystem": false,
     "TimeRewindSystem": false,
     "TradingSystem": false,
