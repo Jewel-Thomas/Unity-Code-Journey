@@ -265,7 +265,7 @@
     "ThirdPersonCameraSystem": true,
     "ThrowableSystem": true,
     "TimeOfDaySystem": true,
-    "TimeRewindSystem": false,
+    "TimeRewindSystem": true,
     "TradingSystem": false,
     "TransitionSystem": false,
     "TraversalSystem": false,
