@@ -264,7 +264,7 @@
     "TextureStreaming": true,
     "ThirdPersonCameraSystem": true,
     "ThrowableSystem": true,
-    "TimeOfDaySystem": false,
+    "TimeOfDaySystem": true,
     "TimeRewindSystem": false,
     "TradingSystem": false,
     "TransitionSystem": false,
