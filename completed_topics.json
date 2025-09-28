@@ -262,7 +262,7 @@
     "TargetLockSystem": true,
     "TerrainDeformation": true,
     "TextureStreaming": true,
-    "ThirdPersonCameraSystem": false,
+    "ThirdPersonCameraSystem": true,
     "ThrowableSystem": false,
     "TimeOfDaySystem": false,
     "TimeRewindSystem": false,
