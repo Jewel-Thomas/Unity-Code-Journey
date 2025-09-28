@@ -267,7 +267,7 @@
     "TimeOfDaySystem": true,
     "TimeRewindSystem": true,
     "TradingSystem": true,
-    "TransitionSystem": false,
+    "TransitionSystem": true,
     "TraversalSystem": false,
     "TutorialSystem": false,
     "UIAnimationSystem": false,
