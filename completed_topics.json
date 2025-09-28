@@ -269,7 +269,7 @@
     "TradingSystem": true,
     "TransitionSystem": true,
     "TraversalSystem": true,
-    "TutorialSystem": false,
+    "TutorialSystem": true,
     "UIAnimationSystem": false,
     "UIFocusSystem": false,
     "UIInputSystem": false,
