@@ -272,7 +272,7 @@
     "TutorialSystem": true,
     "UIAnimationSystem": true,
     "UIFocusSystem": true,
-    "UIInputSystem": false,
+    "UIInputSystem": true,
     "UINavMeshSystem": false,
     "UnitSelectionSystem": false,
     "UserProfileSystem": false,
