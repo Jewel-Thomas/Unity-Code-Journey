@@ -270,7 +270,7 @@
     "TransitionSystem": true,
     "TraversalSystem": true,
     "TutorialSystem": true,
-    "UIAnimationSystem": false,
+    "UIAnimationSystem": true,
     "UIFocusSystem": false,
     "UIInputSystem": false,
     "UINavMeshSystem": false,
