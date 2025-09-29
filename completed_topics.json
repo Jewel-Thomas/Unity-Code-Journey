@@ -274,7 +274,7 @@
     "UIFocusSystem": true,
     "UIInputSystem": true,
     "UINavMeshSystem": true,
-    "UnitSelectionSystem": false,
+    "UnitSelectionSystem": true,
     "UserProfileSystem": false,
     "VehicleControllerSystem": false,
     "VirtualCameraSystem": false,
