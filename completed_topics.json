@@ -273,7 +273,7 @@
     "UIAnimationSystem": true,
     "UIFocusSystem": true,
     "UIInputSystem": true,
-    "UINavMeshSystem": false,
+    "UINavMeshSystem": true,
     "UnitSelectionSystem": false,
     "UserProfileSystem": false,
     "VehicleControllerSystem": false,

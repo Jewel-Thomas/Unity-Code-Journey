@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 274/286 (95.8%)
+## Progress: 275/286 (96.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -279,9 +279,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ UIAnimationSystem
 - ✅ UIFocusSystem
 - ✅ UIInputSystem
+- ✅ UINavMeshSystem
 
 ### Remaining Patterns:
-- ⏳ UINavMeshSystem
 - ⏳ UnitSelectionSystem
 - ⏳ UserProfileSystem
 - ⏳ VehicleControllerSystem
