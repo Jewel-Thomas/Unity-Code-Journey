@@ -275,7 +275,7 @@
     "UIInputSystem": true,
     "UINavMeshSystem": true,
     "UnitSelectionSystem": true,
-    "UserProfileSystem": false,
+    "UserProfileSystem": true,
     "VehicleControllerSystem": false,
     "VirtualCameraSystem": false,
     "VolumetricLighting": false,
