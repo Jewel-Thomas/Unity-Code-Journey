@@ -282,7 +282,7 @@
     "WaypointSystem": true,
     "WeaponAttachmentSystem": true,
     "WeaponCustomizationSystem": true,
-    "WeatherSystem": false,
+    "WeatherSystem": true,
     "WorldEventSystem": false,
     "ZoneLoadingSystem": false
 }
