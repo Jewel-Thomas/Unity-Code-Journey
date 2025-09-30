@@ -278,7 +278,7 @@
     "UserProfileSystem": true,
     "VehicleControllerSystem": true,
     "VirtualCameraSystem": true,
-    "VolumetricLighting": false,
+    "VolumetricLighting": true,
     "WaypointSystem": false,
     "WeaponAttachmentSystem": false,
     "WeaponCustomizationSystem": false,
