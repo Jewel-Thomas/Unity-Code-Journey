@@ -284,5 +284,5 @@
     "WeaponCustomizationSystem": true,
     "WeatherSystem": true,
     "WorldEventSystem": true,
-    "ZoneLoadingSystem": false
+    "ZoneLoadingSystem": true
 }
