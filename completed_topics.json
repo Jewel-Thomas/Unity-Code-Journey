@@ -279,7 +279,7 @@
     "VehicleControllerSystem": true,
     "VirtualCameraSystem": true,
     "VolumetricLighting": true,
-    "WaypointSystem": false,
+    "WaypointSystem": true,
     "WeaponAttachmentSystem": false,
     "WeaponCustomizationSystem": false,
     "WeatherSystem": false,
