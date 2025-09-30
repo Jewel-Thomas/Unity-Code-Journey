@@ -277,7 +277,7 @@
     "UnitSelectionSystem": true,
     "UserProfileSystem": true,
     "VehicleControllerSystem": true,
-    "VirtualCameraSystem": false,
+    "VirtualCameraSystem": true,
     "VolumetricLighting": false,
     "WaypointSystem": false,
     "WeaponAttachmentSystem": false,
