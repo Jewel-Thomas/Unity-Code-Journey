@@ -281,7 +281,7 @@
     "VolumetricLighting": true,
     "WaypointSystem": true,
     "WeaponAttachmentSystem": true,
-    "WeaponCustomizationSystem": false,
+    "WeaponCustomizationSystem": true,
     "WeatherSystem": false,
     "WorldEventSystem": false,
     "ZoneLoadingSystem": false
