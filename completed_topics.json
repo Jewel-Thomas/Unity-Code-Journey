@@ -280,7 +280,7 @@
     "VirtualCameraSystem": true,
     "VolumetricLighting": true,
     "WaypointSystem": true,
-    "WeaponAttachmentSystem": false,
+    "WeaponAttachmentSystem": true,
     "WeaponCustomizationSystem": false,
     "WeatherSystem": false,
     "WorldEventSystem": false,
