@@ -286,7 +286,7 @@
     "WorldEventSystem": true,
     "ZoneLoadingSystem": true,
     "AdaptiveLODSystem": true,
-    "AIConversationSystem": false,
+    "AIConversationSystem": true,
     "AnalyticsEventSystem": false,
     "AsyncJobQueue": false,
     "AuraEffectSystem": false,
