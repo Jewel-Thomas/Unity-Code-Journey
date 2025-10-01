@@ -287,7 +287,7 @@
     "ZoneLoadingSystem": true,
     "AdaptiveLODSystem": true,
     "AIConversationSystem": true,
-    "AnalyticsEventSystem": false,
+    "AnalyticsEventSystem": true,
     "AsyncJobQueue": false,
     "AuraEffectSystem": false,
     "AutoBalancingDifficulty": false,
