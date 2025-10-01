@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 289/515 (56.1%)
+## Progress: 290/515 (56.3%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -294,9 +294,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ AdaptiveLODSystem
 - ✅ AIConversationSystem
 - ✅ AnalyticsEventSystem
+- ✅ AsyncJobQueue
 
 ### Remaining Patterns:
-- ⏳ AsyncJobQueue
 - ⏳ AuraEffectSystem
 - ⏳ AutoBalancingDifficulty
 - ⏳ BiomeGenerationSystem
