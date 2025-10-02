@@ -293,7 +293,7 @@
     "AutoBalancingDifficulty": true,
     "BiomeGenerationSystem": true,
     "BlendShapeController": true,
-    "BookmarkSystem": false,
+    "BookmarkSystem": true,
     "BranchingNarrativeSystem": false,
     "BulletTimeController": false,
     "CameraOcclusionCulling": false,
