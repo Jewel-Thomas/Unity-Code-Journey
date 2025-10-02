@@ -295,7 +295,7 @@
     "BlendShapeController": true,
     "BookmarkSystem": true,
     "BranchingNarrativeSystem": true,
-    "BulletTimeController": false,
+    "BulletTimeController": true,
     "CameraOcclusionCulling": false,
     "CharacterMoodSystem": false,
     "ClimbingSystem": false,
