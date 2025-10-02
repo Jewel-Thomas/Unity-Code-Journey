@@ -290,7 +290,7 @@
     "AnalyticsEventSystem": true,
     "AsyncJobQueue": true,
     "AuraEffectSystem": true,
-    "AutoBalancingDifficulty": false,
+    "AutoBalancingDifficulty": true,
     "BiomeGenerationSystem": false,
     "BlendShapeController": false,
     "BookmarkSystem": false,
