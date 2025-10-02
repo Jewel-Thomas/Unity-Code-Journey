@@ -294,7 +294,7 @@
     "BiomeGenerationSystem": true,
     "BlendShapeController": true,
     "BookmarkSystem": true,
-    "BranchingNarrativeSystem": false,
+    "BranchingNarrativeSystem": true,
     "BulletTimeController": false,
     "CameraOcclusionCulling": false,
     "CharacterMoodSystem": false,
