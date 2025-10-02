@@ -291,7 +291,7 @@
     "AsyncJobQueue": true,
     "AuraEffectSystem": true,
     "AutoBalancingDifficulty": true,
-    "BiomeGenerationSystem": false,
+    "BiomeGenerationSystem": true,
     "BlendShapeController": false,
     "BookmarkSystem": false,
     "BranchingNarrativeSystem": false,

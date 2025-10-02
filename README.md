@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 292/515 (56.7%)
+## Progress: 293/515 (56.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -297,9 +297,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ AsyncJobQueue
 - ✅ AuraEffectSystem
 - ✅ AutoBalancingDifficulty
+- ✅ BiomeGenerationSystem
 
 ### Remaining Patterns:
-- ⏳ BiomeGenerationSystem
 - ⏳ BlendShapeController
 - ⏳ BookmarkSystem
 - ⏳ BranchingNarrativeSystem
