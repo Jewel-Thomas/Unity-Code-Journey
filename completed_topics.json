@@ -296,7 +296,7 @@
     "BookmarkSystem": true,
     "BranchingNarrativeSystem": true,
     "BulletTimeController": true,
-    "CameraOcclusionCulling": false,
+    "CameraOcclusionCulling": true,
     "CharacterMoodSystem": false,
     "ClimbingSystem": false,
     "CloudSaveIntegration": false,
