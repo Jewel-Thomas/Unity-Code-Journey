@@ -292,7 +292,7 @@
     "AuraEffectSystem": true,
     "AutoBalancingDifficulty": true,
     "BiomeGenerationSystem": true,
-    "BlendShapeController": false,
+    "BlendShapeController": true,
     "BookmarkSystem": false,
     "BranchingNarrativeSystem": false,
     "BulletTimeController": false,
