@@ -289,7 +289,7 @@
     "AIConversationSystem": true,
     "AnalyticsEventSystem": true,
     "AsyncJobQueue": true,
-    "AuraEffectSystem": false,
+    "AuraEffectSystem": true,
     "AutoBalancingDifficulty": false,
     "BiomeGenerationSystem": false,
     "BlendShapeController": false,
