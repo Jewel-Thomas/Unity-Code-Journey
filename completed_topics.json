@@ -304,7 +304,7 @@
     "CrowdDialogueSystem": true,
     "CutsceneSkipSystem": true,
     "DataReplicationSystem": true,
-    "DestructibleEnvironmentSystem": false,
+    "DestructibleEnvironmentSystem": true,
     "DynamicAudioZones": false,
     "EchoLocationSystem": false,
     "EmotionDrivenAI": false,

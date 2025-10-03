@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 305/515 (59.2%)
+## Progress: 306/515 (59.4%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -310,9 +310,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ CrowdDialogueSystem
 - ✅ CutsceneSkipSystem
 - ✅ DataReplicationSystem
+- ✅ DestructibleEnvironmentSystem
 
 ### Remaining Patterns:
-- ⏳ DestructibleEnvironmentSystem
 - ⏳ DynamicAudioZones
 - ⏳ EchoLocationSystem
 - ⏳ EmotionDrivenAI
