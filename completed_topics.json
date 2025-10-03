@@ -299,7 +299,7 @@
     "CameraOcclusionCulling": true,
     "CharacterMoodSystem": true,
     "ClimbingSystem": true,
-    "CloudSaveIntegration": false,
+    "CloudSaveIntegration": true,
     "ColorGradingManager": false,
     "CrowdDialogueSystem": false,
     "CutsceneSkipSystem": false,
