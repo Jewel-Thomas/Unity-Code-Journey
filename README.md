@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 302/515 (58.6%)
+## Progress: 303/515 (58.8%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -307,9 +307,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ ClimbingSystem
 - ✅ CloudSaveIntegration
 - ✅ ColorGradingManager
+- ✅ CrowdDialogueSystem
 
 ### Remaining Patterns:
-- ⏳ CrowdDialogueSystem
 - ⏳ CutsceneSkipSystem
 - ⏳ DataReplicationSystem
 - ⏳ DestructibleEnvironmentSystem

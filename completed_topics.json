@@ -301,7 +301,7 @@
     "ClimbingSystem": true,
     "CloudSaveIntegration": true,
     "ColorGradingManager": true,
-    "CrowdDialogueSystem": false,
+    "CrowdDialogueSystem": true,
     "CutsceneSkipSystem": false,
     "DataReplicationSystem": false,
     "DestructibleEnvironmentSystem": false,
