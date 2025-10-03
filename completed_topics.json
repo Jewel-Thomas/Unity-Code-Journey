@@ -302,7 +302,7 @@
     "CloudSaveIntegration": true,
     "ColorGradingManager": true,
     "CrowdDialogueSystem": true,
-    "CutsceneSkipSystem": false,
+    "CutsceneSkipSystem": true,
     "DataReplicationSystem": false,
     "DestructibleEnvironmentSystem": false,
     "DynamicAudioZones": false,
