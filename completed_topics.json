@@ -297,7 +297,7 @@
     "BranchingNarrativeSystem": true,
     "BulletTimeController": true,
     "CameraOcclusionCulling": true,
-    "CharacterMoodSystem": false,
+    "CharacterMoodSystem": true,
     "ClimbingSystem": false,
     "CloudSaveIntegration": false,
     "ColorGradingManager": false,
