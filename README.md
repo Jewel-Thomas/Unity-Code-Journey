@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 299/515 (58.1%)
+## Progress: 300/515 (58.3%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -304,9 +304,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ BulletTimeController
 - ✅ CameraOcclusionCulling
 - ✅ CharacterMoodSystem
+- ✅ ClimbingSystem
 
 ### Remaining Patterns:
-- ⏳ ClimbingSystem
 - ⏳ CloudSaveIntegration
 - ⏳ ColorGradingManager
 - ⏳ CrowdDialogueSystem

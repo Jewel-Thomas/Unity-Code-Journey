@@ -298,7 +298,7 @@
     "BulletTimeController": true,
     "CameraOcclusionCulling": true,
     "CharacterMoodSystem": true,
-    "ClimbingSystem": false,
+    "ClimbingSystem": true,
     "CloudSaveIntegration": false,
     "ColorGradingManager": false,
     "CrowdDialogueSystem": false,
