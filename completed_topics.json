@@ -303,7 +303,7 @@
     "ColorGradingManager": true,
     "CrowdDialogueSystem": true,
     "CutsceneSkipSystem": true,
-    "DataReplicationSystem": false,
+    "DataReplicationSystem": true,
     "DestructibleEnvironmentSystem": false,
     "DynamicAudioZones": false,
     "EchoLocationSystem": false,
