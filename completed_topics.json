@@ -300,7 +300,7 @@
     "CharacterMoodSystem": true,
     "ClimbingSystem": true,
     "CloudSaveIntegration": true,
-    "ColorGradingManager": false,
+    "ColorGradingManager": true,
     "CrowdDialogueSystem": false,
     "CutsceneSkipSystem": false,
     "DataReplicationSystem": false,
