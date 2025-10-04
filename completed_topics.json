@@ -310,7 +310,7 @@
     "EmotionDrivenAI": true,
     "EnergyShieldSystem": true,
     "EnvironmentalHazardSystem": true,
-    "FacialAnimationSystem": false,
+    "FacialAnimationSystem": true,
     "FactionDiplomacySystem": false,
     "FakeLagSimulator": false,
     "FallDamageSystem": false,
