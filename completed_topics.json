@@ -312,7 +312,7 @@
     "EnvironmentalHazardSystem": true,
     "FacialAnimationSystem": true,
     "FactionDiplomacySystem": true,
-    "FakeLagSimulator": false,
+    "FakeLagSimulator": true,
     "FallDamageSystem": false,
     "FlockingBehavior": false,
     "FrameCaptureSystem": false,
