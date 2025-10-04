@@ -306,7 +306,7 @@
     "DataReplicationSystem": true,
     "DestructibleEnvironmentSystem": true,
     "DynamicAudioZones": true,
-    "EchoLocationSystem": false,
+    "EchoLocationSystem": true,
     "EmotionDrivenAI": false,
     "EnergyShieldSystem": false,
     "EnvironmentalHazardSystem": false,
