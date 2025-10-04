@@ -305,7 +305,7 @@
     "CutsceneSkipSystem": true,
     "DataReplicationSystem": true,
     "DestructibleEnvironmentSystem": true,
-    "DynamicAudioZones": false,
+    "DynamicAudioZones": true,
     "EchoLocationSystem": false,
     "EmotionDrivenAI": false,
     "EnergyShieldSystem": false,
