@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 312/515 (60.6%)
+## Progress: 313/515 (60.8%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -317,9 +317,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ EnergyShieldSystem
 - ✅ EnvironmentalHazardSystem
 - ✅ FacialAnimationSystem
+- ✅ FactionDiplomacySystem
 
 ### Remaining Patterns:
-- ⏳ FactionDiplomacySystem
 - ⏳ FakeLagSimulator
 - ⏳ FallDamageSystem
 - ⏳ FlockingBehavior

@@ -311,7 +311,7 @@
     "EnergyShieldSystem": true,
     "EnvironmentalHazardSystem": true,
     "FacialAnimationSystem": true,
-    "FactionDiplomacySystem": false,
+    "FactionDiplomacySystem": true,
     "FakeLagSimulator": false,
     "FallDamageSystem": false,
     "FlockingBehavior": false,
