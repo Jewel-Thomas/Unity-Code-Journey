@@ -307,7 +307,7 @@
     "DestructibleEnvironmentSystem": true,
     "DynamicAudioZones": true,
     "EchoLocationSystem": true,
-    "EmotionDrivenAI": false,
+    "EmotionDrivenAI": true,
     "EnergyShieldSystem": false,
     "EnvironmentalHazardSystem": false,
     "FacialAnimationSystem": false,
