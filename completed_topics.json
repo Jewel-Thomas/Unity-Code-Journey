@@ -309,7 +309,7 @@
     "EchoLocationSystem": true,
     "EmotionDrivenAI": true,
     "EnergyShieldSystem": true,
-    "EnvironmentalHazardSystem": false,
+    "EnvironmentalHazardSystem": true,
     "FacialAnimationSystem": false,
     "FactionDiplomacySystem": false,
     "FakeLagSimulator": false,

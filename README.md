@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 310/515 (60.2%)
+## Progress: 311/515 (60.4%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -315,9 +315,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ EchoLocationSystem
 - ✅ EmotionDrivenAI
 - ✅ EnergyShieldSystem
+- ✅ EnvironmentalHazardSystem
 
 ### Remaining Patterns:
-- ⏳ EnvironmentalHazardSystem
 - ⏳ FacialAnimationSystem
 - ⏳ FactionDiplomacySystem
 - ⏳ FakeLagSimulator
