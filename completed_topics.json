@@ -319,7 +319,7 @@
     "FriendInviteSystem": true,
     "GameSpeedScaler": true,
     "GeoLocationIntegration": true,
-    "GestureRecognitionSystem": false,
+    "GestureRecognitionSystem": true,
     "GravityShiftSystem": false,
     "GroundDetectionSystem": false,
     "GuildManagementSystem": false,
