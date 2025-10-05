@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 318/515 (61.7%)
+## Progress: 319/515 (61.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -323,9 +323,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ FlockingBehavior
 - ✅ FrameCaptureSystem
 - ✅ FriendInviteSystem
+- ✅ GameSpeedScaler
 
 ### Remaining Patterns:
-- ⏳ GameSpeedScaler
 - ⏳ GeoLocationIntegration
 - ⏳ GestureRecognitionSystem
 - ⏳ GravityShiftSystem
