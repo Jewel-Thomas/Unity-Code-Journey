@@ -316,7 +316,7 @@
     "FallDamageSystem": true,
     "FlockingBehavior": true,
     "FrameCaptureSystem": true,
-    "FriendInviteSystem": false,
+    "FriendInviteSystem": true,
     "GameSpeedScaler": false,
     "GeoLocationIntegration": false,
     "GestureRecognitionSystem": false,
