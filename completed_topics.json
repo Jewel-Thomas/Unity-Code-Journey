@@ -313,7 +313,7 @@
     "FacialAnimationSystem": true,
     "FactionDiplomacySystem": true,
     "FakeLagSimulator": true,
-    "FallDamageSystem": false,
+    "FallDamageSystem": true,
     "FlockingBehavior": false,
     "FrameCaptureSystem": false,
     "FriendInviteSystem": false,
