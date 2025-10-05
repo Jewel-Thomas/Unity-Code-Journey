@@ -318,7 +318,7 @@
     "FrameCaptureSystem": true,
     "FriendInviteSystem": true,
     "GameSpeedScaler": true,
-    "GeoLocationIntegration": false,
+    "GeoLocationIntegration": true,
     "GestureRecognitionSystem": false,
     "GravityShiftSystem": false,
     "GroundDetectionSystem": false,
