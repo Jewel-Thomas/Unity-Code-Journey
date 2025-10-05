@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 315/515 (61.2%)
+## Progress: 316/515 (61.4%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -320,9 +320,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ FactionDiplomacySystem
 - ✅ FakeLagSimulator
 - ✅ FallDamageSystem
+- ✅ FlockingBehavior
 
 ### Remaining Patterns:
-- ⏳ FlockingBehavior
 - ⏳ FrameCaptureSystem
 - ⏳ FriendInviteSystem
 - ⏳ GameSpeedScaler

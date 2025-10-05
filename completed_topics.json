@@ -314,7 +314,7 @@
     "FactionDiplomacySystem": true,
     "FakeLagSimulator": true,
     "FallDamageSystem": true,
-    "FlockingBehavior": false,
+    "FlockingBehavior": true,
     "FrameCaptureSystem": false,
     "FriendInviteSystem": false,
     "GameSpeedScaler": false,
