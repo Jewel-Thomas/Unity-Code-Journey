@@ -320,7 +320,7 @@
     "GameSpeedScaler": true,
     "GeoLocationIntegration": true,
     "GestureRecognitionSystem": true,
-    "GravityShiftSystem": false,
+    "GravityShiftSystem": true,
     "GroundDetectionSystem": false,
     "GuildManagementSystem": false,
     "HandIKSystem": false,
