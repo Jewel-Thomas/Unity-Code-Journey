@@ -321,7 +321,7 @@
     "GeoLocationIntegration": true,
     "GestureRecognitionSystem": true,
     "GravityShiftSystem": true,
-    "GroundDetectionSystem": false,
+    "GroundDetectionSystem": true,
     "GuildManagementSystem": false,
     "HandIKSystem": false,
     "HeatHazeEffect": false,
