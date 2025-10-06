@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 323/515 (62.7%)
+## Progress: 324/515 (62.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -328,9 +328,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ GestureRecognitionSystem
 - ✅ GravityShiftSystem
 - ✅ GroundDetectionSystem
+- ✅ GuildManagementSystem
 
 ### Remaining Patterns:
-- ⏳ GuildManagementSystem
 - ⏳ HandIKSystem
 - ⏳ HeatHazeEffect
 - ⏳ HiddenObjectSystem

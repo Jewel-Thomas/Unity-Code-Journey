@@ -322,7 +322,7 @@
     "GestureRecognitionSystem": true,
     "GravityShiftSystem": true,
     "GroundDetectionSystem": true,
-    "GuildManagementSystem": false,
+    "GuildManagementSystem": true,
     "HandIKSystem": false,
     "HeatHazeEffect": false,
     "HiddenObjectSystem": false,
