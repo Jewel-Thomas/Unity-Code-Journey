@@ -327,7 +327,7 @@
     "HeatHazeEffect": true,
     "HiddenObjectSystem": true,
     "HitStopSystem": true,
-    "HologramRenderingSystem": false,
+    "HologramRenderingSystem": true,
     "IdleDialogueSystem": false,
     "ImpactDecalSystem": false,
     "ImposterSystem": false,
