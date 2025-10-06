@@ -328,7 +328,7 @@
     "HiddenObjectSystem": true,
     "HitStopSystem": true,
     "HologramRenderingSystem": true,
-    "IdleDialogueSystem": false,
+    "IdleDialogueSystem": true,
     "ImpactDecalSystem": false,
     "ImposterSystem": false,
     "InAppPurchaseSystem": false,
