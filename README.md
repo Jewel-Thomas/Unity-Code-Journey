@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 327/515 (63.5%)
+## Progress: 328/515 (63.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -332,9 +332,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ HandIKSystem
 - ✅ HeatHazeEffect
 - ✅ HiddenObjectSystem
+- ✅ HitStopSystem
 
 ### Remaining Patterns:
-- ⏳ HitStopSystem
 - ⏳ HologramRenderingSystem
 - ⏳ IdleDialogueSystem
 - ⏳ ImpactDecalSystem

@@ -326,7 +326,7 @@
     "HandIKSystem": true,
     "HeatHazeEffect": true,
     "HiddenObjectSystem": true,
-    "HitStopSystem": false,
+    "HitStopSystem": true,
     "HologramRenderingSystem": false,
     "IdleDialogueSystem": false,
     "ImpactDecalSystem": false,
