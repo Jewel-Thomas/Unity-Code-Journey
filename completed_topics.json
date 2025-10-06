@@ -323,7 +323,7 @@
     "GravityShiftSystem": true,
     "GroundDetectionSystem": true,
     "GuildManagementSystem": true,
-    "HandIKSystem": false,
+    "HandIKSystem": true,
     "HeatHazeEffect": false,
     "HiddenObjectSystem": false,
     "HitStopSystem": false,
