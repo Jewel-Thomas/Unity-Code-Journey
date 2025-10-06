@@ -325,7 +325,7 @@
     "GuildManagementSystem": true,
     "HandIKSystem": true,
     "HeatHazeEffect": true,
-    "HiddenObjectSystem": false,
+    "HiddenObjectSystem": true,
     "HitStopSystem": false,
     "HologramRenderingSystem": false,
     "IdleDialogueSystem": false,
