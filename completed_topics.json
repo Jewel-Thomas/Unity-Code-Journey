@@ -324,7 +324,7 @@
     "GroundDetectionSystem": true,
     "GuildManagementSystem": true,
     "HandIKSystem": true,
-    "HeatHazeEffect": false,
+    "HeatHazeEffect": true,
     "HiddenObjectSystem": false,
     "HitStopSystem": false,
     "HologramRenderingSystem": false,
