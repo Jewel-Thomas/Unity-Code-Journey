@@ -331,7 +331,7 @@
     "IdleDialogueSystem": true,
     "ImpactDecalSystem": true,
     "ImposterSystem": true,
-    "InAppPurchaseSystem": false,
+    "InAppPurchaseSystem": true,
     "InputLatencyCompensation": false,
     "InteractionPromptSystem": false,
     "ItemCombinationSystem": false,
