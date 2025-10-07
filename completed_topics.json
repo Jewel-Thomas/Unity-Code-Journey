@@ -336,7 +336,7 @@
     "InteractionPromptSystem": true,
     "ItemCombinationSystem": true,
     "JetpackController": true,
-    "JournalQuestIntegration": false,
+    "JournalQuestIntegration": true,
     "KarmaSystem": false,
     "KickbackSystem": false,
     "KnowledgeBaseSystem": false,
