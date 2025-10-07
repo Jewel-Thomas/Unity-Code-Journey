@@ -329,7 +329,7 @@
     "HitStopSystem": true,
     "HologramRenderingSystem": true,
     "IdleDialogueSystem": true,
-    "ImpactDecalSystem": false,
+    "ImpactDecalSystem": true,
     "ImposterSystem": false,
     "InAppPurchaseSystem": false,
     "InputLatencyCompensation": false,
