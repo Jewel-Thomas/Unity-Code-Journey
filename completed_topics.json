@@ -330,7 +330,7 @@
     "HologramRenderingSystem": true,
     "IdleDialogueSystem": true,
     "ImpactDecalSystem": true,
-    "ImposterSystem": false,
+    "ImposterSystem": true,
     "InAppPurchaseSystem": false,
     "InputLatencyCompensation": false,
     "InteractionPromptSystem": false,
