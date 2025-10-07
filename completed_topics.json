@@ -335,7 +335,7 @@
     "InputLatencyCompensation": true,
     "InteractionPromptSystem": true,
     "ItemCombinationSystem": true,
-    "JetpackController": false,
+    "JetpackController": true,
     "JournalQuestIntegration": false,
     "KarmaSystem": false,
     "KickbackSystem": false,
