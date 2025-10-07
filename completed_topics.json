@@ -334,7 +334,7 @@
     "InAppPurchaseSystem": true,
     "InputLatencyCompensation": true,
     "InteractionPromptSystem": true,
-    "ItemCombinationSystem": false,
+    "ItemCombinationSystem": true,
     "JetpackController": false,
     "JournalQuestIntegration": false,
     "KarmaSystem": false,
