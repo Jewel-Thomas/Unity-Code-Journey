@@ -332,7 +332,7 @@
     "ImpactDecalSystem": true,
     "ImposterSystem": true,
     "InAppPurchaseSystem": true,
-    "InputLatencyCompensation": false,
+    "InputLatencyCompensation": true,
     "InteractionPromptSystem": false,
     "ItemCombinationSystem": false,
     "JetpackController": false,

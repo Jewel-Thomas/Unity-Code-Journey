@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 333/515 (64.7%)
+## Progress: 334/515 (64.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -338,9 +338,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ ImpactDecalSystem
 - ✅ ImposterSystem
 - ✅ InAppPurchaseSystem
+- ✅ InputLatencyCompensation
 
 ### Remaining Patterns:
-- ⏳ InputLatencyCompensation
 - ⏳ InteractionPromptSystem
 - ⏳ ItemCombinationSystem
 - ⏳ JetpackController
