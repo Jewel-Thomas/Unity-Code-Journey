@@ -344,7 +344,7 @@
     "LeaderboardsSystem": true,
     "LensFlareSystem": true,
     "LevelEditorIntegration": true,
-    "LimbDamageSystem": false,
+    "LimbDamageSystem": true,
     "LineOfSightSystem": false,
     "LipSyncSystem": false,
     "LocalCoopSystem": false,

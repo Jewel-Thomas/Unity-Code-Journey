@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 345/515 (67.0%)
+## Progress: 346/515 (67.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -350,9 +350,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ LeaderboardsSystem
 - ✅ LensFlareSystem
 - ✅ LevelEditorIntegration
+- ✅ LimbDamageSystem
 
 ### Remaining Patterns:
-- ⏳ LimbDamageSystem
 - ⏳ LineOfSightSystem
 - ⏳ LipSyncSystem
 - ⏳ LocalCoopSystem
