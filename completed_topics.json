@@ -337,7 +337,7 @@
     "ItemCombinationSystem": true,
     "JetpackController": true,
     "JournalQuestIntegration": true,
-    "KarmaSystem": false,
+    "KarmaSystem": true,
     "KickbackSystem": false,
     "KnowledgeBaseSystem": false,
     "LavaFlowSystem": false,
