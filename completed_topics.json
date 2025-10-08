@@ -342,7 +342,7 @@
     "KnowledgeBaseSystem": true,
     "LavaFlowSystem": true,
     "LeaderboardsSystem": true,
-    "LensFlareSystem": false,
+    "LensFlareSystem": true,
     "LevelEditorIntegration": false,
     "LimbDamageSystem": false,
     "LineOfSightSystem": false,
