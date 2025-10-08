@@ -340,7 +340,7 @@
     "KarmaSystem": true,
     "KickbackSystem": true,
     "KnowledgeBaseSystem": true,
-    "LavaFlowSystem": false,
+    "LavaFlowSystem": true,
     "LeaderboardsSystem": false,
     "LensFlareSystem": false,
     "LevelEditorIntegration": false,
