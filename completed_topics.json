@@ -338,7 +338,7 @@
     "JetpackController": true,
     "JournalQuestIntegration": true,
     "KarmaSystem": true,
-    "KickbackSystem": false,
+    "KickbackSystem": true,
     "KnowledgeBaseSystem": false,
     "LavaFlowSystem": false,
     "LeaderboardsSystem": false,
