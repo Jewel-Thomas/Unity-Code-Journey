@@ -343,7 +343,7 @@
     "LavaFlowSystem": true,
     "LeaderboardsSystem": true,
     "LensFlareSystem": true,
-    "LevelEditorIntegration": false,
+    "LevelEditorIntegration": true,
     "LimbDamageSystem": false,
     "LineOfSightSystem": false,
     "LipSyncSystem": false,
