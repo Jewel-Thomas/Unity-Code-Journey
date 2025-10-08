@@ -339,7 +339,7 @@
     "JournalQuestIntegration": true,
     "KarmaSystem": true,
     "KickbackSystem": true,
-    "KnowledgeBaseSystem": false,
+    "KnowledgeBaseSystem": true,
     "LavaFlowSystem": false,
     "LeaderboardsSystem": false,
     "LensFlareSystem": false,
