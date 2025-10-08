@@ -341,7 +341,7 @@
     "KickbackSystem": true,
     "KnowledgeBaseSystem": true,
     "LavaFlowSystem": true,
-    "LeaderboardsSystem": false,
+    "LeaderboardsSystem": true,
     "LensFlareSystem": false,
     "LevelEditorIntegration": false,
     "LimbDamageSystem": false,
