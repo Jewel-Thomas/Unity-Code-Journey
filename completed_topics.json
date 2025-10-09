@@ -347,7 +347,7 @@
     "LimbDamageSystem": true,
     "LineOfSightSystem": true,
     "LipSyncSystem": true,
-    "LocalCoopSystem": false,
+    "LocalCoopSystem": true,
     "LootChestSystem": false,
     "MagicRuneSystem": false,
     "MapFogRevealSystem": false,
