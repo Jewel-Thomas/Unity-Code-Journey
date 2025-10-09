@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 349/515 (67.8%)
+## Progress: 350/515 (68.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -354,9 +354,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ LineOfSightSystem
 - ✅ LipSyncSystem
 - ✅ LocalCoopSystem
+- ✅ LootChestSystem
 
 ### Remaining Patterns:
-- ⏳ LootChestSystem
 - ⏳ MagicRuneSystem
 - ⏳ MapFogRevealSystem
 - ⏳ MatchReplaySystem

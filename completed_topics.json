@@ -348,7 +348,7 @@
     "LineOfSightSystem": true,
     "LipSyncSystem": true,
     "LocalCoopSystem": true,
-    "LootChestSystem": false,
+    "LootChestSystem": true,
     "MagicRuneSystem": false,
     "MapFogRevealSystem": false,
     "MatchReplaySystem": false,
