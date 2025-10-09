@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 353/515 (68.5%)
+## Progress: 354/515 (68.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -358,9 +358,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ MagicRuneSystem
 - ✅ MapFogRevealSystem
 - ✅ MatchReplaySystem
+- ✅ MaterialSwapSystem
 
 ### Remaining Patterns:
-- ⏳ MaterialSwapSystem
 - ⏳ MemoryReplaySystem
 - ⏳ MentorAICompanion
 - ⏳ MeteorShowerSystem

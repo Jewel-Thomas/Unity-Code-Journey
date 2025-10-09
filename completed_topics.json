@@ -352,7 +352,7 @@
     "MagicRuneSystem": true,
     "MapFogRevealSystem": true,
     "MatchReplaySystem": true,
-    "MaterialSwapSystem": false,
+    "MaterialSwapSystem": true,
     "MemoryReplaySystem": false,
     "MentorAICompanion": false,
     "MeteorShowerSystem": false,
