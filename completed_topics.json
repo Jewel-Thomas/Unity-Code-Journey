@@ -345,7 +345,7 @@
     "LensFlareSystem": true,
     "LevelEditorIntegration": true,
     "LimbDamageSystem": true,
-    "LineOfSightSystem": false,
+    "LineOfSightSystem": true,
     "LipSyncSystem": false,
     "LocalCoopSystem": false,
     "LootChestSystem": false,
