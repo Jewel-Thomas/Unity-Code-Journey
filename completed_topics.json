@@ -349,7 +349,7 @@
     "LipSyncSystem": true,
     "LocalCoopSystem": true,
     "LootChestSystem": true,
-    "MagicRuneSystem": false,
+    "MagicRuneSystem": true,
     "MapFogRevealSystem": false,
     "MatchReplaySystem": false,
     "MaterialSwapSystem": false,
