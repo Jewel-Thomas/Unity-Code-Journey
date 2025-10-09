@@ -350,7 +350,7 @@
     "LocalCoopSystem": true,
     "LootChestSystem": true,
     "MagicRuneSystem": true,
-    "MapFogRevealSystem": false,
+    "MapFogRevealSystem": true,
     "MatchReplaySystem": false,
     "MaterialSwapSystem": false,
     "MemoryReplaySystem": false,
