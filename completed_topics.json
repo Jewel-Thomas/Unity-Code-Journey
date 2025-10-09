@@ -346,7 +346,7 @@
     "LevelEditorIntegration": true,
     "LimbDamageSystem": true,
     "LineOfSightSystem": true,
-    "LipSyncSystem": false,
+    "LipSyncSystem": true,
     "LocalCoopSystem": false,
     "LootChestSystem": false,
     "MagicRuneSystem": false,
