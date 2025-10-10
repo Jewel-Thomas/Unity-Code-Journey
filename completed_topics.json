@@ -358,7 +358,7 @@
     "MeteorShowerSystem": true,
     "MiniGameFramework": true,
     "MirrorReflectionSystem": true,
-    "MobileHapticsSystem": false,
+    "MobileHapticsSystem": true,
     "ModularBuildingSystem": false,
     "MomentumSystem": false,
     "MonsterAIHierarchy": false,
