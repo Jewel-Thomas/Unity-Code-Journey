@@ -353,7 +353,7 @@
     "MapFogRevealSystem": true,
     "MatchReplaySystem": true,
     "MaterialSwapSystem": true,
-    "MemoryReplaySystem": false,
+    "MemoryReplaySystem": true,
     "MentorAICompanion": false,
     "MeteorShowerSystem": false,
     "MiniGameFramework": false,
