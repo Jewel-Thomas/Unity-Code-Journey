@@ -357,7 +357,7 @@
     "MentorAICompanion": true,
     "MeteorShowerSystem": true,
     "MiniGameFramework": true,
-    "MirrorReflectionSystem": false,
+    "MirrorReflectionSystem": true,
     "MobileHapticsSystem": false,
     "ModularBuildingSystem": false,
     "MomentumSystem": false,
