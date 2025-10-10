@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 361/515 (70.1%)
+## Progress: 362/515 (70.3%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -366,9 +366,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ MirrorReflectionSystem
 - ✅ MobileHapticsSystem
 - ✅ ModularBuildingSystem
+- ✅ MomentumSystem
 
 ### Remaining Patterns:
-- ⏳ MomentumSystem
 - ⏳ MonsterAIHierarchy
 - ⏳ MotionBlurSystem
 - ⏳ MountDismountSystem

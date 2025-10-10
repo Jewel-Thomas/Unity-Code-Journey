@@ -360,7 +360,7 @@
     "MirrorReflectionSystem": true,
     "MobileHapticsSystem": true,
     "ModularBuildingSystem": true,
-    "MomentumSystem": false,
+    "MomentumSystem": true,
     "MonsterAIHierarchy": false,
     "MotionBlurSystem": false,
     "MountDismountSystem": false,
