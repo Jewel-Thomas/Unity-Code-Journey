@@ -354,7 +354,7 @@
     "MatchReplaySystem": true,
     "MaterialSwapSystem": true,
     "MemoryReplaySystem": true,
-    "MentorAICompanion": false,
+    "MentorAICompanion": true,
     "MeteorShowerSystem": false,
     "MiniGameFramework": false,
     "MirrorReflectionSystem": false,
