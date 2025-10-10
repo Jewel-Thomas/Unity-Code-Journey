@@ -359,7 +359,7 @@
     "MiniGameFramework": true,
     "MirrorReflectionSystem": true,
     "MobileHapticsSystem": true,
-    "ModularBuildingSystem": false,
+    "ModularBuildingSystem": true,
     "MomentumSystem": false,
     "MonsterAIHierarchy": false,
     "MotionBlurSystem": false,
