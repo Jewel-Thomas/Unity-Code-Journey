@@ -367,7 +367,7 @@
     "MultiplayerLobbySystem": true,
     "MusicDynamicTransitions": true,
     "MutationSystem": true,
-    "NarrationSystem": false,
+    "NarrationSystem": true,
     "NavigationLinkSystem": false,
     "NetworkPredictionSystem": false,
     "NoiseMaskSystem": false,

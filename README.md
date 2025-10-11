@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 368/515 (71.5%)
+## Progress: 369/515 (71.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -373,9 +373,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ MultiplayerLobbySystem
 - ✅ MusicDynamicTransitions
 - ✅ MutationSystem
+- ✅ NarrationSystem
 
 ### Remaining Patterns:
-- ⏳ NarrationSystem
 - ⏳ NavigationLinkSystem
 - ⏳ NetworkPredictionSystem
 - ⏳ NoiseMaskSystem
