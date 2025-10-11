@@ -363,7 +363,7 @@
     "MomentumSystem": true,
     "MonsterAIHierarchy": true,
     "MotionBlurSystem": true,
-    "MountDismountSystem": false,
+    "MountDismountSystem": true,
     "MultiplayerLobbySystem": false,
     "MusicDynamicTransitions": false,
     "MutationSystem": false,
