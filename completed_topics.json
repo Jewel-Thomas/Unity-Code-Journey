@@ -361,7 +361,7 @@
     "MobileHapticsSystem": true,
     "ModularBuildingSystem": true,
     "MomentumSystem": true,
-    "MonsterAIHierarchy": false,
+    "MonsterAIHierarchy": true,
     "MotionBlurSystem": false,
     "MountDismountSystem": false,
     "MultiplayerLobbySystem": false,
