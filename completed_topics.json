@@ -368,7 +368,7 @@
     "MusicDynamicTransitions": true,
     "MutationSystem": true,
     "NarrationSystem": true,
-    "NavigationLinkSystem": false,
+    "NavigationLinkSystem": true,
     "NetworkPredictionSystem": false,
     "NoiseMaskSystem": false,
     "NPCDialogueScheduling": false,
