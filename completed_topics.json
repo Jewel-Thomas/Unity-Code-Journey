@@ -365,7 +365,7 @@
     "MotionBlurSystem": true,
     "MountDismountSystem": true,
     "MultiplayerLobbySystem": true,
-    "MusicDynamicTransitions": false,
+    "MusicDynamicTransitions": true,
     "MutationSystem": false,
     "NarrationSystem": false,
     "NavigationLinkSystem": false,
