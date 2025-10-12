@@ -376,7 +376,7 @@
     "ObjectScalingSystem": true,
     "OcclusionPortalSystem": true,
     "OffscreenIndicatorSystem": true,
-    "OmniDirectionalMovement": false,
+    "OmniDirectionalMovement": true,
     "OutfitChangeSystem": false,
     "ParrySystem": false,
     "PartyChatSystem": false,
