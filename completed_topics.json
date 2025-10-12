@@ -375,7 +375,7 @@
     "ObjectCarrySystem": true,
     "ObjectScalingSystem": true,
     "OcclusionPortalSystem": true,
-    "OffscreenIndicatorSystem": false,
+    "OffscreenIndicatorSystem": true,
     "OmniDirectionalMovement": false,
     "OutfitChangeSystem": false,
     "ParrySystem": false,
