@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 375/515 (72.8%)
+## Progress: 376/515 (73.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -380,9 +380,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ NPCDialogueScheduling
 - ✅ ObjectCarrySystem
 - ✅ ObjectScalingSystem
+- ✅ OcclusionPortalSystem
 
 ### Remaining Patterns:
-- ⏳ OcclusionPortalSystem
 - ⏳ OffscreenIndicatorSystem
 - ⏳ OmniDirectionalMovement
 - ⏳ OutfitChangeSystem

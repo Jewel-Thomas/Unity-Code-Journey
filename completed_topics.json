@@ -374,7 +374,7 @@
     "NPCDialogueScheduling": true,
     "ObjectCarrySystem": true,
     "ObjectScalingSystem": true,
-    "OcclusionPortalSystem": false,
+    "OcclusionPortalSystem": true,
     "OffscreenIndicatorSystem": false,
     "OmniDirectionalMovement": false,
     "OutfitChangeSystem": false,
