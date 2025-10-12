@@ -373,7 +373,7 @@
     "NoiseMaskSystem": true,
     "NPCDialogueScheduling": true,
     "ObjectCarrySystem": true,
-    "ObjectScalingSystem": false,
+    "ObjectScalingSystem": true,
     "OcclusionPortalSystem": false,
     "OffscreenIndicatorSystem": false,
     "OmniDirectionalMovement": false,
