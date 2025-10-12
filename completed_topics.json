@@ -369,7 +369,7 @@
     "MutationSystem": true,
     "NarrationSystem": true,
     "NavigationLinkSystem": true,
-    "NetworkPredictionSystem": false,
+    "NetworkPredictionSystem": true,
     "NoiseMaskSystem": false,
     "NPCDialogueScheduling": false,
     "ObjectCarrySystem": false,
