@@ -371,7 +371,7 @@
     "NavigationLinkSystem": true,
     "NetworkPredictionSystem": true,
     "NoiseMaskSystem": true,
-    "NPCDialogueScheduling": false,
+    "NPCDialogueScheduling": true,
     "ObjectCarrySystem": false,
     "ObjectScalingSystem": false,
     "OcclusionPortalSystem": false,
