@@ -370,7 +370,7 @@
     "NarrationSystem": true,
     "NavigationLinkSystem": true,
     "NetworkPredictionSystem": true,
-    "NoiseMaskSystem": false,
+    "NoiseMaskSystem": true,
     "NPCDialogueScheduling": false,
     "ObjectCarrySystem": false,
     "ObjectScalingSystem": false,
