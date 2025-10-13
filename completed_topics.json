@@ -382,7 +382,7 @@
     "PartyChatSystem": true,
     "PatternRecognitionAI": true,
     "PerformanceMetricsSystem": true,
-    "PerkTreeSystem": false,
+    "PerkTreeSystem": true,
     "PersistentWorldSystem": false,
     "PhotoModeSystem": false,
     "PhysicsConstraintSystem": false,
