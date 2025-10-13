@@ -381,7 +381,7 @@
     "ParrySystem": true,
     "PartyChatSystem": true,
     "PatternRecognitionAI": true,
-    "PerformanceMetricsSystem": false,
+    "PerformanceMetricsSystem": true,
     "PerkTreeSystem": false,
     "PersistentWorldSystem": false,
     "PhotoModeSystem": false,
