@@ -379,7 +379,7 @@
     "OmniDirectionalMovement": true,
     "OutfitChangeSystem": true,
     "ParrySystem": true,
-    "PartyChatSystem": false,
+    "PartyChatSystem": true,
     "PatternRecognitionAI": false,
     "PerformanceMetricsSystem": false,
     "PerkTreeSystem": false,
