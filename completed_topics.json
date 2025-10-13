@@ -383,7 +383,7 @@
     "PatternRecognitionAI": true,
     "PerformanceMetricsSystem": true,
     "PerkTreeSystem": true,
-    "PersistentWorldSystem": false,
+    "PersistentWorldSystem": true,
     "PhotoModeSystem": false,
     "PhysicsConstraintSystem": false,
     "PlayerHousingSystem": false,
