@@ -384,7 +384,7 @@
     "PerformanceMetricsSystem": true,
     "PerkTreeSystem": true,
     "PersistentWorldSystem": true,
-    "PhotoModeSystem": false,
+    "PhotoModeSystem": true,
     "PhysicsConstraintSystem": false,
     "PlayerHousingSystem": false,
     "PlayerKarmaSystem": false,

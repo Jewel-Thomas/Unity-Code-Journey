@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 385/515 (74.8%)
+## Progress: 386/515 (75.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -390,9 +390,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ PerformanceMetricsSystem
 - ✅ PerkTreeSystem
 - ✅ PersistentWorldSystem
+- ✅ PhotoModeSystem
 
 ### Remaining Patterns:
-- ⏳ PhotoModeSystem
 - ⏳ PhysicsConstraintSystem
 - ⏳ PlayerHousingSystem
 - ⏳ PlayerKarmaSystem
