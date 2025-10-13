@@ -380,7 +380,7 @@
     "OutfitChangeSystem": true,
     "ParrySystem": true,
     "PartyChatSystem": true,
-    "PatternRecognitionAI": false,
+    "PatternRecognitionAI": true,
     "PerformanceMetricsSystem": false,
     "PerkTreeSystem": false,
     "PersistentWorldSystem": false,
