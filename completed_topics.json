@@ -378,7 +378,7 @@
     "OffscreenIndicatorSystem": true,
     "OmniDirectionalMovement": true,
     "OutfitChangeSystem": true,
-    "ParrySystem": false,
+    "ParrySystem": true,
     "PartyChatSystem": false,
     "PatternRecognitionAI": false,
     "PerformanceMetricsSystem": false,
