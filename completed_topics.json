@@ -387,7 +387,7 @@
     "PhotoModeSystem": true,
     "PhysicsConstraintSystem": true,
     "PlayerHousingSystem": true,
-    "PlayerKarmaSystem": false,
+    "PlayerKarmaSystem": true,
     "PlayerOwnedShops": false,
     "PluginHotReload": false,
     "PointOfInterestSystem": false,
