@@ -390,7 +390,7 @@
     "PlayerKarmaSystem": true,
     "PlayerOwnedShops": true,
     "PluginHotReload": true,
-    "PointOfInterestSystem": false,
+    "PointOfInterestSystem": true,
     "PortalTransitionSystem": false,
     "PossessionSystem": false,
     "PowerUpSystem": false,
