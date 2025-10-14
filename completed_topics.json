@@ -385,7 +385,7 @@
     "PerkTreeSystem": true,
     "PersistentWorldSystem": true,
     "PhotoModeSystem": true,
-    "PhysicsConstraintSystem": false,
+    "PhysicsConstraintSystem": true,
     "PlayerHousingSystem": false,
     "PlayerKarmaSystem": false,
     "PlayerOwnedShops": false,
