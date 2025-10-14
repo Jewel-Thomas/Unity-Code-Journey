@@ -386,7 +386,7 @@
     "PersistentWorldSystem": true,
     "PhotoModeSystem": true,
     "PhysicsConstraintSystem": true,
-    "PlayerHousingSystem": false,
+    "PlayerHousingSystem": true,
     "PlayerKarmaSystem": false,
     "PlayerOwnedShops": false,
     "PluginHotReload": false,
