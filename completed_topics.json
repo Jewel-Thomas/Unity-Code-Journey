@@ -391,7 +391,7 @@
     "PlayerOwnedShops": true,
     "PluginHotReload": true,
     "PointOfInterestSystem": true,
-    "PortalTransitionSystem": false,
+    "PortalTransitionSystem": true,
     "PossessionSystem": false,
     "PowerUpSystem": false,
     "PrecisionJumpingSystem": false,
