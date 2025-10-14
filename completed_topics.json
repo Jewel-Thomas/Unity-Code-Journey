@@ -389,7 +389,7 @@
     "PlayerHousingSystem": true,
     "PlayerKarmaSystem": true,
     "PlayerOwnedShops": true,
-    "PluginHotReload": false,
+    "PluginHotReload": true,
     "PointOfInterestSystem": false,
     "PortalTransitionSystem": false,
     "PossessionSystem": false,
