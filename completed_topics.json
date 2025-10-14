@@ -388,7 +388,7 @@
     "PhysicsConstraintSystem": true,
     "PlayerHousingSystem": true,
     "PlayerKarmaSystem": true,
-    "PlayerOwnedShops": false,
+    "PlayerOwnedShops": true,
     "PluginHotReload": false,
     "PointOfInterestSystem": false,
     "PortalTransitionSystem": false,

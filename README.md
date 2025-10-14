@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 389/515 (75.5%)
+## Progress: 390/515 (75.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -394,9 +394,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ PhysicsConstraintSystem
 - ✅ PlayerHousingSystem
 - ✅ PlayerKarmaSystem
+- ✅ PlayerOwnedShops
 
 ### Remaining Patterns:
-- ⏳ PlayerOwnedShops
 - ⏳ PluginHotReload
 - ⏳ PointOfInterestSystem
 - ⏳ PortalTransitionSystem
