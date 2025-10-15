@@ -399,7 +399,7 @@
     "PressurePlateSystem": true,
     "ProceduralOceanSystem": true,
     "ProfileSyncSystem": true,
-    "ProjectileDeflectionSystem": false,
+    "ProjectileDeflectionSystem": true,
     "ProximityVoiceChat": false,
     "PuzzleInteractionSystem": false,
     "QuestBranchingSystem": false,

@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 400/515 (77.7%)
+## Progress: 401/515 (77.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -405,9 +405,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ PressurePlateSystem
 - ✅ ProceduralOceanSystem
 - ✅ ProfileSyncSystem
+- ✅ ProjectileDeflectionSystem
 
 ### Remaining Patterns:
-- ⏳ ProjectileDeflectionSystem
 - ⏳ ProximityVoiceChat
 - ⏳ PuzzleInteractionSystem
 - ⏳ QuestBranchingSystem
