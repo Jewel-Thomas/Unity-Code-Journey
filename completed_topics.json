@@ -398,7 +398,7 @@
     "PrefabVariantSystem": true,
     "PressurePlateSystem": true,
     "ProceduralOceanSystem": true,
-    "ProfileSyncSystem": false,
+    "ProfileSyncSystem": true,
     "ProjectileDeflectionSystem": false,
     "ProximityVoiceChat": false,
     "PuzzleInteractionSystem": false,
