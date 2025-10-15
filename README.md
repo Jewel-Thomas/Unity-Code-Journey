@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 394/515 (76.5%)
+## Progress: 395/515 (76.7%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -399,9 +399,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ PointOfInterestSystem
 - ✅ PortalTransitionSystem
 - ✅ PossessionSystem
+- ✅ PowerUpSystem
 
 ### Remaining Patterns:
-- ⏳ PowerUpSystem
 - ⏳ PrecisionJumpingSystem
 - ⏳ PrefabVariantSystem
 - ⏳ PressurePlateSystem

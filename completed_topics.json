@@ -393,7 +393,7 @@
     "PointOfInterestSystem": true,
     "PortalTransitionSystem": true,
     "PossessionSystem": true,
-    "PowerUpSystem": false,
+    "PowerUpSystem": true,
     "PrecisionJumpingSystem": false,
     "PrefabVariantSystem": false,
     "PressurePlateSystem": false,
