@@ -397,7 +397,7 @@
     "PrecisionJumpingSystem": true,
     "PrefabVariantSystem": true,
     "PressurePlateSystem": true,
-    "ProceduralOceanSystem": false,
+    "ProceduralOceanSystem": true,
     "ProfileSyncSystem": false,
     "ProjectileDeflectionSystem": false,
     "ProximityVoiceChat": false,
