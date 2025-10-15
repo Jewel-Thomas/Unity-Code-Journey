@@ -400,7 +400,7 @@
     "ProceduralOceanSystem": true,
     "ProfileSyncSystem": true,
     "ProjectileDeflectionSystem": true,
-    "ProximityVoiceChat": false,
+    "ProximityVoiceChat": true,
     "PuzzleInteractionSystem": false,
     "QuestBranchingSystem": false,
     "QuickTimeEventSystem": false,
