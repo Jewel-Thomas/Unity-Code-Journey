@@ -395,7 +395,7 @@
     "PossessionSystem": true,
     "PowerUpSystem": true,
     "PrecisionJumpingSystem": true,
-    "PrefabVariantSystem": false,
+    "PrefabVariantSystem": true,
     "PressurePlateSystem": false,
     "ProceduralOceanSystem": false,
     "ProfileSyncSystem": false,
