@@ -394,7 +394,7 @@
     "PortalTransitionSystem": true,
     "PossessionSystem": true,
     "PowerUpSystem": true,
-    "PrecisionJumpingSystem": false,
+    "PrecisionJumpingSystem": true,
     "PrefabVariantSystem": false,
     "PressurePlateSystem": false,
     "ProceduralOceanSystem": false,
