@@ -396,7 +396,7 @@
     "PowerUpSystem": true,
     "PrecisionJumpingSystem": true,
     "PrefabVariantSystem": true,
-    "PressurePlateSystem": false,
+    "PressurePlateSystem": true,
     "ProceduralOceanSystem": false,
     "ProfileSyncSystem": false,
     "ProjectileDeflectionSystem": false,
