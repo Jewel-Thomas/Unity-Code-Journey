@@ -405,7 +405,7 @@
     "QuestBranchingSystem": true,
     "QuickTimeEventSystem": true,
     "QuiverSystem": true,
-    "RadarDetectionSystem": false,
+    "RadarDetectionSystem": true,
     "RadialMenuSystem": false,
     "RailShooterSystem": false,
     "RankingSystem": false,
