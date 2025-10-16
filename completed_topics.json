@@ -406,7 +406,7 @@
     "QuickTimeEventSystem": true,
     "QuiverSystem": true,
     "RadarDetectionSystem": true,
-    "RadialMenuSystem": false,
+    "RadialMenuSystem": true,
     "RailShooterSystem": false,
     "RankingSystem": false,
     "RayMarchingEffect": false,
