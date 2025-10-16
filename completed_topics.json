@@ -407,7 +407,7 @@
     "QuiverSystem": true,
     "RadarDetectionSystem": true,
     "RadialMenuSystem": true,
-    "RailShooterSystem": false,
+    "RailShooterSystem": true,
     "RankingSystem": false,
     "RayMarchingEffect": false,
     "RealTimeEconomySystem": false,
