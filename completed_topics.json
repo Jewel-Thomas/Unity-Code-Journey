@@ -404,7 +404,7 @@
     "PuzzleInteractionSystem": true,
     "QuestBranchingSystem": true,
     "QuickTimeEventSystem": true,
-    "QuiverSystem": false,
+    "QuiverSystem": true,
     "RadarDetectionSystem": false,
     "RadialMenuSystem": false,
     "RailShooterSystem": false,
