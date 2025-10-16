@@ -403,7 +403,7 @@
     "ProximityVoiceChat": true,
     "PuzzleInteractionSystem": true,
     "QuestBranchingSystem": true,
-    "QuickTimeEventSystem": false,
+    "QuickTimeEventSystem": true,
     "QuiverSystem": false,
     "RadarDetectionSystem": false,
     "RadialMenuSystem": false,

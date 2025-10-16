@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 404/515 (78.4%)
+## Progress: 405/515 (78.6%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -409,9 +409,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ ProximityVoiceChat
 - ✅ PuzzleInteractionSystem
 - ✅ QuestBranchingSystem
+- ✅ QuickTimeEventSystem
 
 ### Remaining Patterns:
-- ⏳ QuickTimeEventSystem
 - ⏳ QuiverSystem
 - ⏳ RadarDetectionSystem
 - ⏳ RadialMenuSystem
