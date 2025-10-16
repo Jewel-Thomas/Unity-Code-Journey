@@ -401,7 +401,7 @@
     "ProfileSyncSystem": true,
     "ProjectileDeflectionSystem": true,
     "ProximityVoiceChat": true,
-    "PuzzleInteractionSystem": false,
+    "PuzzleInteractionSystem": true,
     "QuestBranchingSystem": false,
     "QuickTimeEventSystem": false,
     "QuiverSystem": false,
