@@ -402,7 +402,7 @@
     "ProjectileDeflectionSystem": true,
     "ProximityVoiceChat": true,
     "PuzzleInteractionSystem": true,
-    "QuestBranchingSystem": false,
+    "QuestBranchingSystem": true,
     "QuickTimeEventSystem": false,
     "QuiverSystem": false,
     "RadarDetectionSystem": false,
