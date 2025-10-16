@@ -408,7 +408,7 @@
     "RadarDetectionSystem": true,
     "RadialMenuSystem": true,
     "RailShooterSystem": true,
-    "RankingSystem": false,
+    "RankingSystem": true,
     "RayMarchingEffect": false,
     "RealTimeEconomySystem": false,
     "RecipeCraftingSystem": false,
