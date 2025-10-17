@@ -411,7 +411,7 @@
     "RankingSystem": true,
     "RayMarchingEffect": true,
     "RealTimeEconomySystem": true,
-    "RecipeCraftingSystem": false,
+    "RecipeCraftingSystem": true,
     "RecoilSystem": false,
     "ReputationDialogueIntegration": false,
     "RespawnAnchorSystem": false,
