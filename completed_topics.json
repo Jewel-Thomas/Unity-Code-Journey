@@ -415,7 +415,7 @@
     "RecoilSystem": true,
     "ReputationDialogueIntegration": true,
     "RespawnAnchorSystem": true,
-    "RestSystem": false,
+    "RestSystem": true,
     "RetroFilterSystem": false,
     "ReverbZoneSystem": false,
     "RideableCreatureSystem": false,
