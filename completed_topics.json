@@ -414,7 +414,7 @@
     "RecipeCraftingSystem": true,
     "RecoilSystem": true,
     "ReputationDialogueIntegration": true,
-    "RespawnAnchorSystem": false,
+    "RespawnAnchorSystem": true,
     "RestSystem": false,
     "RetroFilterSystem": false,
     "ReverbZoneSystem": false,
