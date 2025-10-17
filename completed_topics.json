@@ -410,7 +410,7 @@
     "RailShooterSystem": true,
     "RankingSystem": true,
     "RayMarchingEffect": true,
-    "RealTimeEconomySystem": false,
+    "RealTimeEconomySystem": true,
     "RecipeCraftingSystem": false,
     "RecoilSystem": false,
     "ReputationDialogueIntegration": false,
