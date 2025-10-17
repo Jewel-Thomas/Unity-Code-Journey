@@ -416,7 +416,7 @@
     "ReputationDialogueIntegration": true,
     "RespawnAnchorSystem": true,
     "RestSystem": true,
-    "RetroFilterSystem": false,
+    "RetroFilterSystem": true,
     "ReverbZoneSystem": false,
     "RideableCreatureSystem": false,
     "RopeClimbingSystem": false,
