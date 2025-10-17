@@ -412,7 +412,7 @@
     "RayMarchingEffect": true,
     "RealTimeEconomySystem": true,
     "RecipeCraftingSystem": true,
-    "RecoilSystem": false,
+    "RecoilSystem": true,
     "ReputationDialogueIntegration": false,
     "RespawnAnchorSystem": false,
     "RestSystem": false,
