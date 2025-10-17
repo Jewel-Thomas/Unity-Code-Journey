@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 410/515 (79.6%)
+## Progress: 411/515 (79.8%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -415,9 +415,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ RadialMenuSystem
 - ✅ RailShooterSystem
 - ✅ RankingSystem
+- ✅ RayMarchingEffect
 
 ### Remaining Patterns:
-- ⏳ RayMarchingEffect
 - ⏳ RealTimeEconomySystem
 - ⏳ RecipeCraftingSystem
 - ⏳ RecoilSystem

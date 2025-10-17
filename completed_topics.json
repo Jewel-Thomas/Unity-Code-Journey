@@ -409,7 +409,7 @@
     "RadialMenuSystem": true,
     "RailShooterSystem": true,
     "RankingSystem": true,
-    "RayMarchingEffect": false,
+    "RayMarchingEffect": true,
     "RealTimeEconomySystem": false,
     "RecipeCraftingSystem": false,
     "RecoilSystem": false,
