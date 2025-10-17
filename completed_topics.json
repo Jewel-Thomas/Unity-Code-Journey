@@ -413,7 +413,7 @@
     "RealTimeEconomySystem": true,
     "RecipeCraftingSystem": true,
     "RecoilSystem": true,
-    "ReputationDialogueIntegration": false,
+    "ReputationDialogueIntegration": true,
     "RespawnAnchorSystem": false,
     "RestSystem": false,
     "RetroFilterSystem": false,
