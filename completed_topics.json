@@ -423,7 +423,7 @@
     "RotationConstraintSystem": true,
     "SafeZoneSystem": true,
     "SandstormSystem": true,
-    "SceneLayerSystem": false,
+    "SceneLayerSystem": true,
     "ScoreStreakSystem": false,
     "SeamlessWorldStreaming": false,
     "SeasonalEventSystem": false,

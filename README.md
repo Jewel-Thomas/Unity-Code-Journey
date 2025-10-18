@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 424/515 (82.3%)
+## Progress: 425/515 (82.5%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -429,9 +429,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ RotationConstraintSystem
 - ✅ SafeZoneSystem
 - ✅ SandstormSystem
+- ✅ SceneLayerSystem
 
 ### Remaining Patterns:
-- ⏳ SceneLayerSystem
 - ⏳ ScoreStreakSystem
 - ⏳ SeamlessWorldStreaming
 - ⏳ SeasonalEventSystem
