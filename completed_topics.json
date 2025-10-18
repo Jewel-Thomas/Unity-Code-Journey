@@ -421,7 +421,7 @@
     "RideableCreatureSystem": true,
     "RopeClimbingSystem": true,
     "RotationConstraintSystem": true,
-    "SafeZoneSystem": false,
+    "SafeZoneSystem": true,
     "SandstormSystem": false,
     "SceneLayerSystem": false,
     "ScoreStreakSystem": false,
