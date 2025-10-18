@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 419/515 (81.4%)
+## Progress: 420/515 (81.6%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -424,9 +424,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ RestSystem
 - ✅ RetroFilterSystem
 - ✅ ReverbZoneSystem
+- ✅ RideableCreatureSystem
 
 ### Remaining Patterns:
-- ⏳ RideableCreatureSystem
 - ⏳ RopeClimbingSystem
 - ⏳ RotationConstraintSystem
 - ⏳ SafeZoneSystem

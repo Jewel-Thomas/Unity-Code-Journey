@@ -418,7 +418,7 @@
     "RestSystem": true,
     "RetroFilterSystem": true,
     "ReverbZoneSystem": true,
-    "RideableCreatureSystem": false,
+    "RideableCreatureSystem": true,
     "RopeClimbingSystem": false,
     "RotationConstraintSystem": false,
     "SafeZoneSystem": false,
