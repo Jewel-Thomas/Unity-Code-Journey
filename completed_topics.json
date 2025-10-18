@@ -424,7 +424,7 @@
     "SafeZoneSystem": true,
     "SandstormSystem": true,
     "SceneLayerSystem": true,
-    "ScoreStreakSystem": false,
+    "ScoreStreakSystem": true,
     "SeamlessWorldStreaming": false,
     "SeasonalEventSystem": false,
     "ShadowCloneSystem": false,
