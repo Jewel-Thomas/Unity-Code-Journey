@@ -420,7 +420,7 @@
     "ReverbZoneSystem": true,
     "RideableCreatureSystem": true,
     "RopeClimbingSystem": true,
-    "RotationConstraintSystem": false,
+    "RotationConstraintSystem": true,
     "SafeZoneSystem": false,
     "SandstormSystem": false,
     "SceneLayerSystem": false,
