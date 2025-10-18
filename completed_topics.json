@@ -422,7 +422,7 @@
     "RopeClimbingSystem": true,
     "RotationConstraintSystem": true,
     "SafeZoneSystem": true,
-    "SandstormSystem": false,
+    "SandstormSystem": true,
     "SceneLayerSystem": false,
     "ScoreStreakSystem": false,
     "SeamlessWorldStreaming": false,
