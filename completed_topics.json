@@ -417,7 +417,7 @@
     "RespawnAnchorSystem": true,
     "RestSystem": true,
     "RetroFilterSystem": true,
-    "ReverbZoneSystem": false,
+    "ReverbZoneSystem": true,
     "RideableCreatureSystem": false,
     "RopeClimbingSystem": false,
     "RotationConstraintSystem": false,
