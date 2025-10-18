@@ -419,7 +419,7 @@
     "RetroFilterSystem": true,
     "ReverbZoneSystem": true,
     "RideableCreatureSystem": true,
-    "RopeClimbingSystem": false,
+    "RopeClimbingSystem": true,
     "RotationConstraintSystem": false,
     "SafeZoneSystem": false,
     "SandstormSystem": false,
