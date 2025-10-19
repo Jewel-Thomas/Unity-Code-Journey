@@ -426,7 +426,7 @@
     "SceneLayerSystem": true,
     "ScoreStreakSystem": true,
     "SeamlessWorldStreaming": true,
-    "SeasonalEventSystem": false,
+    "SeasonalEventSystem": true,
     "ShadowCloneSystem": false,
     "ShieldBreakSystem": false,
     "ShipNavigationSystem": false,
