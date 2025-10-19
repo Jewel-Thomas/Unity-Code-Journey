@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 433/515 (84.1%)
+## Progress: 434/515 (84.3%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -438,9 +438,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ ShipNavigationSystem
 - ✅ ShockwaveEffectSystem
 - ✅ ShopInventorySystem
+- ✅ ShoutSystem
 
 ### Remaining Patterns:
-- ⏳ ShoutSystem
 - ⏳ SideQuestTracker
 - ⏳ SignalNoiseSystem
 - ⏳ SkeletalDamageSystem
