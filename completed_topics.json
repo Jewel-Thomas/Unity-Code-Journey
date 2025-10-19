@@ -428,7 +428,7 @@
     "SeamlessWorldStreaming": true,
     "SeasonalEventSystem": true,
     "ShadowCloneSystem": true,
-    "ShieldBreakSystem": false,
+    "ShieldBreakSystem": true,
     "ShipNavigationSystem": false,
     "ShockwaveEffectSystem": false,
     "ShopInventorySystem": false,
