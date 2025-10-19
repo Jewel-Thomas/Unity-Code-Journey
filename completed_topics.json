@@ -429,7 +429,7 @@
     "SeasonalEventSystem": true,
     "ShadowCloneSystem": true,
     "ShieldBreakSystem": true,
-    "ShipNavigationSystem": false,
+    "ShipNavigationSystem": true,
     "ShockwaveEffectSystem": false,
     "ShopInventorySystem": false,
     "ShoutSystem": false,
