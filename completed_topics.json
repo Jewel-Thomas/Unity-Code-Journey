@@ -425,7 +425,7 @@
     "SandstormSystem": true,
     "SceneLayerSystem": true,
     "ScoreStreakSystem": true,
-    "SeamlessWorldStreaming": false,
+    "SeamlessWorldStreaming": true,
     "SeasonalEventSystem": false,
     "ShadowCloneSystem": false,
     "ShieldBreakSystem": false,
