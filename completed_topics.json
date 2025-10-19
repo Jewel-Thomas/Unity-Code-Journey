@@ -430,7 +430,7 @@
     "ShadowCloneSystem": true,
     "ShieldBreakSystem": true,
     "ShipNavigationSystem": true,
-    "ShockwaveEffectSystem": false,
+    "ShockwaveEffectSystem": true,
     "ShopInventorySystem": false,
     "ShoutSystem": false,
     "SideQuestTracker": false,
