@@ -431,7 +431,7 @@
     "ShieldBreakSystem": true,
     "ShipNavigationSystem": true,
     "ShockwaveEffectSystem": true,
-    "ShopInventorySystem": false,
+    "ShopInventorySystem": true,
     "ShoutSystem": false,
     "SideQuestTracker": false,
     "SignalNoiseSystem": false,
