@@ -427,7 +427,7 @@
     "ScoreStreakSystem": true,
     "SeamlessWorldStreaming": true,
     "SeasonalEventSystem": true,
-    "ShadowCloneSystem": false,
+    "ShadowCloneSystem": true,
     "ShieldBreakSystem": false,
     "ShipNavigationSystem": false,
     "ShockwaveEffectSystem": false,
