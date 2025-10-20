@@ -439,7 +439,7 @@
     "SkillCooldownSystem": true,
     "SkyIslandSystem": true,
     "SlowMotionController": true,
-    "SmartDialogueChoices": false,
+    "SmartDialogueChoices": true,
     "SmokeEffectSystem": false,
     "SocialHubSystem": false,
     "SoftBodyPhysicsSystem": false,
