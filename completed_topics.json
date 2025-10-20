@@ -437,7 +437,7 @@
     "SignalNoiseSystem": true,
     "SkeletalDamageSystem": true,
     "SkillCooldownSystem": true,
-    "SkyIslandSystem": false,
+    "SkyIslandSystem": true,
     "SlowMotionController": false,
     "SmartDialogueChoices": false,
     "SmokeEffectSystem": false,
