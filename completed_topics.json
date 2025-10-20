@@ -440,7 +440,7 @@
     "SkyIslandSystem": true,
     "SlowMotionController": true,
     "SmartDialogueChoices": true,
-    "SmokeEffectSystem": false,
+    "SmokeEffectSystem": true,
     "SocialHubSystem": false,
     "SoftBodyPhysicsSystem": false,
     "SoundtrackRandomizer": false,
