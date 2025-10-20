@@ -433,7 +433,7 @@
     "ShockwaveEffectSystem": true,
     "ShopInventorySystem": true,
     "ShoutSystem": true,
-    "SideQuestTracker": false,
+    "SideQuestTracker": true,
     "SignalNoiseSystem": false,
     "SkeletalDamageSystem": false,
     "SkillCooldownSystem": false,
