@@ -434,7 +434,7 @@
     "ShopInventorySystem": true,
     "ShoutSystem": true,
     "SideQuestTracker": true,
-    "SignalNoiseSystem": false,
+    "SignalNoiseSystem": true,
     "SkeletalDamageSystem": false,
     "SkillCooldownSystem": false,
     "SkyIslandSystem": false,
