@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 439/515 (85.2%)
+## Progress: 440/515 (85.4%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -444,9 +444,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ SkeletalDamageSystem
 - ✅ SkillCooldownSystem
 - ✅ SkyIslandSystem
+- ✅ SlowMotionController
 
 ### Remaining Patterns:
-- ⏳ SlowMotionController
 - ⏳ SmartDialogueChoices
 - ⏳ SmokeEffectSystem
 - ⏳ SocialHubSystem

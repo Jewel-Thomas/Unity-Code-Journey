@@ -438,7 +438,7 @@
     "SkeletalDamageSystem": true,
     "SkillCooldownSystem": true,
     "SkyIslandSystem": true,
-    "SlowMotionController": false,
+    "SlowMotionController": true,
     "SmartDialogueChoices": false,
     "SmokeEffectSystem": false,
     "SocialHubSystem": false,
