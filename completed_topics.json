@@ -436,7 +436,7 @@
     "SideQuestTracker": true,
     "SignalNoiseSystem": true,
     "SkeletalDamageSystem": true,
-    "SkillCooldownSystem": false,
+    "SkillCooldownSystem": true,
     "SkyIslandSystem": false,
     "SlowMotionController": false,
     "SmartDialogueChoices": false,
