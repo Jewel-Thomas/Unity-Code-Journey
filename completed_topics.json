@@ -448,7 +448,7 @@
     "SpeedrunTimerSystem": true,
     "SpellCastingSystem": true,
     "SplashScreenManager": true,
-    "SprintStaminaSystem": false,
+    "SprintStaminaSystem": true,
     "SquadCommandSystem": false,
     "StanceSwitchSystem": false,
     "StarMapSystem": false,
