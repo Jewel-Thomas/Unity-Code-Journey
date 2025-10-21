@@ -444,7 +444,7 @@
     "SocialHubSystem": true,
     "SoftBodyPhysicsSystem": true,
     "SoundtrackRandomizer": true,
-    "SpectatorModeSystem": false,
+    "SpectatorModeSystem": true,
     "SpeedrunTimerSystem": false,
     "SpellCastingSystem": false,
     "SplashScreenManager": false,
