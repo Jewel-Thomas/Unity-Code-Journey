@@ -446,7 +446,7 @@
     "SoundtrackRandomizer": true,
     "SpectatorModeSystem": true,
     "SpeedrunTimerSystem": true,
-    "SpellCastingSystem": false,
+    "SpellCastingSystem": true,
     "SplashScreenManager": false,
     "SprintStaminaSystem": false,
     "SquadCommandSystem": false,

@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 447/515 (86.8%)
+## Progress: 448/515 (87.0%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -452,9 +452,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ SoundtrackRandomizer
 - ✅ SpectatorModeSystem
 - ✅ SpeedrunTimerSystem
+- ✅ SpellCastingSystem
 
 ### Remaining Patterns:
-- ⏳ SpellCastingSystem
 - ⏳ SplashScreenManager
 - ⏳ SprintStaminaSystem
 - ⏳ SquadCommandSystem
