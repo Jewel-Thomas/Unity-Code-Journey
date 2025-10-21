@@ -443,7 +443,7 @@
     "SmokeEffectSystem": true,
     "SocialHubSystem": true,
     "SoftBodyPhysicsSystem": true,
-    "SoundtrackRandomizer": false,
+    "SoundtrackRandomizer": true,
     "SpectatorModeSystem": false,
     "SpeedrunTimerSystem": false,
     "SpellCastingSystem": false,
