@@ -447,7 +447,7 @@
     "SpectatorModeSystem": true,
     "SpeedrunTimerSystem": true,
     "SpellCastingSystem": true,
-    "SplashScreenManager": false,
+    "SplashScreenManager": true,
     "SprintStaminaSystem": false,
     "SquadCommandSystem": false,
     "StanceSwitchSystem": false,
