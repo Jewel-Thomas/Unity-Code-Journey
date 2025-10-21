@@ -441,7 +441,7 @@
     "SlowMotionController": true,
     "SmartDialogueChoices": true,
     "SmokeEffectSystem": true,
-    "SocialHubSystem": false,
+    "SocialHubSystem": true,
     "SoftBodyPhysicsSystem": false,
     "SoundtrackRandomizer": false,
     "SpectatorModeSystem": false,
