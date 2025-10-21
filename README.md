@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 443/515 (86.0%)
+## Progress: 444/515 (86.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -448,9 +448,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ SmartDialogueChoices
 - ✅ SmokeEffectSystem
 - ✅ SocialHubSystem
+- ✅ SoftBodyPhysicsSystem
 
 ### Remaining Patterns:
-- ⏳ SoftBodyPhysicsSystem
 - ⏳ SoundtrackRandomizer
 - ⏳ SpectatorModeSystem
 - ⏳ SpeedrunTimerSystem

@@ -442,7 +442,7 @@
     "SmartDialogueChoices": true,
     "SmokeEffectSystem": true,
     "SocialHubSystem": true,
-    "SoftBodyPhysicsSystem": false,
+    "SoftBodyPhysicsSystem": true,
     "SoundtrackRandomizer": false,
     "SpectatorModeSystem": false,
     "SpeedrunTimerSystem": false,
