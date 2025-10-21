@@ -445,7 +445,7 @@
     "SoftBodyPhysicsSystem": true,
     "SoundtrackRandomizer": true,
     "SpectatorModeSystem": true,
-    "SpeedrunTimerSystem": false,
+    "SpeedrunTimerSystem": true,
     "SpellCastingSystem": false,
     "SplashScreenManager": false,
     "SprintStaminaSystem": false,
