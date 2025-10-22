@@ -456,7 +456,7 @@
     "StoryArcManager": true,
     "StreamingVoiceOvers": true,
     "StressTestSystem": true,
-    "SubtitlesLocalizationSystem": false,
+    "SubtitlesLocalizationSystem": true,
     "SummoningSystem": false,
     "SurfaceMaterialSystem": false,
     "SurvivalNeedsSystem": false,

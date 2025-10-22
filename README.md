@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 457/515 (88.7%)
+## Progress: 458/515 (88.9%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -462,9 +462,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ StoryArcManager
 - ✅ StreamingVoiceOvers
 - ✅ StressTestSystem
+- ✅ SubtitlesLocalizationSystem
 
 ### Remaining Patterns:
-- ⏳ SubtitlesLocalizationSystem
 - ⏳ SummoningSystem
 - ⏳ SurfaceMaterialSystem
 - ⏳ SurvivalNeedsSystem
