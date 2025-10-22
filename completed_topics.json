@@ -451,7 +451,7 @@
     "SprintStaminaSystem": true,
     "SquadCommandSystem": true,
     "StanceSwitchSystem": true,
-    "StarMapSystem": false,
+    "StarMapSystem": true,
     "StealthKillSystem": false,
     "StoryArcManager": false,
     "StreamingVoiceOvers": false,
