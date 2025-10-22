@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 453/515 (88.0%)
+## Progress: 454/515 (88.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -458,9 +458,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ SquadCommandSystem
 - ✅ StanceSwitchSystem
 - ✅ StarMapSystem
+- ✅ StealthKillSystem
 
 ### Remaining Patterns:
-- ⏳ StealthKillSystem
 - ⏳ StoryArcManager
 - ⏳ StreamingVoiceOvers
 - ⏳ StressTestSystem

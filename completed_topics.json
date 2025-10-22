@@ -452,7 +452,7 @@
     "SquadCommandSystem": true,
     "StanceSwitchSystem": true,
     "StarMapSystem": true,
-    "StealthKillSystem": false,
+    "StealthKillSystem": true,
     "StoryArcManager": false,
     "StreamingVoiceOvers": false,
     "StressTestSystem": false,
