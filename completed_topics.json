@@ -455,7 +455,7 @@
     "StealthKillSystem": true,
     "StoryArcManager": true,
     "StreamingVoiceOvers": true,
-    "StressTestSystem": false,
+    "StressTestSystem": true,
     "SubtitlesLocalizationSystem": false,
     "SummoningSystem": false,
     "SurfaceMaterialSystem": false,
