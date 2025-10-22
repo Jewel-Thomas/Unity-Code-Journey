@@ -449,7 +449,7 @@
     "SpellCastingSystem": true,
     "SplashScreenManager": true,
     "SprintStaminaSystem": true,
-    "SquadCommandSystem": false,
+    "SquadCommandSystem": true,
     "StanceSwitchSystem": false,
     "StarMapSystem": false,
     "StealthKillSystem": false,
