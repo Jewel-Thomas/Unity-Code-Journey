@@ -450,7 +450,7 @@
     "SplashScreenManager": true,
     "SprintStaminaSystem": true,
     "SquadCommandSystem": true,
-    "StanceSwitchSystem": false,
+    "StanceSwitchSystem": true,
     "StarMapSystem": false,
     "StealthKillSystem": false,
     "StoryArcManager": false,
