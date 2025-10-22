@@ -453,7 +453,7 @@
     "StanceSwitchSystem": true,
     "StarMapSystem": true,
     "StealthKillSystem": true,
-    "StoryArcManager": false,
+    "StoryArcManager": true,
     "StreamingVoiceOvers": false,
     "StressTestSystem": false,
     "SubtitlesLocalizationSystem": false,
