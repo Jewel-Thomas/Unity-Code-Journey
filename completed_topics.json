@@ -462,7 +462,7 @@
     "SurvivalNeedsSystem": true,
     "SwimmingStaminaSystem": true,
     "SymmetryBuildingSystem": true,
-    "SyncedAnimationSystem": false,
+    "SyncedAnimationSystem": true,
     "TargetDummySystem": false,
     "TeleportationSystem": false,
     "TemperatureSystem": false,
