@@ -464,7 +464,7 @@
     "SymmetryBuildingSystem": true,
     "SyncedAnimationSystem": true,
     "TargetDummySystem": true,
-    "TeleportationSystem": false,
+    "TeleportationSystem": true,
     "TemperatureSystem": false,
     "TerrainBlendingSystem": false,
     "ThrowableWeaponSystem": false,
