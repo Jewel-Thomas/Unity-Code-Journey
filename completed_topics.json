@@ -459,7 +459,7 @@
     "SubtitlesLocalizationSystem": true,
     "SummoningSystem": true,
     "SurfaceMaterialSystem": true,
-    "SurvivalNeedsSystem": false,
+    "SurvivalNeedsSystem": true,
     "SwimmingStaminaSystem": false,
     "SymmetryBuildingSystem": false,
     "SyncedAnimationSystem": false,
