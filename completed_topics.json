@@ -461,7 +461,7 @@
     "SurfaceMaterialSystem": true,
     "SurvivalNeedsSystem": true,
     "SwimmingStaminaSystem": true,
-    "SymmetryBuildingSystem": false,
+    "SymmetryBuildingSystem": true,
     "SyncedAnimationSystem": false,
     "TargetDummySystem": false,
     "TeleportationSystem": false,
