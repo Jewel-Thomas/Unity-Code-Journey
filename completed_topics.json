@@ -463,7 +463,7 @@
     "SwimmingStaminaSystem": true,
     "SymmetryBuildingSystem": true,
     "SyncedAnimationSystem": true,
-    "TargetDummySystem": false,
+    "TargetDummySystem": true,
     "TeleportationSystem": false,
     "TemperatureSystem": false,
     "TerrainBlendingSystem": false,
