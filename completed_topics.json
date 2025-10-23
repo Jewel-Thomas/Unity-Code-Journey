@@ -460,7 +460,7 @@
     "SummoningSystem": true,
     "SurfaceMaterialSystem": true,
     "SurvivalNeedsSystem": true,
-    "SwimmingStaminaSystem": false,
+    "SwimmingStaminaSystem": true,
     "SymmetryBuildingSystem": false,
     "SyncedAnimationSystem": false,
     "TargetDummySystem": false,
