@@ -457,7 +457,7 @@
     "StreamingVoiceOvers": true,
     "StressTestSystem": true,
     "SubtitlesLocalizationSystem": true,
-    "SummoningSystem": false,
+    "SummoningSystem": true,
     "SurfaceMaterialSystem": false,
     "SurvivalNeedsSystem": false,
     "SwimmingStaminaSystem": false,

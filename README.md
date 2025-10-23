@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 458/515 (88.9%)
+## Progress: 459/515 (89.1%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -463,9 +463,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ StreamingVoiceOvers
 - ✅ StressTestSystem
 - ✅ SubtitlesLocalizationSystem
+- ✅ SummoningSystem
 
 ### Remaining Patterns:
-- ⏳ SummoningSystem
 - ⏳ SurfaceMaterialSystem
 - ⏳ SurvivalNeedsSystem
 - ⏳ SwimmingStaminaSystem
