@@ -458,7 +458,7 @@
     "StressTestSystem": true,
     "SubtitlesLocalizationSystem": true,
     "SummoningSystem": true,
-    "SurfaceMaterialSystem": false,
+    "SurfaceMaterialSystem": true,
     "SurvivalNeedsSystem": false,
     "SwimmingStaminaSystem": false,
     "SymmetryBuildingSystem": false,
