@@ -465,7 +465,7 @@
     "SyncedAnimationSystem": true,
     "TargetDummySystem": true,
     "TeleportationSystem": true,
-    "TemperatureSystem": false,
+    "TemperatureSystem": true,
     "TerrainBlendingSystem": false,
     "ThrowableWeaponSystem": false,
     "TimeDilationSystem": false,
