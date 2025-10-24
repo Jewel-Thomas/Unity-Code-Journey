@@ -466,7 +466,7 @@
     "TargetDummySystem": true,
     "TeleportationSystem": true,
     "TemperatureSystem": true,
-    "TerrainBlendingSystem": false,
+    "TerrainBlendingSystem": true,
     "ThrowableWeaponSystem": false,
     "TimeDilationSystem": false,
     "TimeFreezeSystem": false,
