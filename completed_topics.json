@@ -472,7 +472,7 @@
     "TimeFreezeSystem": true,
     "ToxicGasSystem": true,
     "TradeRouteSystem": true,
-    "TrainingModeSystem": false,
+    "TrainingModeSystem": true,
     "TransformSyncSystem": false,
     "TrapPlacementSystem": false,
     "TreasureHuntSystem": false,
