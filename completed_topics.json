@@ -470,7 +470,7 @@
     "ThrowableWeaponSystem": true,
     "TimeDilationSystem": true,
     "TimeFreezeSystem": true,
-    "ToxicGasSystem": false,
+    "ToxicGasSystem": true,
     "TradeRouteSystem": false,
     "TrainingModeSystem": false,
     "TransformSyncSystem": false,
