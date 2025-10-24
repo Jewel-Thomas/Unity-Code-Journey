@@ -469,7 +469,7 @@
     "TerrainBlendingSystem": true,
     "ThrowableWeaponSystem": true,
     "TimeDilationSystem": true,
-    "TimeFreezeSystem": false,
+    "TimeFreezeSystem": true,
     "ToxicGasSystem": false,
     "TradeRouteSystem": false,
     "TrainingModeSystem": false,
