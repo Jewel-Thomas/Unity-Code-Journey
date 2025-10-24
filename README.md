@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 468/515 (90.9%)
+## Progress: 469/515 (91.1%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -473,9 +473,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ TeleportationSystem
 - ✅ TemperatureSystem
 - ✅ TerrainBlendingSystem
+- ✅ ThrowableWeaponSystem
 
 ### Remaining Patterns:
-- ⏳ ThrowableWeaponSystem
 - ⏳ TimeDilationSystem
 - ⏳ TimeFreezeSystem
 - ⏳ ToxicGasSystem
