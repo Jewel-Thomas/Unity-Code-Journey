@@ -468,7 +468,7 @@
     "TemperatureSystem": true,
     "TerrainBlendingSystem": true,
     "ThrowableWeaponSystem": true,
-    "TimeDilationSystem": false,
+    "TimeDilationSystem": true,
     "TimeFreezeSystem": false,
     "ToxicGasSystem": false,
     "TradeRouteSystem": false,
