@@ -471,7 +471,7 @@
     "TimeDilationSystem": true,
     "TimeFreezeSystem": true,
     "ToxicGasSystem": true,
-    "TradeRouteSystem": false,
+    "TradeRouteSystem": true,
     "TrainingModeSystem": false,
     "TransformSyncSystem": false,
     "TrapPlacementSystem": false,
