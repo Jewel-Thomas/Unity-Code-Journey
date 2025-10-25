@@ -475,7 +475,7 @@
     "TrainingModeSystem": true,
     "TransformSyncSystem": true,
     "TrapPlacementSystem": true,
-    "TreasureHuntSystem": false,
+    "TreasureHuntSystem": true,
     "TriggerZoneSystem": false,
     "TurnBasedCombatSystem": false,
     "UIAccessibilitySystem": false,

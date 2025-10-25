@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 476/515 (92.4%)
+## Progress: 477/515 (92.6%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -481,9 +481,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ TrainingModeSystem
 - ✅ TransformSyncSystem
 - ✅ TrapPlacementSystem
+- ✅ TreasureHuntSystem
 
 ### Remaining Patterns:
-- ⏳ TreasureHuntSystem
 - ⏳ TriggerZoneSystem
 - ⏳ TurnBasedCombatSystem
 - ⏳ UIAccessibilitySystem
