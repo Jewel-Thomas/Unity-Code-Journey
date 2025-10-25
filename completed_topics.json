@@ -474,7 +474,7 @@
     "TradeRouteSystem": true,
     "TrainingModeSystem": true,
     "TransformSyncSystem": true,
-    "TrapPlacementSystem": false,
+    "TrapPlacementSystem": true,
     "TreasureHuntSystem": false,
     "TriggerZoneSystem": false,
     "TurnBasedCombatSystem": false,
