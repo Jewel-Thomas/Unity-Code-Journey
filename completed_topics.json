@@ -473,7 +473,7 @@
     "ToxicGasSystem": true,
     "TradeRouteSystem": true,
     "TrainingModeSystem": true,
-    "TransformSyncSystem": false,
+    "TransformSyncSystem": true,
     "TrapPlacementSystem": false,
     "TreasureHuntSystem": false,
     "TriggerZoneSystem": false,
