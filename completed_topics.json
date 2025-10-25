@@ -478,7 +478,7 @@
     "TreasureHuntSystem": true,
     "TriggerZoneSystem": true,
     "TurnBasedCombatSystem": true,
-    "UIAccessibilitySystem": false,
+    "UIAccessibilitySystem": true,
     "UIDebugOverlay": false,
     "UIItemDragDrop": false,
     "UIModularWindowSystem": false,
