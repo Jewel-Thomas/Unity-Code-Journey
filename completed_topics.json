@@ -480,7 +480,7 @@
     "TurnBasedCombatSystem": true,
     "UIAccessibilitySystem": true,
     "UIDebugOverlay": true,
-    "UIItemDragDrop": false,
+    "UIItemDragDrop": true,
     "UIModularWindowSystem": false,
     "UISafeAreaManager": false,
     "UnderwaterEffectSystem": false,
