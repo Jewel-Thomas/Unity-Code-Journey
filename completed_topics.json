@@ -479,7 +479,7 @@
     "TriggerZoneSystem": true,
     "TurnBasedCombatSystem": true,
     "UIAccessibilitySystem": true,
-    "UIDebugOverlay": false,
+    "UIDebugOverlay": true,
     "UIItemDragDrop": false,
     "UIModularWindowSystem": false,
     "UISafeAreaManager": false,
