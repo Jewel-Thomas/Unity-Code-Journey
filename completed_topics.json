@@ -482,7 +482,7 @@
     "UIDebugOverlay": true,
     "UIItemDragDrop": true,
     "UIModularWindowSystem": true,
-    "UISafeAreaManager": false,
+    "UISafeAreaManager": true,
     "UnderwaterEffectSystem": false,
     "UnlockableSystem": false,
     "UserGeneratedContentSystem": false,
