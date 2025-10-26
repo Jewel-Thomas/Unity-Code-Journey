@@ -481,7 +481,7 @@
     "UIAccessibilitySystem": true,
     "UIDebugOverlay": true,
     "UIItemDragDrop": true,
-    "UIModularWindowSystem": false,
+    "UIModularWindowSystem": true,
     "UISafeAreaManager": false,
     "UnderwaterEffectSystem": false,
     "UnlockableSystem": false,
