@@ -484,7 +484,7 @@
     "UIModularWindowSystem": true,
     "UISafeAreaManager": true,
     "UnderwaterEffectSystem": true,
-    "UnlockableSystem": false,
+    "UnlockableSystem": true,
     "UserGeneratedContentSystem": false,
     "VFXGraphIntegration": false,
     "VRClimbingSystem": false,
