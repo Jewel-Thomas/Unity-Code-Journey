@@ -486,7 +486,7 @@
     "UnderwaterEffectSystem": true,
     "UnlockableSystem": true,
     "UserGeneratedContentSystem": true,
-    "VFXGraphIntegration": false,
+    "VFXGraphIntegration": true,
     "VRClimbingSystem": false,
     "VRGestureSystem": false,
     "VRLocomotionSystem": false,
