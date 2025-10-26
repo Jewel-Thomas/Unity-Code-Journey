@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 484/515 (94.0%)
+## Progress: 485/515 (94.2%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -489,9 +489,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ UIItemDragDrop
 - ✅ UIModularWindowSystem
 - ✅ UISafeAreaManager
+- ✅ UnderwaterEffectSystem
 
 ### Remaining Patterns:
-- ⏳ UnderwaterEffectSystem
 - ⏳ UnlockableSystem
 - ⏳ UserGeneratedContentSystem
 - ⏳ VFXGraphIntegration
