@@ -488,7 +488,7 @@
     "UserGeneratedContentSystem": true,
     "VFXGraphIntegration": true,
     "VRClimbingSystem": true,
-    "VRGestureSystem": false,
+    "VRGestureSystem": true,
     "VRLocomotionSystem": false,
     "VRPresenceSystem": false,
     "VRWeaponSystem": false,
