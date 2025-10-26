@@ -485,7 +485,7 @@
     "UISafeAreaManager": true,
     "UnderwaterEffectSystem": true,
     "UnlockableSystem": true,
-    "UserGeneratedContentSystem": false,
+    "UserGeneratedContentSystem": true,
     "VFXGraphIntegration": false,
     "VRClimbingSystem": false,
     "VRGestureSystem": false,
