@@ -495,7 +495,7 @@
     "VehicleDamageSystem": true,
     "VehicleUpgradeSystem": true,
     "VendingMachineSystem": true,
-    "VoiceCommandSystem": false,
+    "VoiceCommandSystem": true,
     "VoiceOverTriggerSystem": false,
     "VolcanoEruptionSystem": false,
     "VolumetricFogSystem": false,
