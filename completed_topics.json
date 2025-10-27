@@ -489,7 +489,7 @@
     "VFXGraphIntegration": true,
     "VRClimbingSystem": true,
     "VRGestureSystem": true,
-    "VRLocomotionSystem": false,
+    "VRLocomotionSystem": true,
     "VRPresenceSystem": false,
     "VRWeaponSystem": false,
     "VehicleDamageSystem": false,

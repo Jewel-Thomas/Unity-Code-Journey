@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 490/515 (95.1%)
+## Progress: 491/515 (95.3%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -495,9 +495,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ VFXGraphIntegration
 - ✅ VRClimbingSystem
 - ✅ VRGestureSystem
+- ✅ VRLocomotionSystem
 
 ### Remaining Patterns:
-- ⏳ VRLocomotionSystem
 - ⏳ VRPresenceSystem
 - ⏳ VRWeaponSystem
 - ⏳ VehicleDamageSystem
