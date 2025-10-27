@@ -494,7 +494,7 @@
     "VRWeaponSystem": true,
     "VehicleDamageSystem": true,
     "VehicleUpgradeSystem": true,
-    "VendingMachineSystem": false,
+    "VendingMachineSystem": true,
     "VoiceCommandSystem": false,
     "VoiceOverTriggerSystem": false,
     "VolcanoEruptionSystem": false,

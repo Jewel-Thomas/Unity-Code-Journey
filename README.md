@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 495/515 (96.1%)
+## Progress: 496/515 (96.3%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -500,9 +500,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ VRWeaponSystem
 - ✅ VehicleDamageSystem
 - ✅ VehicleUpgradeSystem
+- ✅ VendingMachineSystem
 
 ### Remaining Patterns:
-- ⏳ VendingMachineSystem
 - ⏳ VoiceCommandSystem
 - ⏳ VoiceOverTriggerSystem
 - ⏳ VolcanoEruptionSystem
