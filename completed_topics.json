@@ -496,7 +496,7 @@
     "VehicleUpgradeSystem": true,
     "VendingMachineSystem": true,
     "VoiceCommandSystem": true,
-    "VoiceOverTriggerSystem": false,
+    "VoiceOverTriggerSystem": true,
     "VolcanoEruptionSystem": false,
     "VolumetricFogSystem": false,
     "WallRunSystem": false,
