@@ -493,7 +493,7 @@
     "VRPresenceSystem": true,
     "VRWeaponSystem": true,
     "VehicleDamageSystem": true,
-    "VehicleUpgradeSystem": false,
+    "VehicleUpgradeSystem": true,
     "VendingMachineSystem": false,
     "VoiceCommandSystem": false,
     "VoiceOverTriggerSystem": false,
