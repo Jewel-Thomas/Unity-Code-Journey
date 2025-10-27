@@ -490,7 +490,7 @@
     "VRClimbingSystem": true,
     "VRGestureSystem": true,
     "VRLocomotionSystem": true,
-    "VRPresenceSystem": false,
+    "VRPresenceSystem": true,
     "VRWeaponSystem": false,
     "VehicleDamageSystem": false,
     "VehicleUpgradeSystem": false,
