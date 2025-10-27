@@ -491,7 +491,7 @@
     "VRGestureSystem": true,
     "VRLocomotionSystem": true,
     "VRPresenceSystem": true,
-    "VRWeaponSystem": false,
+    "VRWeaponSystem": true,
     "VehicleDamageSystem": false,
     "VehicleUpgradeSystem": false,
     "VendingMachineSystem": false,
