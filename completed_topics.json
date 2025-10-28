@@ -498,7 +498,7 @@
     "VoiceCommandSystem": true,
     "VoiceOverTriggerSystem": true,
     "VolcanoEruptionSystem": true,
-    "VolumetricFogSystem": false,
+    "VolumetricFogSystem": true,
     "WallRunSystem": false,
     "WarpZoneSystem": false,
     "WaterBuoyancySystem": false,
