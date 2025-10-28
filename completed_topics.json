@@ -501,7 +501,7 @@
     "VolumetricFogSystem": true,
     "WallRunSystem": true,
     "WarpZoneSystem": true,
-    "WaterBuoyancySystem": false,
+    "WaterBuoyancySystem": true,
     "WaterCurrentSystem": false,
     "WeaponDurabilitySystem": false,
     "WeaponHolsterSystem": false,
