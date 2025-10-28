@@ -502,7 +502,7 @@
     "WallRunSystem": true,
     "WarpZoneSystem": true,
     "WaterBuoyancySystem": true,
-    "WaterCurrentSystem": false,
+    "WaterCurrentSystem": true,
     "WeaponDurabilitySystem": false,
     "WeaponHolsterSystem": false,
     "WeaponJamSystem": false,
