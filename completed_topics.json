@@ -500,7 +500,7 @@
     "VolcanoEruptionSystem": true,
     "VolumetricFogSystem": true,
     "WallRunSystem": true,
-    "WarpZoneSystem": false,
+    "WarpZoneSystem": true,
     "WaterBuoyancySystem": false,
     "WaterCurrentSystem": false,
     "WeaponDurabilitySystem": false,

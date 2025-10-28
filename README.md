@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 501/515 (97.3%)
+## Progress: 502/515 (97.5%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -506,9 +506,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ VolcanoEruptionSystem
 - ✅ VolumetricFogSystem
 - ✅ WallRunSystem
+- ✅ WarpZoneSystem
 
 ### Remaining Patterns:
-- ⏳ WarpZoneSystem
 - ⏳ WaterBuoyancySystem
 - ⏳ WaterCurrentSystem
 - ⏳ WeaponDurabilitySystem
