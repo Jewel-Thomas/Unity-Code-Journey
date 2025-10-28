@@ -499,7 +499,7 @@
     "VoiceOverTriggerSystem": true,
     "VolcanoEruptionSystem": true,
     "VolumetricFogSystem": true,
-    "WallRunSystem": false,
+    "WallRunSystem": true,
     "WarpZoneSystem": false,
     "WaterBuoyancySystem": false,
     "WaterCurrentSystem": false,
