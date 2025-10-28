@@ -497,7 +497,7 @@
     "VendingMachineSystem": true,
     "VoiceCommandSystem": true,
     "VoiceOverTriggerSystem": true,
-    "VolcanoEruptionSystem": false,
+    "VolcanoEruptionSystem": true,
     "VolumetricFogSystem": false,
     "WallRunSystem": false,
     "WarpZoneSystem": false,
