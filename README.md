@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 504/515 (97.9%)
+## Progress: 505/515 (98.1%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -509,9 +509,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ WarpZoneSystem
 - ✅ WaterBuoyancySystem
 - ✅ WaterCurrentSystem
+- ✅ WeaponDurabilitySystem
 
 ### Remaining Patterns:
-- ⏳ WeaponDurabilitySystem
 - ⏳ WeaponHolsterSystem
 - ⏳ WeaponJamSystem
 - ⏳ WeatherVFXSystem

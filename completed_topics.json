@@ -503,7 +503,7 @@
     "WarpZoneSystem": true,
     "WaterBuoyancySystem": true,
     "WaterCurrentSystem": true,
-    "WeaponDurabilitySystem": false,
+    "WeaponDurabilitySystem": true,
     "WeaponHolsterSystem": false,
     "WeaponJamSystem": false,
     "WeatherVFXSystem": false,
