@@ -509,7 +509,7 @@
     "WeatherVFXSystem": true,
     "WebRequestSystem": true,
     "WindZoneSystem": true,
-    "WorldMapSystem": false,
+    "WorldMapSystem": true,
     "WorldPersistenceSystem": false,
     "XPBoostSystem": false,
     "ZoneTransitionSystem": false,
