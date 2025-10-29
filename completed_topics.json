@@ -511,7 +511,7 @@
     "WindZoneSystem": true,
     "WorldMapSystem": true,
     "WorldPersistenceSystem": true,
-    "XPBoostSystem": false,
+    "XPBoostSystem": true,
     "ZoneTransitionSystem": false,
     "ZoomCameraSystem": false
 }
