@@ -510,7 +510,7 @@
     "WebRequestSystem": true,
     "WindZoneSystem": true,
     "WorldMapSystem": true,
-    "WorldPersistenceSystem": false,
+    "WorldPersistenceSystem": true,
     "XPBoostSystem": false,
     "ZoneTransitionSystem": false,
     "ZoomCameraSystem": false
