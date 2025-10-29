@@ -508,7 +508,7 @@
     "WeaponJamSystem": true,
     "WeatherVFXSystem": true,
     "WebRequestSystem": true,
-    "WindZoneSystem": false,
+    "WindZoneSystem": true,
     "WorldMapSystem": false,
     "WorldPersistenceSystem": false,
     "XPBoostSystem": false,
