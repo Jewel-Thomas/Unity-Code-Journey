@@ -505,7 +505,7 @@
     "WaterCurrentSystem": true,
     "WeaponDurabilitySystem": true,
     "WeaponHolsterSystem": true,
-    "WeaponJamSystem": false,
+    "WeaponJamSystem": true,
     "WeatherVFXSystem": false,
     "WebRequestSystem": false,
     "WindZoneSystem": false,
