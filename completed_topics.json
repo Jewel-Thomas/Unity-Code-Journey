@@ -507,7 +507,7 @@
     "WeaponHolsterSystem": true,
     "WeaponJamSystem": true,
     "WeatherVFXSystem": true,
-    "WebRequestSystem": false,
+    "WebRequestSystem": true,
     "WindZoneSystem": false,
     "WorldMapSystem": false,
     "WorldPersistenceSystem": false,

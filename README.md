@@ -2,7 +2,7 @@
 
 This repository contains practical examples of design patterns implemented in Unity C#.
 
-## Progress: 508/515 (98.6%)
+## Progress: 509/515 (98.8%)
 
 ### Completed Patterns:
 - ✅ Singleton
@@ -513,9 +513,9 @@ This repository contains practical examples of design patterns implemented in Un
 - ✅ WeaponHolsterSystem
 - ✅ WeaponJamSystem
 - ✅ WeatherVFXSystem
+- ✅ WebRequestSystem
 
 ### Remaining Patterns:
-- ⏳ WebRequestSystem
 - ⏳ WindZoneSystem
 - ⏳ WorldMapSystem
 - ⏳ WorldPersistenceSystem
