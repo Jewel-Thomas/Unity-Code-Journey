@@ -513,5 +513,5 @@
     "WorldPersistenceSystem": true,
     "XPBoostSystem": true,
     "ZoneTransitionSystem": true,
-    "ZoomCameraSystem": false
+    "ZoomCameraSystem": true
 }
